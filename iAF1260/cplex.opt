@@ -1,0 +1,14 @@
+*feasibtol 1.000001e-9
+epopt 1.000000e-9
+eprhs 1.000000e-9
+epint 1.000000e-9
+*preind 0
+mipemphasis 0
+varsel 3
+bndstrenind -1
+nodefileind 2
+nodesel 2
+bbinterval 5
+*relaxfixedinfeas 1
+workmem 2500
+mipstart 0

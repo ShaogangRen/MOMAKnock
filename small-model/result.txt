@@ -1,0 +1,247 @@
+OptKnock
+
+
+
+
+k = 2
+
+
+----   1430 PARAMETER filetype             =   0.00000000  
+
+----   1433 PARAMETER count                =   1.00000000  
+
+----   1436 PARAMETER wv                   =  3.120529E+6  
+
+----   1440 PARAMETER biomassV             =   2.98980477  
+
+----   1443 VARIABLE z.L                   =  87.17373755  
+
+----   1444 PARAMETER allowknock           =   3.00000000  
+
+----   1445 Identified y
+
+----   1448 PARAMETER yneg  
+
+4_f 1.00000000,    44  1.00000000
+
+
+
+---   1249 PARAMETER msucc                =        8.813  
+
+----   1253 PARAMETER mbiomass             =        2.511  
+
+----   1258 PARAMETER dist                 =    18303.311  
+
+
+
+
+
+
+
+k = 3
+----   1424 PARAMETER filetype             =   0.00000000  
+
+----   1427 PARAMETER count                =   1.00000000  
+
+----   1430 PARAMETER wv                   =  3.112552E+6  
+
+----   1434 PARAMETER biomassV             =   3.12985780  
+
+----   1437 VARIABLE z.L                   =  81.88855620  
+
+----   1438 PARAMETER allowknock           =   4.00000000  
+
+----   1439 Identified y
+
+----   1442 PARAMETER yneg  
+
+9   1.00000000,    4_f 1.00000000,    72  1.00000000
+
+
+=======
+----   1249 PARAMETER msucc                =        7.806  
+
+----   1253 PARAMETER mbiomass             =        2.608  
+
+----   1258 PARAMETER dist                 =    18234.718  
+
+
+
+
+k= 4
+
+----   1426 PARAMETER filetype             =   0.00000000  
+
+----   1429 PARAMETER count                =   1.00000000  
+
+----   1432 PARAMETER wv                   =  3.120529E+6  
+
+----   1436 PARAMETER biomassV             =   2.98980477  
+
+----   1439 VARIABLE z.L                   =  87.17373755  
+
+----   1440 PARAMETER allowknock           =   6.00000000  
+
+----   1441 Identified y
+
+----   1444 PARAMETER yneg  
+
+4_f   1.00000000,    20    1.00000000,    44    1.00000000,    63    1.00000000
+EX_o2 1.00000000
+
+
+
+----   1246 PARAMETER msucc                =        8.564  
+
+----   1250 PARAMETER mbiomass             =        2.534  
+
+----   1255 PARAMETER dist                 =    18308.908  
+
+
+
+
+
+k = 5
+---   1430 PARAMETER filetype             =   0.00000000  
+
+----   1433 PARAMETER count                =   1.00000000  
+
+----   1436 PARAMETER wv                   =  3.202739E+6  
+
+----   1440 PARAMETER biomassV             =   2.00000010  
+
+----   1443 VARIABLE z.L                   =  1.125405E+2  
+
+----   1444 PARAMETER allowknock           =   6.00000000  
+
+----   1445 Identified y
+
+----   1448 PARAMETER yneg  
+
+18     1.00000000,    28     1.00000000,    29     0.99999028
+31     1.00000000,    64_f   0.00000972,    EX_atp 1.00000000
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+MOMA Knockout
+
+
+k= 5
+-   1440 PARAMETER wv                   =    67833.889  
+
+----   1441 PARAMETER iter                 =        3.000  
+
+----   1442 PARAMETER BUsed                =     2326.000  
+
+----   1444 PARAMETER biomassV             =        2.000  
+
+----   1445 VARIABLE z.L                   =       17.501  
+
+----   1446 Identified y
+
+----   1448 PARAMETER yneg  
+
+17   1.000,    47   1.000,    4_f  1.000,    10_f 1.000,    68_f 1.000
+
+
+
+-   1252 PARAMETER msucc                =       17.501  
+
+----   1256 PARAMETER mbiomass             =        2.000  
+
+----   1261 PARAMETER dist                 =    58861.486  
+
+
+
+
+
+k = 4
+
+----   1440 PARAMETER wv                   =   119120.278  
+
+----   1441 PARAMETER iter                 =        3.000  
+
+----   1442 PARAMETER BUsed                =      989.000  
+
+----   1444 PARAMETER biomassV             =        2.000  
+
+----   1445 VARIABLE z.L                   =       15.233  
+
+----   1446 Identified y
+
+----   1448 PARAMETER yneg  
+
+9    1.000,    31   1.000,    4_f  1.000,    68_f 1.000
+
+
+----   1456 PARAMETER ebs                  =        0.001  
+
+----   1520 PARAMETER bchn                 =        0.000  
+
+=====
+
+----   1249 PARAMETER msucc                =       11.128  
+
+----   1253 PARAMETER mbiomass             =        2.000  
+
+----   1258 PARAMETER dist                 =    56380.320  
+
+
+k=3
+
+
+
+
+
+
+
+
+
+
+k = 2
+
+----   1440 PARAMETER wv                   =    58167.890  
+
+----   1441 PARAMETER iter                 =        2.000  
+
+----   1442 PARAMETER BUsed                =      616.000  
+
+----   1444 PARAMETER biomassV             =        2.000  
+
+----   1445 VARIABLE z.L                   =       17.293  
+
+----   1446 Identified y
+
+----   1448 PARAMETER yneg  
+
+4_f  1.000,    68_f 1.000
+
+
+----   1456 PARAMETER ebs                  =        0.001  
+
+----   1520 PARAMETER bchn                 =        0.000  
+----   1520 PARAMETER bchn                 =        0.000  
+
+----   1526 PARAMETER filetype             =        8.000  
+
+----   1527 PARAMETER PCN                  =        5.000  
+
+----   1528 PARAMETER allowknock           =        2.0
+
+
+----   1252 PARAMETER msucc                =       11.128  
+
+----   1256 PARAMETER mbiomass             =        2.000  
+
+----   1261 PARAMETER dist                 =    56380.320  
+
+
+
+
+
+

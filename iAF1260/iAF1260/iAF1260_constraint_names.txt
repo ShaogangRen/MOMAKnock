@@ -1,0 +1,12 @@
+network, obj
+glc_upt 
+emp1, emp2, emp3, emp4
+ppp1, ppp2, ppp3, ppp4, ppp5, ppp6
+tcc1, tcc2, dahp
+
+emp1g, emp2g, emp3g, emp4g
+ppp1g, ppp2g, ppp3g, ppp4g, ppp5g, ppp6g
+tcc1g, tcc2g, dahpg
+
+succinate, tyr1, ppnd
+;

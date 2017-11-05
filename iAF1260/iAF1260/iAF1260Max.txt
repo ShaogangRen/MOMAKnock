@@ -1,0 +1,2938 @@
+/
+'12DGR120tipp                  '451.45436
+'12DGR140tipp                  '451.45436
+'12DGR141tipp                  '451.45436
+'12DGR160tipp                  '451.45436
+'12DGR161tipp                  '451.45436
+'12DGR180tipp                  '451.45436
+'12DGR181tipp                  '451.45436
+'12PPDRtex_f                   '  0.00000
+'12PPDRtex_b                   '  0.00000
+'12PPDRtpp_f                   '  0.00000
+'12PPDRtpp_b                   '  0.00000
+'12PPDStex_f                   '  0.00000
+'12PPDStex_b                   '  0.00000
+'12PPDStpp_f                   '  0.00000
+'12PPDStpp_b                   '  0.00000
+'14GLUCANabcpp                 '  0.00000
+'14GLUCANtexi                  '  0.00000
+'23CAMPtex_f                   '  0.00000
+'23CAMPtex_b                   '  0.00000
+'23CCMPtex_f                   '  0.00000
+'23CCMPtex_b                   '  0.00000
+'23CGMPtex_f                   '  0.00000
+'23CGMPtex_b                   '  0.00000
+'23CUMPtex_f                   '  0.00000
+'23CUMPtex_b                   '  0.00000
+'23DAPPAt2pp                   '  0.00000
+'23DAPPAtex_f                  '  0.00000
+'23DAPPAtex_b                  '  0.00000
+'23PDE2pp                      '  0.00000
+'23PDE4pp                      '  0.00000
+'23PDE7pp                      '  0.00000
+'23PDE9pp                      '  0.00000
+'26DAHtex_f                    '  0.00000
+'26DAHtex_b                    '  0.00000
+'2AGPA120tipp                  '225.72718
+'2AGPA140tipp                  '225.72718
+'2AGPA141tipp                  '225.72718
+'2AGPA160tipp                  '225.72718
+'2AGPA161tipp                  '225.72718
+'2AGPA180tipp                  '225.72718
+'2AGPA181tipp                  '225.72718
+'2AGPE120tipp                  '300.96957
+'2AGPE140tipp                  '300.96957
+'2AGPE141tipp                  '300.96957
+'2AGPE160tipp                  '300.96957
+'2AGPE161tipp                  '300.96957
+'2AGPE180tipp                  '300.96957
+'2AGPE181tipp                  '300.96957
+'2AGPEAT120                    '300.96957
+'2AGPEAT140                    '300.96957
+'2AGPEAT141                    '300.96957
+'2AGPEAT160                    '300.96957
+'2AGPEAT161                    '300.96957
+'2AGPEAT180                    '300.96957
+'2AGPEAT181                    '300.96957
+'2AGPG120tipp                  '300.96957
+'2AGPG140tipp                  '300.96957
+'2AGPG141tipp                  '300.96957
+'2AGPG160tipp                  '300.96957
+'2AGPG161tipp                  '300.96957
+'2AGPG180tipp                  '300.96957
+'2AGPG181tipp                  '300.96957
+'2AGPGAT120                    '300.96957
+'2AGPGAT140                    '300.96957
+'2AGPGAT141                    '300.96957
+'2AGPGAT160                    '300.96957
+'2AGPGAT161                    '300.96957
+'2AGPGAT180                    '300.96957
+'2AGPGAT181                    '300.96957
+'2DGLCNRx                      '  0.00000
+'2DGLCNRy                      '  0.00000
+'2DGULRx                       '  0.00000
+'2DGULRy                       '  0.00000
+'2MAHMP                        '902.90872
+'34dhpactex_f                  '  0.00000
+'34dhpactex_b                  '  0.00000
+'3AMPtex_f                     '  0.00000
+'3AMPtex_b                     '  0.00000
+'3CMPtex_f                     '  0.00000
+'3CMPtex_b                     '  0.00000
+'3GMPtex_f                     '  0.00000
+'3GMPtex_b                     '  0.00000
+'3HAD100                       ' 13.34092
+'3HAD120                       ' 12.62604
+'3HAD121                       '  5.11155
+'3HAD140                       '  2.60981
+'3HAD141                       '  5.11155
+'3HAD160                       '  1.19904
+'3HAD161                       '  3.20746
+'3HAD180                       '  0.00000
+'3HAD181                       '  0.46964
+'3HAD40                        ' 13.34092
+'3HAD60                        ' 13.34092
+'3HAD80                        ' 13.34092
+'3HCINNMH                      '  0.00000
+'3HPPPNH                       '  0.00000
+'3KGK                          '  0.00000
+'3NTD2pp                       '  0.00000
+'3NTD4pp                       '  0.00000
+'3NTD7pp                       '  0.00000
+'3NTD9pp                       '  0.00000
+'3OAR100_f                     ' 13.34092
+'3OAR100_b                     '  0.00000
+'3OAR120_f                     ' 12.62604
+'3OAR120_b                     '  0.00000
+'3OAR121                       '  5.11155
+'3OAR140_f                     ' 11.33196
+'3OAR140_b                     '  0.00000
+'3OAR141                       '  5.11155
+'3OAR160_f                     '  1.19904
+'3OAR160_b                     '  0.00000
+'3OAR161                       '  3.20746
+'3OAR180_f                     '  0.00000
+'3OAR180_b                     '  0.00000
+'3OAR181                       '  0.46964
+'3OAR40_f                      ' 13.34092
+'3OAR40_b                      '  0.00000
+'3OAR60_f                      ' 13.34092
+'3OAR60_b                      '  0.00000
+'3OAR80_f                      ' 13.34092
+'3OAR80_b                      '  0.00000
+'3OAS100                       ' 13.34092
+'3OAS120                       ' 12.62604
+'3OAS121                       '  5.11155
+'3OAS140                       ' 11.33196
+'3OAS141                       '  5.11155
+'3OAS160                       '  1.19904
+'3OAS161                       '  3.20746
+'3OAS180                       '  0.00000
+'3OAS181                       '  0.46964
+'3OAS60                        ' 13.34092
+'3OAS80                        ' 13.34092
+'3PEPTabcpp                    ' 90.29087
+'3PEPTtex_f                    '  0.00000
+'3PEPTtex_b                    '  0.00000
+'3UMPtex_f                     '  0.00000
+'3UMPtex_b                     '  0.00000
+'42A12BOOXpp                   '  0.00000
+'4HOXPACDtex_f                 '  0.00000
+'4HOXPACDtex_b                 '  0.00000
+'4HTHRS                        '  0.00000
+'4PCP                          '100.32319
+'4PCPpp                        ' 90.29087
+'4PEPTabcpp                    ' 90.29087
+'4PEPTtex_f                    '  0.00000
+'4PEPTtex_b                    '  0.00000
+'5DGLCNR_f                     '  0.00000
+'5DGLCNR_b                     '  0.00000
+'5DGLCNt2rpp_f                 '  0.00000
+'5DGLCNt2rpp_b                 '  0.00000
+'5DGLCNtex_f                   '  0.00000
+'5DGLCNtex_b                   '  0.00000
+'5DOAN                         ' 10.87181
+'A5PISO_f                      '  5.38307
+'A5PISO_b                      '  0.00000
+'AACPS1                        '902.90872
+'AACPS2                        '902.90872
+'AACPS3                        '902.90872
+'AACPS4                        '902.90872
+'AACPS5                        '451.45436
+'AACPS6                        '451.45436
+'AACPS7                        '902.90872
+'AACPS8                        '902.90872
+'AACPS9                        '902.90872
+'AACTOOR                       '223.37767
+'AADDGT                        '  3.63735
+'AAMYL                         '  0.00000
+'AAMYLpp                       '  0.00000
+'AB6PGH                        '  0.00000
+'ABTA                          '292.51601
+'ABUTD                         '214.58590
+'ABUTt2pp                      '1.0000E+3
+'ABUTtex_f                     '  0.00000
+'ABUTtex_b                     '  0.00000
+'ACACCT                        '  0.00000
+'ACACT1r_f                     '  0.00000
+'ACACT1r_b                     '  0.00000
+'ACACt2pp_f                    '  0.00000
+'ACACt2pp_b                    '  0.00000
+'ACACtex_f                     '  0.00000
+'ACACtex_b                     '  0.00000
+'ACALD_f                       '1.0000E+3
+'ACALD_b                       '  0.00000
+'ACALDtex_f                    '  0.00000
+'ACALDtex_b                    '  0.00000
+'ACALDtpp_f                    '  0.00000
+'ACALDtpp_b                    '  0.00000
+'ACANTHAT                      '  0.00000
+'ACBIPGT                       '  0.00000
+'ACCOAC                        '913.82861
+'ACCOAL                        '1.0000E+3
+'ACGAL1PPpp                    '  0.00000
+'ACGAL1Ptex_f                  '  0.00000
+'ACGAL1Ptex_b                  '  0.00000
+'ACGALtex_f                    '  0.00000
+'ACGALtex_b                    '  0.00000
+'ACGAM1PPpp                    '  0.00000
+'ACGAM1Ptex_f                  '  0.00000
+'ACGAM1Ptex_b                  '  0.00000
+'ACGAMK                        '100.32319
+'ACGAMT                        '  3.63735
+'ACGAptspp                     '  0.00000
+'ACGAtex_f                     '  0.00000
+'ACGAtex_b                     '  0.00000
+'ACGK                          '233.27110
+'ACGS                          '233.27110
+'ACHBS                         ' 38.01165
+'ACKr_f                        '905.82497
+'ACKr_b                        '  0.00000
+'ACLS                          ' 55.31373
+'ACM6PH                        '100.32319
+'ACMAMUT                       '  3.63735
+'ACMANAptspp                   '  0.00000
+'ACMANAtex_f                   '  0.00000
+'ACMANAtex_b                   '  0.00000
+'ACMUMptspp                    '  0.00000
+'ACMUMtex                      '  0.00000
+'ACNAMt2pp                     '  0.00000
+'ACNAMtex_f                    '  0.00000
+'ACNAMtex_b                    '  0.00000
+'ACNML                         '  0.00000
+'ACOAD1f_f                     '  0.00000
+'ACOAD1f_b                     '  0.00000
+'ACOAD2f_f                     '  0.00000
+'ACOAD2f_b                     '  0.00000
+'ACOAD3f_f                     '  0.00000
+'ACOAD3f_b                     '  0.00000
+'ACOAD4f_f                     '  0.00000
+'ACOAD4f_b                     '  0.00000
+'ACOAD5f_f                     '  0.00000
+'ACOAD5f_b                     '  0.00000
+'ACOAD6f_f                     '  0.00000
+'ACOAD6f_b                     '  0.00000
+'ACOAD7f_f                     '  0.00000
+'ACOAD7f_b                     '  0.00000
+'ACOAD8f_f                     '  0.00000
+'ACOAD8f_b                     '  0.00000
+'ACOATA_f                      ' 13.34092
+'ACOATA_b                      '  0.00000
+'ACODA                         '232.41190
+'ACOLIPAtex                    '  1.29369
+'ACONIs_f                      '  0.00000
+'ACONIs_b                      '  0.00000
+'ACONMT                        '  0.00000
+'ACONTa_f                      '496.58523
+'ACONTa_b                      '  0.00000
+'ACONTb_f                      '496.58523
+'ACONTb_b                      '  0.00000
+'ACOTA_f                       ' -1.63707
+'ACOTA_b                       '  0.00000
+'ACPS1                         '  0.00000
+'ACS                           '1.0000E+3
+'ACSERtex_f                    '  0.00000
+'ACSERtex_b                    '  0.00000
+'ACSERtpp                      ' 61.69830
+'ACt2rpp_f                     '  0.00000
+'ACt2rpp_b                     '  0.00000
+'ACt4pp                        '1.0000E+3
+'ACtex_f                       '  0.00000
+'ACtex_b                       '  0.00000
+'ADA                           '451.47456
+'ADCL                          '  0.00861
+'ADCS                          '  0.00861
+'ADD                           '451.47456
+'ADEt2rpp_f                    '  0.00000
+'ADEt2rpp_b                    '  0.00000
+'ADEtex_f                      '  0.00000
+'ADEtex_b                      '  0.00000
+'ADK1_f                        '1.0000E+3
+'ADK1_b                        '  0.00000
+'ADK3_f                        '996.29797
+'ADK3_b                        '  0.00000
+'ADK4_f                        '  0.00000
+'ADK4_b                        '  0.00000
+'ADMDC                         '  0.06513
+'ADNCYC                        '902.90872
+'ADNK1                         '902.94913
+'ADNt2pp                       '1.0000E+3
+'ADNt2rpp_f                    '  0.00000
+'ADNt2rpp_b                    '  0.00000
+'ADNtex_f                      '  0.00000
+'ADNtex_b                      '  0.00000
+'ADNUC                         '  0.00000
+'ADOCBIK                       '  0.00000
+'ADOCBLabcpp                   '  0.00000
+'ADOCBLS                       '  0.00000
+'ADOCBLtonex                   '  0.00000
+'ADPRDP                        '225.72718
+'ADPT                          '902.94913
+'ADSK                          '106.09633
+'ADSL1r_f                      '452.92673
+'ADSL1r_b                      '  0.00000
+'ADSL2r_f                      ' 91.15441
+'ADSL2r_b                      '  0.00000
+'ADSS                          '452.92673
+'AGDC                          '200.64638
+'AGM3PA                        '100.32319
+'AGM3PApp                      ' 90.29087
+'AGM3PH                        '100.32319
+'AGM3Pt2pp                     '100.32319
+'AGM4PA                        '100.32319
+'AGM4PApp                      ' 90.29087
+'AGM4PCP                       '100.32319
+'AGM4PCPpp                     '100.32319
+'AGM4PH                        '100.32319
+'AGM4Pt2pp                     '100.32319
+'AGMH                          '100.32319
+'AGMHE                         '  5.47314
+'AGMT                          '161.08948
+'AGMt2pp                       ' 90.29087
+'AGMtex_f                      '  0.00000
+'AGMtex_b                      '  0.00000
+'AGPAT120                      '225.72718
+'AGPAT140                      '225.72718
+'AGPAT141                      '225.72718
+'AGPAT160                      '226.03046
+'AGPAT161                      '225.96304
+'AGPAT180                      '225.72718
+'AGPAT181                      '225.84876
+'AGPR_f                        ' -1.63707
+'AGPR_b                        '  0.00000
+'AGt3                          '  0.00000
+'AHCYSNS                       ' 50.00094
+'AICART_f                      ' 91.61491
+'AICART_b                      '  0.00000
+'AIRC2                         ' 91.15441
+'AIRC3_f                       ' -2.17191
+'AIRC3_b                       '  0.00000
+'AKGDH                         '304.21665
+'AKGt2rpp_f                    '  0.00000
+'AKGt2rpp_b                    '  0.00000
+'AKGtex_f                      '  0.00000
+'AKGtex_b                      '  0.00000
+'ALAabcpp                      '  0.00000
+'ALAALAabcpp                   '100.33967
+'ALAALAD                       '902.90872
+'ALAALAr_f                     '903.04358
+'ALAALAr_b                     '  0.00000
+'ALAALAtex_f                   '  0.00000
+'ALAALAtex_b                   '  0.00000
+'ALAGLUE_f                     ' 82.08261
+'ALAGLUE_b                     '  0.00000
+'ALAR_f                        '569.21748
+'ALAR_b                        '  0.00000
+'ALAt2pp                       '  0.00000
+'ALAt4pp                       '  0.00000
+'ALATA_D2                      '569.09607
+'ALATA_L_f                     ' -2.75368
+'ALATA_L_b                     '  0.00000
+'ALATA_L2                      '569.09607
+'ALAtex_f                      '  0.00000
+'ALAtex_b                      '  0.00000
+'ALATRS                        '  0.00000
+'ALCD19_f                      '  0.00000
+'ALCD19_b                      '  0.00000
+'ALCD2x_f                      '  0.00000
+'ALCD2x_b                      '  0.00000
+'ALDD19x                       '  0.00000
+'ALDD2x                        '902.90872
+'ALDD2y                        '  0.00000
+'ALDD3y                        '  0.00000
+'ALDD4                         '  0.00000
+'ALLabcpp                      '  0.00000
+'ALLK                          '  0.00000
+'ALLPI_f                       '  0.00000
+'ALLPI_b                       '  0.00000
+'ALLTAMH                       ' 88.98250
+'ALLtex_f                      '  0.00000
+'ALLtex_b                      '  0.00000
+'ALLTN                         ' 88.98250
+'ALLTNt2rpp_f                  '  0.00000
+'ALLTNt2rpp_b                  '  0.00000
+'ALLTNtex_f                    '  0.00000
+'ALLTNtex_b                    '  0.00000
+'ALLULPE_f                     '  0.00000
+'ALLULPE_b                     '  0.00000
+'ALPATE160pp                   '  0.00000
+'ALPATG160pp                   '  0.00000
+'ALR2                          ' 68.70555
+'ALR4x                         ' 68.70555
+'ALTRH                         '  0.00000
+'AM3PA                         '100.32319
+'AM4PA                         '100.32319
+'AM4PCP                        '100.32319
+'AMALT1                        '  0.00000
+'AMALT2                        '  0.00000
+'AMALT3                        '  0.00000
+'AMALT4                        '  0.00000
+'AMANAPEr_f                    '  0.00000
+'AMANAPEr_b                    '  0.00000
+'AMANK                         '  0.00000
+'AMAOTr_f                      '  0.00000
+'AMAOTr_b                      '  0.00000
+'AMMQLT8                       '  0.00215
+'AMPMS2                        '  0.00215
+'AMPN                          '902.90872
+'AMPTASECG                     '225.72718
+'AMPTASEPG                     '  0.00000
+'AMPtex_f                      '  0.00000
+'AMPtex_b                      '  0.00000
+'ANHGMtex_f                    '  0.00000
+'ANHGMtex_b                    '  0.00000
+'ANHMK                         '100.32319
+'ANPRT                         ' 27.95259
+'ANS                           ' 27.95259
+'AOBUTDs                       '223.37767
+'AOXSr_f                       '  0.00000
+'AOXSr_b                       '  0.00000
+'AP4AH                         '  0.00000
+'AP5AH                         '  0.00000
+'APRAUR                        '  0.00431
+'ARAI_f                        '  0.00000
+'ARAI_b                        '  0.00000
+'ARBabcpp                      '  0.00000
+'ARBt2rpp_f                    '  0.00000
+'ARBt2rpp_b                    '  0.00000
+'ARBt3ipp                      '  0.00000
+'ARBtex_f                      '  0.00000
+'ARBtex_b                      '  0.00000
+'ARBTNabcpp                    '366.01780
+'ARBTNexs                      '366.01780
+'ARBTNR1                       '183.00890
+'ARBTNR2                       '183.00890
+'ARBTNR3                       '183.00890
+'ARBTNtex                      '366.01780
+'ARBTNtonex                    '366.01780
+'ARBTNtpp                      '366.01780
+'ARGabcpp                      '902.90872
+'ARGAGMt7pp_f                  ' 43.11431
+'ARGAGMt7pp_b                  '  0.00000
+'ARGDC                         '161.08948
+'ARGDCpp                       '160.29941
+'ARGORNt7pp_f                  '1.0000E+3
+'ARGORNt7pp_b                  '  0.00000
+'ARGSL_f                       '182.13879
+'ARGSL_b                       '  0.00000
+'ARGSS                         '182.13879
+'ARGt3pp                       '1.0000E+3
+'ARGtex_f                      '  0.00000
+'ARGtex_b                      '  0.00000
+'ARGTRS                        '  0.00000
+'ASAD_f                        ' -5.19650
+'ASAD_b                        '  0.00000
+'ASCBPL                        '  0.00000
+'ASCBptspp                     '  0.00000
+'ASCBtex_f                     '  0.00000
+'ASCBtex_b                     '  0.00000
+'ASNabcpp                      '902.90872
+'ASNN                          '902.90872
+'ASNNpp                        '696.29431
+'ASNS1                         '452.03986
+'ASNS2                         '904.07972
+'ASNt2rpp_f                    '  0.00000
+'ASNt2rpp_b                    '  0.00000
+'ASNtex_f                      '  0.00000
+'ASNtex_b                      '  0.00000
+'ASNTRS                        '  0.00000
+'ASO3t8pp                      '  0.00000
+'ASO3tex_f                     '  0.00000
+'ASO3tex_b                     '  0.00000
+'ASP1DC                        '  0.00556
+'ASPabcpp                      '451.45436
+'ASPCT                         ' 86.42939
+'ASPK_f                        '286.15764
+'ASPK_b                        '  0.00000
+'ASPO3                         '  0.02201
+'ASPO4                         '  0.02201
+'ASPO5                         '  0.02201
+'ASPO6                         '  0.02201
+'ASPT                          '985.78454
+'ASPt2_2pp                     '652.77591
+'ASPt2_3pp                     '607.86656
+'ASPt2pp                       '696.29431
+'ASPTA_f                       '-14.21545
+'ASPTA_b                       '  0.00000
+'ASPtex_f                      '  0.00000
+'ASPtex_b                      '  0.00000
+'ASPTRS                        '  0.00000
+'ASR                           '  0.00000
+'AST                           '180.58174
+'ATHRDHr_f                     '  0.00000
+'ATHRDHr_b                     '  0.00000
+'ATPHs                         '451.45436
+'ATPM                          '902.90872
+'ATPPRT                        ' 43.41717
+'ATPS4rpp_f                    '1.0000E+3
+'ATPS4rpp_b                    '  0.00000
+'BALAt2pp                      '  0.00000
+'BALAtex_f                     '  0.00000
+'BALAtex_b                     '  0.00000
+'BETALDHx                      '  0.00000
+'BETALDHy                      '  0.00000
+'BPNT                          '106.09633
+'BSORx                         '  0.00000
+'BSORy                         '  0.00000
+'BTS4                          '  0.00000
+'BUTCT                         '  0.00000
+'BUTSO3abcpp                   '  0.00000
+'BUTSO3tex_f                   '  0.00000
+'BUTSO3tex_b                   '  0.00000
+'BUTt2rpp_f                    '  0.00000
+'BUTt2rpp_b                    '  0.00000
+'BUTtex_f                      '  0.00000
+'BUTtex_b                      '  0.00000
+'CA2t3pp                       '999.97744
+'CA2tex_f                      '  0.04455
+'CA2tex_b                      '  0.00000
+'CADVtpp                       ' 38.45712
+'CAT                           '385.64921
+'CAt6pp_f                      ' -0.02256
+'CAt6pp_b                      '  0.00000
+'CBIAT_f                       '  0.00000
+'CBIAT_b                       '  0.00000
+'CBItonex                      '  0.00000
+'CBIuabcpp                     '  0.00000
+'CBL1abcpp                     '  0.00215
+'CBL1tonex                     '  0.00215
+'CBLAT_f                       '  0.00215
+'CBLAT_b                       '  0.00000
+'CBMKr_f                       '185.63928
+'CBMKr_b                       '  0.00000
+'CBPS                          '451.45436
+'CD2abcpp                      '902.90872
+'CD2t3pp                       '1.0000E+3
+'CD2tex_f                      '  0.00000
+'CD2tex_b                      '  0.00000
+'CD2tpp                        '1.0000E+3
+'CDAPPA120                     '902.90872
+'CDAPPA140                     '902.90872
+'CDAPPA141                     '902.90872
+'CDAPPA160                     '902.90872
+'CDAPPA161                     '902.90872
+'CDAPPA180                     '902.90872
+'CDAPPA181                     '902.90872
+'CDPMEK                        '  0.06399
+'CFAS160E                      '  0.00000
+'CFAS160G                      '  0.00000
+'CFAS180E                      '  0.00000
+'CFAS180G                      '  0.00000
+'CGLYabcpp                     '225.72718
+'CGLYtex_f                     '  0.00000
+'CGLYtex_b                     '  0.00000
+'CHLabcpp                      '  0.00000
+'CHLt2pp                       '  0.00000
+'CHLtex_f                      '  0.00000
+'CHLtex_b                      '  0.00000
+'CHORM                         ' 29.64435
+'CHORS                         ' 29.93277
+'CHRPL                         '  0.00215
+'CINNDO                        '  0.00000
+'CITL                          '902.90872
+'CITt7pp                       '  0.00000
+'CITtex_f                      '  0.00000
+'CITtex_b                      '  0.00000
+'CLIPAtex                      '  1.88960
+'CLPNH120pp                    '225.72718
+'CLPNH140pp                    '225.72718
+'CLPNH141pp                    '225.72718
+'CLPNH160pp                    '225.72718
+'CLPNH161pp                    '225.72718
+'CLPNH180pp                    '225.72718
+'CLPNH181pp                    '225.72718
+'CLPNS120pp_f                  '225.72718
+'CLPNS120pp_b                  '  0.00000
+'CLPNS140pp_f                  '225.72718
+'CLPNS140pp_b                  '  0.00000
+'CLPNS141pp_f                  '225.72718
+'CLPNS141pp_b                  '  0.00000
+'CLPNS160pp_f                  '225.74190
+'CLPNS160pp_b                  '  0.00000
+'CLPNS161pp_f                  '225.73863
+'CLPNS161pp_b                  '  0.00000
+'CLPNS180pp_f                  '225.72718
+'CLPNS180pp_b                  '  0.00000
+'CLPNS181pp_f                  '225.73308
+'CLPNS181pp_b                  '  0.00000
+'CLt3_2pp                      '  0.02228
+'CLtex_f                       '  0.04455
+'CLtex_b                       '  0.00000
+'CMPN                          '300.96957
+'CMPtex_f                      '  0.00000
+'CMPtex_b                      '  0.00000
+'CO2tex_f                      '  0.00000
+'CO2tex_b                      '  0.00000
+'CO2tpp_f                      ' 21.03840
+'CO2tpp_b                      '  0.00000
+'COBALT2abcpp                  '902.90872
+'COBALT2t3pp                   '999.98496
+'COBALT2tex_f                  '  0.02970
+'COBALT2tex_b                  '  0.00000
+'COBALT2tpp                    '1.0000E+3
+'COLIPAabcpp                   '  1.36829
+'COLIPAtex                     '  1.36829
+'CPGNabcpp                     '366.01780
+'CPGNexs                       '366.01780
+'CPGNR1                        '183.00890
+'CPGNR2                        '183.00890
+'CPGNR3                        '183.00890
+'CPGNtonex                     '366.01780
+'CPGNUtex                      '366.01780
+'CPGNUtpp                      '366.01780
+'CPPPGO                        '  6.90270
+'CPPPGO2                       '  5.43590
+'CRNabcpp                      '902.90872
+'CRNBTCT_f                     '  0.00000
+'CRNBTCT_b                     '  0.00000
+'CRNCAL2                       '  0.00000
+'CRNCAR_f                      '  0.00000
+'CRNCAR_b                      '  0.00000
+'CRNCBCT_f                     '  0.00000
+'CRNCBCT_b                     '  0.00000
+'CRNCDH_f                      '  0.00000
+'CRNCDH_b                      '  0.00000
+'CRNDabcpp                     '902.90872
+'CRNDCAL2                      '  0.00000
+'CRNDt2rpp_f                   '  0.00000
+'CRNDt2rpp_b                   '  0.00000
+'CRNt2rpp_f                    '  0.00000
+'CRNt2rpp_b                    '  0.00000
+'CRNt7pp                       '  0.00000
+'CRNt8pp                       '  0.00000
+'CRNtex_f                      '  0.00000
+'CRNtex_b                      '  0.00000
+'CS                            '1.0000E+3
+'CSND                          '300.96957
+'CSNt2pp                       '  0.00000
+'CSNtex_f                      '  0.00000
+'CSNtex_b                      '  0.00000
+'CTBTabcpp                     '902.90872
+'CTBTCAL2                      '  0.00000
+'CTBTt2rpp_f                   '  0.00000
+'CTBTt2rpp_b                   '  0.00000
+'CTPS2                         '301.78797
+'CU1abcpp                      '  0.00000
+'CU1Opp                        '  0.00000
+'CU2abcpp                      '902.90872
+'CU2tex_f                      '  0.02970
+'CU2tex_b                      '  0.00000
+'CU2tpp                        '902.92376
+'CUt3                          '  0.00000
+'CUtex_f                       '  0.00000
+'CUtex_b                       '  0.00000
+'CYANST                        '  0.00000
+'CYANSTpp                      '  0.00000
+'CYANtex_f                     '  0.00000
+'CYANtex_b                     '  0.00000
+'CYNTAH                        '  0.00000
+'CYNTt2pp                      '  0.00000
+'CYNTtex_f                     '  0.00000
+'CYNTtex_b                     '  0.00000
+'CYSabc2pp                     '451.45436
+'CYSabcpp                      '902.90872
+'CYSDabcpp                     '  0.00000
+'CYSDDS                        '  0.00000
+'CYSDS                         '  0.00000
+'CYSDtex_f                     '  0.00000
+'CYSDtex_b                     '  0.00000
+'CYSS                          ' 50.56175
+'CYSSADS                       '  0.00000
+'CYStex_f                      '  0.00000
+'CYStex_b                      '  0.00000
+'CYSTL                         '  1.46219
+'CYStpp                        '902.90872
+'CYSTRS                        '  0.00000
+'CYTBD2pp                      '771.29223
+'CYTBDpp                       '771.29843
+'CYTBO3_4pp                    '771.29843
+'CYTD                          '  0.00000
+'CYTDH                         '  0.00000
+'CYTDK2                        '902.90872
+'CYTDt2pp                      '1.0000E+3
+'CYTDt2rpp_f                   '  0.00000
+'CYTDt2rpp_b                   '  0.00000
+'CYTDtex_f                     '  0.00000
+'CYTDtex_b                     '  0.00000
+'CYTK1_f                       '903.72772
+'CYTK1_b                       '  0.00000
+'CYTK2_f                       '902.90872
+'CYTK2_b                       '  0.00000
+'DAAD                          '  0.00000
+'DADA                          '451.47456
+'DADK_f                        '902.90872
+'DADK_b                        '  0.00000
+'DADNt2pp                      '  0.00000
+'DADNtex_f                     '  0.00000
+'DADNtex_b                     '  0.00000
+'DAGK120                       '902.90872
+'DAGK140                       '902.90872
+'DAGK141                       '902.90872
+'DAGK160                       '902.90872
+'DAGK161                       '902.90872
+'DAGK180                       '902.90872
+'DAGK181                       '902.90872
+'DALAt2pp                      '200.79469
+'DALAtex_f                     '  0.00000
+'DALAtex_b                     '  0.00000
+'DAMPtex_f                     '  0.00000
+'DAMPtex_b                     '  0.00000
+'DAPabcpp                      '  0.00000
+'DAPAL                         '  0.00000
+'DAPDC                         ' 40.12412
+'DAPE_f                        ' 40.26200
+'DAPE_b                        '  0.00000
+'DAPtex_f                      '  0.00000
+'DAPtex_b                      '  0.00000
+'DASYN120                      '902.90872
+'DASYN140                      '902.90872
+'DASYN141                      '902.90872
+'DASYN160                      '903.21200
+'DASYN161                      '903.14458
+'DASYN180                      '902.90872
+'DASYN181                      '903.03030
+'DATPHs                        '242.91001
+'DB4PS                         '  0.00861
+'DBTS                          '  0.00000
+'DCAtex_f                      '  0.00000
+'DCAtex_b                      '  0.00000
+'DCMPtex_f                     '  0.00000
+'DCMPtex_b                     '  0.00000
+'DCTPD                         '248.18546
+'DCYTD                         '  0.00000
+'DCYTt2pp                      '  0.00000
+'DCYTtex_f                     '  0.00000
+'DCYTtex_b                     '  0.00000
+'DDCAtexi                      '  0.00000
+'DDGALK                        '  0.00000
+'DDGLCNt2rpp_f                 '  0.00000
+'DDGLCNt2rpp_b                 '  0.00000
+'DDGLCNtex_f                   '  0.00000
+'DDGLCNtex_b                   '  0.00000
+'DDGLK                         '  0.00000
+'DDPA                          ' 29.93277
+'DDPGALA_f                     '  0.00000
+'DDPGALA_b                     '  0.00000
+'DGK1_f                        '902.90872
+'DGK1_b                        '  0.00000
+'DGMPtex_f                     '  0.00000
+'DGMPtex_b                     '  0.00000
+'DGSNt2pp                      '  0.00000
+'DGSNtex_f                     '  0.00000
+'DGSNtex_b                     '  0.00000
+'DHAD1                         ' 55.31373
+'DHAD2                         ' 38.01165
+'DHAPT                         '585.79371
+'DHAtex_f                      '  0.00000
+'DHAtex_b                      '  0.00000
+'DHAtpp_f                      '  0.00000
+'DHAtpp_b                      '  0.00000
+'DHBD_f                        ' 26.84717
+'DHBD_b                        '  0.00000
+'DHBS                          '451.45770
+'DHBSH                         '451.45436
+'DHCIND                        '  0.00000
+'DHCINDO                       '  0.00000
+'DHDPRy                        ' 40.26200
+'DHDPS                         ' 40.26200
+'DHFR_f                        ' 26.82999
+'DHFR_b                        '  0.00000
+'DHFS                          '  0.00861
+'DHNAOT4                       '  0.00431
+'DHNPA2                        '  0.00861
+'DHORD2                        ' 86.42939
+'DHORD5                        ' 86.42939
+'DHORTS_f                      ' -1.60160
+'DHORTS_b                      '  0.00000
+'DHPPD                         '  0.00000
+'DHPPDA2                       '  0.00431
+'DHPS2                         '  0.00861
+'DHPTDCs                       ' 50.00094
+'DHPTPE_f                      '  0.00000
+'DHPTPE_b                      '  0.00000
+'DHQS                          ' 29.93277
+'DHQTi                         ' 29.93277
+'DIMPtex_f                     '  0.00000
+'DIMPtex_b                     '  0.00000
+'DINSt2pp                      '  0.00000
+'DINStex_f                     '  0.00000
+'DINStex_b                     '  0.00000
+'DKGLCNR1                      '  0.00000
+'DKGLCNR2x                     '  0.00000
+'DKGLCNR2y                     '  0.00000
+'DKMPPD                        '  0.06512
+'DKMPPD3                       '  0.06513
+'D-LACt2pp_f                   '  0.00000
+'D-LACt2pp_b                   '  0.00000
+'D-LACtex_f                    '  0.00000
+'D-LACtex_b                    '  0.00000
+'DM_4HBA                       '  0.00215
+'DM_5DRIB                      ' 10.87181
+'DM_AACALD                     '  0.00000
+'DM_HMFURN                     ' 50.00094
+'DM_OXAM                       ' 83.55968
+'DMATT                         '  0.00915
+'DMPPS                         '  0.06399
+'DMQMT                         '  0.00215
+'DMSOR1                        '  0.00000
+'DMSOR1pp                      '  0.00000
+'DMSOR2                        '  0.00000
+'DMSOR2pp                      '  0.00000
+'DMSOtex_f                     '  0.00000
+'DMSOtex_b                     '  0.00000
+'DMStex_f                      '  0.00000
+'DMStex_b                      '  0.00000
+'DNMPPA                        '  0.00861
+'DNTPPA                        '  0.00861
+'DOGULNR                       '  0.00000
+'DOPAtex_f                     '  0.00000
+'DOPAtex_b                     '  0.00000
+'DPCOAK                        '  0.00556
+'DPR                           '  0.00556
+'DRPA                          '413.15330
+'DSBAO1                        '  0.00000
+'DSBAO2                        '  0.00000
+'DSBCGT                        '  0.00000
+'DSBDR                         '  0.00000
+'DSBGGT                        '  0.00000
+'DSERDHr_f                     '  0.00000
+'DSERDHr_b                     '  0.00000
+'DSERt2pp                      '  0.00000
+'DSERtex_f                     '  0.00000
+'DSERtex_b                     '  0.00000
+'DTMPK_f                       '903.03277
+'DTMPK_b                       '  0.00000
+'DTMPtex_f                     '  0.00000
+'DTMPtex_b                     '  0.00000
+'DUMPtex_f                     '  0.00000
+'DUMPtex_b                     '  0.00000
+'DURIK1                        '902.90872
+'DURIPP_f                      '413.15330
+'DURIPP_b                      '  0.00000
+'DURIt2pp                      '  0.00000
+'DURItex_f                     '  0.00000
+'DURItex_b                     '  0.00000
+'DUTPDP                        '902.90872
+'DXPRIi                        '  0.06399
+'DXPS                          '  0.06829
+'DXYLK                         '  0.00000
+'E4PD_f                        '  0.00215
+'E4PD_b                        '  0.00000
+'EAR100x                       ' 12.62604
+'EAR100y                       ' 12.59400
+'EAR120x                       ' 12.62604
+'EAR120y                       ' 12.59400
+'EAR121x                       '  5.11155
+'EAR121y                       '  5.10740
+'EAR140x                       '  2.60981
+'EAR140y                       '  2.60871
+'EAR141x                       '  5.11155
+'EAR141y                       '  5.10740
+'EAR160x                       '  1.19904
+'EAR160y                       '  1.19889
+'EAR161x                       '  3.20746
+'EAR161y                       '  3.20615
+'EAR180x                       '  0.00000
+'EAR180y                       '  0.00000
+'EAR181x                       '  0.46964
+'EAR181y                       '  0.46962
+'EAR40x                        ' 13.34092
+'EAR40y                        ' 13.30707
+'EAR60x                        ' 13.34092
+'EAR60y                        ' 13.30707
+'EAR80x                        ' 13.34092
+'EAR80y                        ' 13.30707
+'ECA4COLIPAtex                 '  0.90934
+'ECA4OALpp                     '  0.90934
+'ECAP1pp                       '  0.90934
+'ECAP2pp                       '  0.90934
+'ECAP3pp                       '  0.90934
+'ECAtpp                        '  3.63735
+'ECOAH1_f                      '  0.00000
+'ECOAH1_b                      '  0.00000
+'ECOAH2_f                      '  0.00000
+'ECOAH2_b                      '  0.00000
+'ECOAH3_f                      '  0.00000
+'ECOAH3_b                      '  0.00000
+'ECOAH4_f                      '  0.00000
+'ECOAH4_b                      '  0.00000
+'ECOAH5_f                      '  0.00000
+'ECOAH5_b                      '  0.00000
+'ECOAH6_f                      '  0.00000
+'ECOAH6_b                      '  0.00000
+'ECOAH7_f                      '  0.00000
+'ECOAH7_b                      '  0.00000
+'ECOAH8_f                      '  0.00000
+'ECOAH8_b                      '  0.00000
+'EDA                           '390.52914
+'EDD                           '390.52914
+'EDTXS1                        '  2.00324
+'EDTXS2                        '  2.00324
+'EDTXS3                        '  1.88960
+'EDTXS4                        '  1.88960
+'ENLIPAtex                     '  1.91857
+'ENO_f                         '431.65403
+'ENO_b                         '  0.00000
+'ENTCS                         '150.48590
+'ENTERES                       '150.48479
+'ENTERES2                      '125.35737
+'ETHAAL                        '150.48479
+'ETHAt2pp                      ' 50.75010
+'ETHAtex_f                     '  0.00000
+'ETHAtex_b                     '  0.00000
+'ETHSO3abcpp                   '  0.00000
+'ETHSO3tex_f                   '  0.00000
+'ETHSO3tex_b                   '  0.00000
+'ETOHt2rpp_f                   '  0.00000
+'ETOHt2rpp_b                   '  0.00000
+'ETOHtex_f                     '  0.00000
+'ETOHtex_b                     '  0.00000
+'EX_12ppd-R(e)                 ' 69.93243
+'EX_12ppd-S(e)                 '  0.00000
+'EX_14glucan(e)                '  0.00000
+'EX_15dap(e)                   ' 38.45712
+'EX_23camp(e)                  '  0.00000
+'EX_23ccmp(e)                  '  0.00000
+'EX_23cgmp(e)                  '  0.00000
+'EX_23cump(e)                  '  0.00000
+'EX_23dappa(e)                 '  0.00000
+'EX_26dap-M(e)                 '  0.00000
+'EX_2ddglcn(e)                 '  0.00000
+'EX_34dhpac(e)                 '  0.00000
+'EX_3amp(e)                    '  0.00000
+'EX_3cmp(e)                    '  0.00000
+'EX_3gmp(e)                    '  0.00000
+'EX_3hcinnm(e)                 '  0.00000
+'EX_3hpppn(e)                  '  0.00000
+'EX_3ump(e)                    '  0.00000
+'EX_4abut(e)                   ' 63.69878
+'EX_4hoxpacd(e)                '  0.00000
+'EX_5dglcn(e)                  ' 55.11324
+'EX_ac(e)                      '153.48272
+'EX_acac(e)                    '  0.00000
+'EX_acald(e)                   '123.49965
+'EX_acgal(e)                   '  0.00000
+'EX_acgal1p(e)                 '  0.00000
+'EX_acgam(e)                   '  0.00000
+'EX_acgam1p(e)                 '  0.00000
+'EX_acmana(e)                  '  0.00000
+'EX_acmum(e)                   '  0.00000
+'EX_acnam(e)                   '  0.00000
+'EX_acolipa(e)                 '  1.29369
+'EX_acser(e)                   ' 61.69830
+'EX_ade(e)                     ' 53.64864
+'EX_adn(e)                     ' 27.07155
+'EX_adocbl(e)                  '  0.00000
+'EX_ag(e)                      '  0.00000
+'EX_agm(e)                     ' 43.11431
+'EX_akg(e)                     ' 68.72874
+'EX_alaala(e)                  ' 35.60686
+'EX_ala-B(e)                   '  0.00000
+'EX_ala-D(e)                   ' 71.24982
+'EX_ala-L(e)                   '  0.00000
+'EX_all-D(e)                   '  0.00000
+'EX_alltn(e)                   ' 69.72492
+'EX_amp(e)                     '  0.00000
+'EX_anhgm(e)                   ' 13.55874
+'EX_arab-L(e)                  '  0.00000
+'EX_arbtn(e)                   '  0.00000
+'EX_arbtn-fe3(e)               '  0.00000
+'EX_arg-L(e)                   ' 42.72236
+'EX_ascb-L(e)                  '  0.00000
+'EX_asn-L(e)                   ' 84.82779
+'EX_aso3(e)                    '  0.00000
+'EX_asp-L(e)                   ' 84.82779
+'EX_but(e)                     '  0.00000
+'EX_butso3(e)                  '  0.00000
+'EX_ca2(e)                     '1.0000E+3
+'EX_cbi(e)                     '  0.00000
+'EX_cbl1(e)                    '1.0000E+3
+'EX_cd2(e)                     '  0.00000
+'EX_cgly(e)                    ' 33.97122
+'EX_chol(e)                    '  0.00000
+'EX_cit(e)                     '  0.00000
+'EX_cl(e)                      '1.0000E+3
+'EX_cmp(e)                     '  0.00000
+'EX_co2(e)                     '395.74481
+'EX_cobalt2(e)                 '1.0000E+3
+'EX_colipa(e)                  '  1.32753
+'EX_cpgn(e)                    '  0.00000
+'EX_cpgn-un(e)                 '  0.00000
+'EX_crn(e)                     '  0.00000
+'EX_csn(e)                     '  0.00000
+'EX_cu(e)                      '  0.00000
+'EX_cu2(e)                     '1.0000E+3
+'EX_cyan(e)                    '  0.00000
+'EX_cynt(e)                    '  0.00000
+'EX_cys-D(e)                   '  0.00000
+'EX_cys-L(e)                   ' 49.36407
+'EX_cytd(e)                    ' 31.24641
+'EX_dad-2(e)                   '  0.00000
+'EX_damp(e)                    '  0.00000
+'EX_dca(e)                     '  0.00000
+'EX_dcmp(e)                    '  0.00000
+'EX_dcyt(e)                    '  0.00000
+'EX_ddca(e)                    '  0.00000
+'EX_dgmp(e)                    '  0.00000
+'EX_dgsn(e)                    '  0.00000
+'EX_dha(e)                     ' 94.84935
+'EX_dimp(e)                    '  0.00000
+'EX_din(e)                     '  0.00000
+'EX_dms(e)                     '  0.00000
+'EX_dmso(e)                    '  0.00000
+'EX_dopa(e)                    '  0.00000
+'EX_dtmp(e)                    '  0.00000
+'EX_dump(e)                    '  0.00000
+'EX_duri(e)                    '  0.00000
+'EX_eca4colipa(e)              '  0.90934
+'EX_enlipa(e)                  '  1.91857
+'EX_enter(e)                   '  8.94794
+'EX_etha(e)                    ' 36.48649
+'EX_ethso3(e)                  '  0.00000
+'EX_etoh(e)                    '107.66307
+'EX_f6p(e)                     '  0.00000
+'EX_fald(e)                    '  0.00000
+'EX_fe2(e)                     '1.0000E+3
+'EX_fe3(e)                     '1.0000E+3
+'EX_fe3dcit(e)                 '  0.00000
+'EX_fe3dhbzs(e)                '  0.00000
+'EX_fe3hox(e)                  '  0.00000
+'EX_fe3hox-un(e)               '  0.00000
+'EX_fecrm(e)                   '  0.00000
+'EX_fecrm-un(e)                '  0.00000
+'EX_feenter(e)                 '  8.94794
+'EX_feoxam(e)                  '  0.00000
+'EX_feoxam-un(e)               '  0.00000
+'EX_for(e)                     '346.61892
+'EX_fru(e)                     '  0.00000
+'EX_frulys(e)                  '  0.00000
+'EX_fruur(e)                   '  0.00000
+'EX_fuc-L(e)                   '  0.00000
+'EX_fum(e)                     ' 90.02796
+'EX_g1p(e)                     '  0.00000
+'EX_g3pc(e)                    '  0.00000
+'EX_g3pe(e)                    ' 36.48649
+'EX_g3pg(e)                    ' 32.01267
+'EX_g3pi(e)                    '  0.00000
+'EX_g3ps(e)                    '  0.00000
+'EX_g6p(e)                     '  0.00000
+'EX_gal(e)                     '  0.00000
+'EX_gal1p(e)                   '  0.00000
+'EX_gal-bD(e)                  '  0.00000
+'EX_galct-D(e)                 '  0.00000
+'EX_galctn-D(e)                '  0.00000
+'EX_galctn-L(e)                '  0.00000
+'EX_galt(e)                    '  0.00000
+'EX_galur(e)                   '  0.00000
+'EX_gam(e)                     '  0.00000
+'EX_gam6p(e)                   '  0.00000
+'EX_gbbtn(e)                   '  0.00000
+'EX_gdp(e)                     '  0.00000
+'EX_glc(e)                     '-1.000E+2
+'EX_glcn(e)                    ' 50.31541
+'EX_glcr(e)                    '  0.00000
+'EX_glcur(e)                   '  0.00000
+'EX_glcur1p(e)                 '  0.00000
+'EX_gln-L(e)                   '  0.00000
+'EX_glu-L(e)                   ' 63.09212
+'EX_gly(e)                     '  0.00000
+'EX_glyald(e)                  ' 86.39019
+'EX_glyb(e)                    '  0.00000
+'EX_glyc(e)                    ' 76.54115
+'EX_glyc2p(e)                  '  0.00000
+'EX_glyc3p(e)                  ' 57.03228
+'EX_glyclt(e)                  '153.48439
+'EX_glyc-R(e)                  ' 82.77795
+'EX_gmp(e)                     '  0.00000
+'EX_gsn(e)                     '  0.00000
+'EX_gthox(e)                   '  0.00000
+'EX_gthrd(e)                   ' 22.19838
+'EX_gtp(e)                     '  0.00000
+'EX_gua(e)                     ' 55.68080
+'EX_h(e)                       '1.0000E+3
+'EX_h2(e)                      '359.95041
+'EX_h2o(e)                     '1.0000E+3
+'EX_h2o2(e)                    '  0.00000
+'EX_h2s(e)                     '100.41580
+'EX_hacolipa(e)                '  0.00000
+'EX_halipa(e)                  '  0.00000
+'EX_hdca(e)                    '  0.00000
+'EX_hdcea(e)                   '  0.00000
+'EX_hg2(e)                     '  0.00000
+'EX_his-L(e)                   ' 42.95667
+'EX_hom-L(e)                   ' 64.55302
+'EX_hxa(e)                     '  0.00000
+'EX_hxan(e)                    ' 57.03228
+'EX_idon-L(e)                  ' 50.83539
+'EX_ile-L(e)                   ' 36.60015
+'EX_imp(e)                     '  0.00000
+'EX_indole(e)                  ' 27.67644
+'EX_inost(e)                   '  0.00000
+'EX_ins(e)                     ' 28.07324
+'EX_isetac(e)                  '  0.00000
+'EX_k(e)                       '1.0000E+3
+'EX_kdo2lipid4(e)              '  2.63040
+'EX_lac-D(e)                   '105.21618
+'EX_lac-L(e)                   '  0.00000
+'EX_LalaDgluMdap(e)            ' 16.19386
+'EX_LalaDgluMdapDala(e)        ' 13.92020
+'EX_lcts(e)                    '  0.00000
+'EX_leu-L(e)                   ' 39.92846
+'EX_lipa(e)                    '  1.96249
+'EX_lipa_cold(e)               '  1.88960
+'EX_lys-L(e)                   ' 38.45712
+'EX_lyx-L(e)                   '  0.00000
+'EX_mal-D(e)                   '  0.00000
+'EX_mal-L(e)                   '  0.00000
+'EX_malt(e)                    '  0.00000
+'EX_malthx(e)                  '  0.00000
+'EX_maltpt(e)                  '  0.00000
+'EX_malttr(e)                  '  0.00000
+'EX_maltttr(e)                 '  0.00000
+'EX_man(e)                     '  0.00000
+'EX_man6p(e)                   '  0.00000
+'EX_manglyc(e)                 '  0.00000
+'EX_melib(e)                   '  0.00000
+'EX_met-D(e)                   '  0.00000
+'EX_met-L(e)                   '  0.00000
+'EX_metsox-R-L(e)              '  0.00000
+'EX_metsox-S-L(e)              '  0.00000
+'EX_mg2(e)                     '1.0000E+3
+'EX_minohp(e)                  '  0.00000
+'EX_mmet(e)                    '  0.00000
+'EX_mn2(e)                     '1.0000E+3
+'EX_mnl(e)                     '  0.00000
+'EX_mobd(e)                    '1.0000E+3
+'EX_mso3(e)                    '  0.00000
+'EX_n2o(e)                     '  0.00000
+'EX_na1(e)                     '1.0000E+3
+'EX_nac(e)                     '  0.00000
+'EX_nh4(e)                     '1.0000E+3
+'EX_ni2(e)                     '  0.00000
+'EX_nmn(e)                     '  0.00000
+'EX_no(e)                      '  0.00000
+'EX_no2(e)                     '  0.00000
+'EX_no3(e)                     '  0.00000
+'EX_o16a4colipa(e)             '  0.00000
+'EX_o2(e)                      '-45.67871
+'EX_o2s(e)                     '  0.00000
+'EX_ocdca(e)                   '  0.00000
+'EX_ocdcea(e)                  '  0.00000
+'EX_octa(e)                    '  0.00000
+'EX_orn(e)                     ' 47.56538
+'EX_orot(e)                    '  0.00000
+'EX_pacald(e)                  '  0.00000
+'EX_peamn(e)                   '  0.00000
+'EX_phe-L(e)                   ' 26.94644
+'EX_pheme(e)                   '  6.90047
+'EX_pi(e)                      '1.0000E+3
+'EX_pnto-R(e)                  '  0.00000
+'EX_ppa(e)                     '  0.00000
+'EX_ppal(e)                    '  0.00000
+'EX_pppn(e)                    '  0.00000
+'EX_ppt(e)                     '  0.00000
+'EX_progly(e)                  '  0.00000
+'EX_pro-L(e)                   ' 50.42649
+'EX_psclys(e)                  '  0.00000
+'EX_pser-L(e)                  '  0.00000
+'EX_ptrc(e)                    ' 48.05173
+'EX_pyr(e)                     '123.49965
+'EX_r5p(e)                     '  0.00000
+'EX_rib-D(e)                   '  0.00000
+'EX_rmn(e)                     '  0.00000
+'EX_sbt-D(e)                   '  0.00000
+'EX_ser-D(e)                   '  0.00000
+'EX_ser-L(e)                   '107.02766
+'EX_skm(e)                     '  0.00000
+'EX_so2(e)                     '  0.00000
+'EX_so3(e)                     '  0.00000
+'EX_so4(e)                     '1.0000E+3
+'EX_spmd(e)                    '  0.00000
+'EX_succ(e)                    ' 83.62028
+'EX_sucr(e)                    '  0.00000
+'EX_sulfac(e)                  '  0.00000
+'EX_tartr-L(e)                 '  0.00000
+'EX_taur(e)                    '  0.00000
+'EX_tcynt(e)                   '  0.00000
+'EX_thm(e)                     '  0.00000
+'EX_thr-L(e)                   ' 62.82700
+'EX_thrp(e)                    '  0.00000
+'EX_thym(e)                    '  0.00000
+'EX_thymd(e)                   ' 26.70148
+'EX_tma(e)                     '  0.00000
+'EX_tmao(e)                    '  0.00000
+'EX_tre(e)                     '  0.00000
+'EX_trp-L(e)                   '  0.00000
+'EX_tsul(e)                    '  0.00000
+'EX_ttdca(e)                   '  0.00000
+'EX_ttdcea(e)                  '  0.00000
+'EX_tungs(e)                   '1.0000E+3
+'EX_tym(e)                     '  0.00000
+'EX_tyr-L(e)                   ' 28.07324
+'EX_tyrp(e)                    '  0.00000
+'EX_uacgam(e)                  '  0.00000
+'EX_udpacgal(e)                '  0.00000
+'EX_udpg(e)                    '  0.00000
+'EX_udpgal(e)                  '  0.00000
+'EX_udpglcur(e)                '  0.00000
+'EX_ump(e)                     '  0.00000
+'EX_ura(e)                     ' 84.82779
+'EX_urea(e)                    '161.08948
+'EX_uri(e)                     ' 33.23522
+'EX_val-L(e)                   ' 51.06235
+'EX_xan(e)                     ' 62.32705
+'EX_xmp(e)                     '  0.00000
+'EX_xtsn(e)                    ' 29.29838
+'EX_xyl-D(e)                   '  0.00000
+'EX_xylu-L(e)                  '  0.00000
+'EX_zn2(e)                     '1.0000E+3
+'F6PA_f                        '585.76164
+'F6PA_b                        '  0.00000
+'F6PP                          '902.90872
+'F6Pt6_2pp                     '  0.00000
+'F6Ptex_f                      '  0.00000
+'F6Ptex_b                      '  0.00000
+'FA100ACPHi                    '902.90872
+'FA120ACPHi                    '902.90872
+'FA140ACPHi                    '902.90872
+'FA141ACPHi                    '902.90872
+'FA160ACPHi                    '902.90872
+'FA161ACPHi                    '902.90872
+'FA80ACPHi                     '902.90872
+'FACOAE100                     '  0.00000
+'FACOAE120                     '300.96957
+'FACOAE140                     '300.96957
+'FACOAE141                     '300.96957
+'FACOAE160                     '300.96957
+'FACOAE161                     '300.96957
+'FACOAE180                     '300.96957
+'FACOAE181                     '300.96957
+'FACOAE60                      '902.90872
+'FACOAE80                      '  0.00000
+'FACOAL100t2pp                 '  0.00000
+'FACOAL120t2pp                 '300.96957
+'FACOAL140t2pp                 '300.96957
+'FACOAL141t2pp                 '300.96957
+'FACOAL160t2pp                 '300.96957
+'FACOAL161t2pp                 '300.96957
+'FACOAL180t2pp                 '300.96957
+'FACOAL181t2pp                 '300.96957
+'FACOAL60t2pp                  '902.90872
+'FACOAL80t2pp                  '  0.00000
+'FADRx                         '240.95450
+'FADRx2                        '231.62311
+'FALDH2_f                      '  0.00000
+'FALDH2_b                      '  0.00000
+'FALDtex_f                     '  0.00000
+'FALDtex_b                     '  0.00000
+'FALDtpp_f                     '  0.00000
+'FALDtpp_b                     '  0.00000
+'FALGTHLs_f                    '  0.00000
+'FALGTHLs_b                    '  0.00000
+'FBA_f                         '875.37571
+'FBA_b                         '  0.00000
+'FBP                           '902.90872
+'FCI_f                         '  0.00000
+'FCI_b                         '  0.00000
+'FCLK                          '  0.00000
+'FCLPA_f                       '  0.00000
+'FCLPA_b                       '  0.00000
+'FCLT                          '  6.90270
+'FDH4pp                        '440.07342
+'FDH5pp                        '440.07342
+'FDMO                          '  0.00000
+'FDMO2                         '  0.00000
+'FDMO3                         '  0.00000
+'FDMO4                         '  0.00000
+'FDMO6                         '  0.00000
+'FE2abcpp                      '902.90872
+'FE2t2pp                       '1.0000E+3
+'FE2t3pp                       '1.0000E+3
+'FE2tex_f                      '1.0000E+3
+'FE2tex_b                      '  0.00000
+'FE2tpp                        '1.0000E+3
+'FE3abcpp                      '481.63620
+'FE3DCITabcpp                  '  0.00000
+'FE3DCITtonex                  '  0.00000
+'FE3DHBZR                      '  0.00000
+'FE3DHBZSabcpp                 '  0.00000
+'FE3DHBZStonex                 '  0.00000
+'FE3HOXabcpp                   '366.01780
+'FE3HOXexs                     '366.01780
+'FE3HOXR1                      '183.00890
+'FE3HOXR2                      '183.00890
+'FE3HOXR3                      '183.00890
+'FE3HOXtonex                   '366.01780
+'FE3HOXUtex                    '366.01780
+'FE3HOXUtpp                    '366.01780
+'FE3Ri                         '240.80118
+'FE3tex_f                      '481.63620
+'FE3tex_b                      '  0.00000
+'FECRMabcpp                    '366.01780
+'FECRMexs                      '366.01780
+'FECRMR1                       '183.00890
+'FECRMR2                       '183.00890
+'FECRMR3                       '183.00890
+'FECRMtonex                    '366.01780
+'FECRMUtex                     '366.01780
+'FECRMUtpp                     '366.01780
+'FEENTERabcpp                  '366.01780
+'FEENTERexs                    '366.01780
+'FEENTERR1                     '183.00890
+'FEENTERR2                     '183.00890
+'FEENTERR3                     '183.00890
+'FEENTERtex                    '366.01780
+'FEENTERtonex                  '366.01780
+'FEENTERtpp                    '366.01780
+'FEOXAMabcpp                   '366.01780
+'FEOXAMexs                     '366.01780
+'FEOXAMR1                      '183.00890
+'FEOXAMR2                      '183.00890
+'FEOXAMR3                      '183.00890
+'FEOXAMtonex                   '366.01780
+'FEOXAMUtex                    '366.01780
+'FEOXAMUtpp                    '366.01780
+'FEROpp                        '365.86278
+'FFSD                          '  0.00000
+'FHL                           '459.19701
+'FLDR                          '413.65750
+'FLVR                          '178.05959
+'FLVRx                         '183.00890
+'FMETTRS                       '  0.00000
+'FMNAT                         '  0.00215
+'FMNRx                         '183.00890
+'FMNRx2                        '178.05959
+'FORt2pp                       '1.0000E+3
+'FORtex_f                      '  0.00000
+'FORtex_b                      '  0.00000
+'FORtppi                       '1.0000E+3
+'FRD2                          '771.29222
+'FRD3                          '769.67923
+'FRUK                          '  0.00000
+'FRULYSDG_f                    '  0.00000
+'FRULYSDG_b                    '  0.00000
+'FRULYSE_f                     '  0.00000
+'FRULYSE_b                     '  0.00000
+'FRULYSK                       '  0.00000
+'FRULYSt2pp                    '  0.00000
+'FRULYStex_f                   '  0.00000
+'FRULYStex_b                   '  0.00000
+'FRUpts2pp                     '  0.00000
+'FRUptspp                      '  0.00000
+'FRUtex_f                      '  0.00000
+'FRUtex_b                      '  0.00000
+'FRUURt2rpp_f                  '  0.00000
+'FRUURt2rpp_b                  '  0.00000
+'FRUURtex_f                    '  0.00000
+'FRUURtex_b                    '  0.00000
+'FTHFD                         '902.90872
+'FUCtex_f                      '  0.00000
+'FUCtex_b                      '  0.00000
+'FUCtpp_f                      '  0.00000
+'FUCtpp_b                      '  0.00000
+'FUM_f                         '1.0000E+3
+'FUM_b                         '  0.00000
+'FUMt2_2pp                     '1.0000E+3
+'FUMt2_3pp                     '1.0000E+3
+'FUMtex_f                      '  0.00000
+'FUMtex_b                      '  0.00000
+'G1PACT                        '201.00366
+'G1PPpp                        '  0.00000
+'G1Ptex_f                      '  0.00000
+'G1Ptex_b                      '  0.00000
+'G1PTT                         '  4.58745
+'G1SAT_f                       ' 55.23050
+'G1SAT_b                       '  0.00000
+'G2PPpp                        '  0.00000
+'G3PAT120                      '225.72718
+'G3PAT140                      '225.72718
+'G3PAT141                      '225.72718
+'G3PAT160                      '226.03046
+'G3PAT161                      '225.96304
+'G3PAT180                      '225.72718
+'G3PAT181                      '225.84876
+'G3PCabcpp                     '  0.00000
+'G3PCtex_f                     '  0.00000
+'G3PCtex_b                     '  0.00000
+'G3PD2_f                       ' -0.84033
+'G3PD2_b                       '  0.00000
+'G3PD5                         '769.67477
+'G3PD6                         '769.67477
+'G3PD7                         '769.67477
+'G3PEabcpp                     '  0.00000
+'G3PEtex_f                     '  0.00000
+'G3PEtex_b                     '  0.00000
+'G3PGabcpp                     '  0.00000
+'G3PGtex_f                     '  0.00000
+'G3PGtex_b                     '  0.00000
+'G3PIabcpp                     '  0.00000
+'G3PItex_f                     '  0.00000
+'G3PItex_b                     '  0.00000
+'G3PSabcpp                     '  0.00000
+'G3PStex_f                     '  0.00000
+'G3PStex_b                     '  0.00000
+'G3PT                          '816.60125
+'G5SADs                        ' 51.50049
+'G5SD                          ' 51.50049
+'G6PDA                         '902.90872
+'G6PDH2r_f                     '603.55872
+'G6PDH2r_b                     '  0.00000
+'G6PP                          '902.90872
+'G6Pt6_2pp                     '  0.00000
+'G6Ptex_f                      '  0.00000
+'G6Ptex_b                      '  0.00000
+'GAL1PPpp                      '  0.00000
+'GAL1Ptex_f                    '  0.00000
+'GAL1Ptex_b                    '  0.00000
+'GALabcpp                      '  0.00000
+'GALBDtex_f                    '  0.00000
+'GALBDtex_b                    '  0.00000
+'GALCTD                        '  0.00000
+'GALCTLO                       '  0.00000
+'GALCTND                       '  0.00000
+'GALCTNLt2pp                   '  0.00000
+'GALCTNLtex_f                  '  0.00000
+'GALCTNLtex_b                  '  0.00000
+'GALCTNt2pp                    '  0.00000
+'GALCTNtex_f                   '  0.00000
+'GALCTNtex_b                   '  0.00000
+'GALCTt2rpp_f                  '  0.00000
+'GALCTt2rpp_b                  '  0.00000
+'GALCTtex_f                    '  0.00000
+'GALCTtex_b                    '  0.00000
+'GALKr_f                       '  0.00000
+'GALKr_b                       '  0.00000
+'GALM2pp                       '  0.00000
+'GALS3                         '  0.00000
+'GALT1                         '  1.36829
+'GALt2pp                       '  0.00000
+'GALtex_f                      '  0.00000
+'GALtex_b                      '  0.00000
+'GALTptspp                     '  0.00000
+'GALTtex_f                     '  0.00000
+'GALTtex_b                     '  0.00000
+'GALUi                         '451.61738
+'GALURt2rpp_f                  '  0.00000
+'GALURt2rpp_b                  '  0.00000
+'GALURtex_f                    '  0.00000
+'GALURtex_b                    '  0.00000
+'GAM6Pt6_2pp                   '  0.00000
+'GAMAN6Ptex_f                  '  0.00000
+'GAMAN6Ptex_b                  '  0.00000
+'GAMptspp                      '  0.00000
+'GAMtex_f                      '  0.00000
+'GAMtex_b                      '  0.00000
+'GAPD_f                        '186.07945
+'GAPD_b                        '  0.00000
+'GARFT_f                       ' 91.15552
+'GARFT_b                       '  0.00000
+'GART                          '903.44809
+'GBBTNtex_f                    '  0.00000
+'GBBTNtex_b                    '  0.00000
+'GCALDD                        '  0.00861
+'GDMANE                        '  0.00000
+'GDPDPK                        '902.90872
+'GDPMNH                        '902.90872
+'GDPMNP                        '902.90872
+'GDPtex_f                      '  0.00000
+'GDPtex_b                      '  0.00000
+'GF6PTA                        '903.26600
+'GGGABADr_f                    '167.43570
+'GGGABADr_b                    '  0.00000
+'GGGABAH                       '167.43570
+'GGPTRCO                       '167.43570
+'GGPTRCS                       '167.43570
+'GHMT2r_f                      '189.88955
+'GHMT2r_b                      '  0.00000
+'GK1_f                         '904.08896
+'GK1_b                         '  0.00000
+'GLBRAN2                       '1.0000E+3
+'GLCabcpp                      '  0.00000
+'GLCATr_f                      '  0.00000
+'GLCATr_b                      '  0.00000
+'GLCDpp                        '100.00000
+'GLCNt2rpp_f                   '100.00000
+'GLCNt2rpp_b                   '  0.00000
+'GLCNtex_f                     '  0.00000
+'GLCNtex_b                     '  0.00000
+'GLCP                          '999.22900
+'GLCP2                         '999.22900
+'GLCptspp                      '100.00000
+'GLCRAL                        '  0.00000
+'GLCRD                         '  0.00000
+'GLCRt2rpp_f                   '  0.00000
+'GLCRt2rpp_b                   '  0.00000
+'GLCRtex_f                     '  0.00000
+'GLCRtex_b                     '  0.00000
+'GLCS1                         '1.0000E+3
+'GLCt2pp                       '100.00000
+'GLCtex_f                      '100.00000
+'GLCtex_b                      '  0.00000
+'GLCtexi                       '  0.00000
+'GLCTR1                        '  1.36829
+'GLCTR2                        '  1.36829
+'GLCTR3                        '  1.36829
+'GLCUR1Ptex_f                  '  0.00000
+'GLCUR1Ptex_b                  '  0.00000
+'GLCURt2rpp_f                  '  0.00000
+'GLCURt2rpp_b                  '  0.00000
+'GLCURtex_f                    '  0.00000
+'GLCURtex_b                    '  0.00000
+'GLDBRAN2                      '1.0000E+3
+'GLGC                          '1.0000E+3
+'GLNabcpp                      '  0.00000
+'GLNS                          '911.58895
+'GLNtex_f                      '  0.00000
+'GLNtex_b                      '  0.00000
+'GLNTRS                        '  0.00000
+'GLTPD_f                       '  0.00000
+'GLTPD_b                       '  0.00000
+'GLU5K                         ' 51.50049
+'GLUabcpp                      '902.90872
+'GLUABUTt7pp_f                 '1.0000E+3
+'GLUABUTt7pp_b                 '  0.00000
+'GLUCYS                        '225.72829
+'GLUDC                         '292.51601
+'GLUDy_f                       '861.17545
+'GLUDy_b                       '  0.00000
+'GLUN                          '902.90872
+'GLUNpp                        '  0.00000
+'GLUPRT                        ' 91.15552
+'GLUR_f                        ' -0.13789
+'GLUR_b                        '  0.00000
+'GLUSy                         '902.90872
+'GLUt2rpp_f                    '225.72718
+'GLUt2rpp_b                    '  0.00000
+'GLUt4pp                       '1.0000E+3
+'GLUtex_f                      '  0.00000
+'GLUtex_b                      '  0.00000
+'GLUTRR                        ' 55.23050
+'GLUTRS                        ' 55.23050
+'GLXCL                         '245.57458
+'GLYALDtex_f                   '  0.00000
+'GLYALDtex_b                   '  0.00000
+'GLYALDtpp_f                   '  0.00000
+'GLYALDtpp_b                   '  0.00000
+'GLYAT_f                       '1.0000E+3
+'GLYAT_b                       '  0.00000
+'GLYBabcpp                     '  0.00000
+'GLYBt2pp                      '  0.00000
+'GLYBtex_f                     '  0.00000
+'GLYBtex_b                     '  0.00000
+'GLYC2Ptex_f                   '  0.00000
+'GLYC2Ptex_b                   '  0.00000
+'GLYC3Pabcpp                   '  0.00000
+'GLYC3Pt6pp                    '  0.00000
+'GLYC3Ptex_f                   '  0.00000
+'GLYC3Ptex_b                   '  0.00000
+'GLYCAt2rpp_f                  '  0.00000
+'GLYCAt2rpp_b                  '  0.00000
+'GLYCAtex_f                    '  0.00000
+'GLYCAtex_b                    '  0.00000
+'GLYCDx                        '816.63332
+'GLYCK                         '245.57458
+'GLYCK2                        '245.57458
+'GLYCL                         '262.22618
+'GLYCLTDx                      '769.67477
+'GLYCLTDy                      '769.67477
+'GLYCLTt2rpp_f                 '  0.00000
+'GLYCLTt2rpp_b                 '  0.00000
+'GLYCLTt4pp                    '1.0000E+3
+'GLYCLTtex_f                   '  0.00000
+'GLYCLTtex_b                   '  0.00000
+'GLYCtex_f                     '  0.00000
+'GLYCtex_b                     '  0.00000
+'GLYCTO2                       '769.67923
+'GLYCTO3                       '769.67923
+'GLYCTO4                       '769.67923
+'GLYCtpp_f                     ' 76.50908
+'GLYCtpp_b                     '  0.00000
+'GLYK                          '  0.00000
+'GLYOX                         '359.13030
+'GLYOX3                        '359.13030
+'GLYt2pp                       '  0.00000
+'GLYt4pp                       '  0.00000
+'GLYtex_f                      '  0.00000
+'GLYtex_b                      '  0.00000
+'GLYTRS                        '  0.00000
+'GMAND                         '  0.00000
+'GMHEPAT                       '  5.47314
+'GMHEPK                        '  5.47314
+'GMHEPPA                       '  5.47314
+'GMPR                          '451.45436
+'GMPS2                         '452.63460
+'GMPtex_f                      '  0.00000
+'GMPtex_b                      '  0.00000
+'GND                           '504.68610
+'GNK                           '100.00000
+'GOFUCR                        '  0.00000
+'GP4GH                         '  0.00000
+'GPDDA1                        '  0.00000
+'GPDDA1pp                      '  0.00000
+'GPDDA2                        '150.48479
+'GPDDA2pp                      ' 50.75010
+'GPDDA3                        '  0.00000
+'GPDDA3pp                      '  0.00000
+'GPDDA4                        '150.48479
+'GPDDA4pp                      ' 51.87042
+'GPDDA5                        '  0.00000
+'GPDDA5pp                      '  0.00000
+'GRTT                          '  0.00915
+'GRXR                          '414.85517
+'GSNK                          '902.90872
+'GSNt2pp                       '  0.00000
+'GSNtex_f                      '  0.00000
+'GSNtex_b                      '  0.00000
+'GSPMDA                        '902.90872
+'GSPMDS                        '902.90872
+'GTHOr_f                       '414.85517
+'GTHOr_b                       '  0.00000
+'GTHOXtex_f                    '  0.00000
+'GTHOXtex_b                    '  0.00000
+'GTHRDabc2pp                   '451.45436
+'GTHRDabcpp                    '451.45436
+'GTHRDHpp                      '225.72718
+'GTHRDtex_f                    '  0.00000
+'GTHRDtex_b                    '  0.00000
+'GTHS                          '225.72829
+'GTPCI                         '  0.00861
+'GTPCII2                       '  0.00431
+'GTPDPDP                       '451.45436
+'GTPDPK                        '451.45436
+'GTPHs                         '300.96957
+'GTPtex_f                      '  0.00000
+'GTPtex_b                      '  0.00000
+'GUAD                          '300.96957
+'GUAPRT                        '902.90872
+'GUAt2pp                       '1.0000E+3
+'GUAtex_f                      '  0.00000
+'GUAtex_b                      '  0.00000
+'GUAtpp_f                      '  0.00000
+'GUAtpp_b                      '  0.00000
+'GUI1_f                        '  0.00000
+'GUI1_b                        '  0.00000
+'GUI2_f                        '  0.00000
+'GUI2_b                        '  0.00000
+'GUR1PPpp                      '  0.00000
+'H2O2tex_f                     '  0.00000
+'H2O2tex_b                     '  0.00000
+'H2Otex_f                      '-1.110E+2
+'H2Otex_b                      '  0.00000
+'H2Otpp_f                      '-1.111E+2
+'H2Otpp_b                      '  0.00000
+'H2SO                          '104.89865
+'H2St1pp                       '100.41580
+'H2Stex_f                      '  0.00000
+'H2Stex_b                      '  0.00000
+'H2tex_f                       '  0.00000
+'H2tex_b                       '  0.00000
+'H2tpp_f                       '  0.00000
+'H2tpp_b                       '  0.00000
+'HACD1i                        '  0.00000
+'HACD2i                        '  0.00000
+'HACD3i                        '  0.00000
+'HACD4i                        '  0.00000
+'HACD5i                        '  0.00000
+'HACD6i                        '  0.00000
+'HACD7i                        '  0.00000
+'HACD8i                        '  0.00000
+'HBZOPT                        '  0.00215
+'HCINNMt2rpp_f                 '  0.00000
+'HCINNMt2rpp_b                 '  0.00000
+'HCINNMtex_f                   '  0.00000
+'HCINNMtex_b                   '  0.00000
+'HCO3E_f                       '916.00052
+'HCO3E_b                       '  0.00000
+'HCYSMT                        ' 49.99425
+'HCYSMT2                       '  0.00000
+'HDCAtexi                      '  0.00000
+'HDCEAtexi                     '  0.00000
+'HDCOAI                        '  1.19682
+'HEMEOS                        '  0.00215
+'HEPK1                         '  1.36829
+'HEPK2                         '  1.36829
+'HEPT1                         '  1.36829
+'HEPT2                         '  1.36829
+'HEPT3                         '  1.36829
+'HEPT4                         '  1.36829
+'HETZK                         '  0.00000
+'HEX1                          '1.0000E+3
+'HEX4                          '902.90872
+'HEX7                          '902.90872
+'HEXt2rpp_f                    '  0.00000
+'HEXt2rpp_b                    '  0.00000
+'HG2abcpp                      '  0.00000
+'HG2t3pp                       '  0.00000
+'HG2tex_f                      '  0.00000
+'HG2tex_b                      '  0.00000
+'HISabcpp                      '902.90872
+'HISt2rpp_f                    '  0.00000
+'HISt2rpp_b                    '  0.00000
+'HISTD                         ' 43.41717
+'HIStex_f                      '  0.00000
+'HIStex_b                      '  0.00000
+'HISTP                         ' 43.41717
+'HISTRS                        '  0.00000
+'HKNDDH                        '  0.00000
+'HKNTDH                        '  0.00000
+'HMBS                          '  6.90381
+'HMPK1                         '  0.00000
+'HOMt2pp                       ' 64.55302
+'HOMtex_f                      '  0.00000
+'HOMtex_b                      '  0.00000
+'HOPNTAL                       '  0.00000
+'HPPK2                         '  0.00861
+'HPPPNDO                       '  0.00000
+'HPPPNt2rpp_f                  '  0.00000
+'HPPPNt2rpp_b                  '  0.00000
+'HPPPNtex_f                    '  0.00000
+'HPPPNtex_b                    '  0.00000
+'HPYRI_f                       '  0.00000
+'HPYRI_b                       '  0.00000
+'HPYRRx                        '1.0000E+3
+'HPYRRy                        '1.0000E+3
+'HSDy_f                        ' -3.39162
+'HSDy_b                        '  0.00000
+'HSK                           '283.60514
+'HSST                          '  1.46219
+'HSTPT                         ' 43.41717
+'Htex_f                        '1.0000E+3
+'Htex_b                        '  0.00000
+'HXAND                         '301.75640
+'HXAtex_f                      '  0.00000
+'HXAtex_b                      '  0.00000
+'HXCT                          '902.90872
+'HXPRT                         '902.90872
+'HYD1pp                        '459.19701
+'HYD2pp                        '459.19701
+'HYD3pp                        '459.19701
+'HYPOE                         '902.90872
+'HYXNtex_f                     '  0.00000
+'HYXNtex_b                     '  0.00000
+'HYXNtpp_f                     '  0.00000
+'HYXNtpp_b                     '  0.00000
+'ICDHyr_f                      '309.65717
+'ICDHyr_b                      '  0.00000
+'ICHORS_f                      ' 26.84940
+'ICHORS_b                      '  0.00000
+'ICHORSi                       '1.0000E+3
+'ICHORT                        ' 26.84717
+'ICL                           '491.14471
+'IDOND_f                       ' 50.83539
+'IDOND_b                       '  0.00000
+'IDOND2                        '1.0000E+3
+'IDONt2rpp_f                   '  0.00000
+'IDONt2rpp_b                   '  0.00000
+'IDONtex_f                     '  0.00000
+'IDONtex_b                     '  0.00000
+'IG3PS                         ' 43.41717
+'IGPDH                         ' 43.41717
+'IGPS                          ' 27.95259
+'ILEabcpp                      '902.90872
+'ILEt2rpp_f                    '  0.00000
+'ILEt2rpp_b                    '  0.00000
+'ILETA_f                       ' -1.41150
+'ILETA_b                       '  0.00000
+'ILEtex_f                      '  0.00000
+'ILEtex_b                      '  0.00000
+'ILETRS                        '  0.00000
+'IMPC_f                        ' -2.63241
+'IMPC_b                        '  0.00000
+'IMPD                          '452.63460
+'IMPtex_f                      '  0.00000
+'IMPtex_b                      '  0.00000
+'INDOLEt2pp                    '1.0000E+3
+'INDOLEt2rpp_f                 '1.0000E+3
+'INDOLEt2rpp_b                 '  0.00000
+'INDOLEtex_f                   '  0.00000
+'INDOLEtex_b                   '  0.00000
+'INOSTt4pp                     '  0.00000
+'INSH                          '  0.00000
+'INSK                          '902.90872
+'INSt2pp                       '1.0000E+3
+'INSt2rpp_f                    '  0.00000
+'INSt2rpp_b                    '  0.00000
+'INStex_f                      '  0.00000
+'INStex_b                      '  0.00000
+'INSTtex_f                     '  0.00000
+'INSTtex_b                     '  0.00000
+'IPDDI_f                       '  0.00915
+'IPDDI_b                       '  0.00000
+'IPDPS                         '  0.06399
+'IPMD                          ' 42.11746
+'IPPMIa_f                      ' -2.18900
+'IPPMIa_b                      '  0.00000
+'IPPMIb_f                      ' -2.18900
+'IPPMIb_b                      '  0.00000
+'IPPS                          ' 42.11746
+'ISETACabcpp                   '  0.00000
+'ISETACtex_f                   '  0.00000
+'ISETACtex_b                   '  0.00000
+'K2L4Aabcpp                    '  2.63040
+'K2L4Atex                      '  2.63040
+'Kabcpp                        '902.90872
+'KARA1_f                       ' -4.25138
+'KARA1_b                       '  0.00000
+'KARA2_f                       ' 38.01165
+'KARA2_b                       '  0.00000
+'KAS14                         ' 13.34092
+'KAS15                         ' 13.34092
+'KAT1                          '  0.00000
+'KAT2                          '  0.00000
+'KAT3                          '  0.00000
+'KAT4                          '  0.00000
+'KAT5                          '  0.00000
+'KAT6                          '  0.00000
+'KAT7                          '  0.00000
+'KAT8                          '  0.00000
+'KDOCT2                        '  5.38307
+'KDOPP                         '  5.38307
+'KDOPS                         '  5.38307
+'KG6PDC                        '  0.00000
+'Kt2pp                         '1.0000E+3
+'Kt3pp                         '1.0000E+3
+'Ktex_f                        '  1.67050
+'Ktex_b                        '  0.00000
+'LA4NTpp                       '  1.29369
+'LACZ                          '  0.00000
+'LACZpp                        '  0.00000
+'LADGMDH                       ' 82.08261
+'LALDO2x                       ' 69.93243
+'LALGP                         ' 82.08261
+'LCADi                         '  0.00000
+'LCARR_f                       ' 69.93243
+'LCARR_b                       '  0.00000
+'LCARS_f                       '  0.00000
+'LCARS_b                       '  0.00000
+'LCTSt3ipp                     '  0.00000
+'LCTStex_f                     '  0.00000
+'LCTStex_b                     '  0.00000
+'LCTStpp_f                     '  0.00000
+'LCTStpp_b                     '  0.00000
+'LDH_D_f                       '359.13030
+'LDH_D_b                       '  0.00000
+'LDH_D2                        '769.67477
+'LEUabcpp                      '902.90872
+'LEUt2rpp_f                    '  0.00000
+'LEUt2rpp_b                    '  0.00000
+'LEUTAi                        ' 42.11746
+'LEUtex_f                      '  0.00000
+'LEUtex_b                      '  0.00000
+'LEUTRS                        '  0.00000
+'LGTHL                         '359.13030
+'LIPAabcpp                     '  1.96249
+'LIPACabcpp                    '  1.88960
+'LIPAHT2ex                     '  0.00000
+'LIPAHTex                      '  0.00000
+'LIPAtex                       '  1.96249
+'L-LACD2                       '  0.00000
+'L-LACD3                       '  0.00000
+'L-LACt2rpp_f                  '  0.00000
+'L-LACt2rpp_b                  '  0.00000
+'L-LACtex_f                    '  0.00000
+'L-LACtex_b                    '  0.00000
+'LPADSS                        '  2.67116
+'LPLIPAL1A120pp                ' 57.03228
+'LPLIPAL1A140pp                ' 57.03228
+'LPLIPAL1A141pp                ' 57.03228
+'LPLIPAL1A160pp                ' 57.03228
+'LPLIPAL1A161pp                ' 57.03228
+'LPLIPAL1A180pp                ' 57.03228
+'LPLIPAL1A181pp                ' 57.03228
+'LPLIPAL1E120pp                ' 50.75010
+'LPLIPAL1E140pp                ' 50.75010
+'LPLIPAL1E141pp                ' 50.75010
+'LPLIPAL1E160pp                ' 50.75010
+'LPLIPAL1E161pp                ' 50.75010
+'LPLIPAL1E180pp                ' 50.75010
+'LPLIPAL1E181pp                ' 50.75010
+'LPLIPAL1G120pp                ' 51.87042
+'LPLIPAL1G140pp                ' 51.87042
+'LPLIPAL1G141pp                ' 51.87042
+'LPLIPAL1G160pp                ' 51.87042
+'LPLIPAL1G161pp                ' 51.87042
+'LPLIPAL1G180pp                ' 51.87042
+'LPLIPAL1G181pp                ' 51.87042
+'LPLIPAL2A120                  '225.72718
+'LPLIPAL2A140                  '225.72718
+'LPLIPAL2A141                  '225.72718
+'LPLIPAL2A160                  '225.72718
+'LPLIPAL2A161                  '225.72718
+'LPLIPAL2A180                  '225.72718
+'LPLIPAL2A181                  '225.72718
+'LPLIPAL2ATE120                '  0.00000
+'LPLIPAL2ATE140                '  0.00000
+'LPLIPAL2ATE141                '  0.00000
+'LPLIPAL2ATE160                '  0.00000
+'LPLIPAL2ATE161                '  0.00000
+'LPLIPAL2ATE180                '  0.00000
+'LPLIPAL2ATE181                '  0.00000
+'LPLIPAL2ATG120                '  0.00000
+'LPLIPAL2ATG140                '  0.00000
+'LPLIPAL2ATG141                '  0.00000
+'LPLIPAL2ATG160                '  0.00000
+'LPLIPAL2ATG161                '  0.00000
+'LPLIPAL2ATG180                '  0.00000
+'LPLIPAL2ATG181                '  0.00000
+'LPLIPAL2E120                  '150.48479
+'LPLIPAL2E140                  '150.48479
+'LPLIPAL2E141                  '150.48479
+'LPLIPAL2E160                  '150.48479
+'LPLIPAL2E161                  '150.48479
+'LPLIPAL2E180                  '150.48479
+'LPLIPAL2E181                  '150.48479
+'LPLIPAL2G120                  '150.48479
+'LPLIPAL2G140                  '150.48479
+'LPLIPAL2G141                  '150.48479
+'LPLIPAL2G160                  '150.48479
+'LPLIPAL2G161                  '150.48479
+'LPLIPAL2G180                  '150.48479
+'LPLIPAL2G181                  '150.48479
+'LSERDHr_f                     '  0.00000
+'LSERDHr_b                     '  0.00000
+'LYSabcpp                      '902.90872
+'LYSDC                         ' 38.45712
+'LYSt2pp                       '1.0000E+3
+'LYSt3pp                       '1.0000E+3
+'LYStex_f                      '  0.00000
+'LYStex_b                      '  0.00000
+'LYSTRS                        '  0.00000
+'LYXI                          '  0.00000
+'LYXt2pp                       '  0.00000
+'LYXtex_f                      '  0.00000
+'LYXtex_b                      '  0.00000
+'M1PD_f                        '  0.00000
+'M1PD_b                        '  0.00000
+'MACPD                         '902.90872
+'MALDDH                        '  0.00000
+'MALDt2_2pp                    '  0.00000
+'MALDtex_f                     '  0.00000
+'MALDtex_b                     '  0.00000
+'MALS                          '310.67201
+'MALt2_2pp                     '  0.00000
+'MALt2_3pp                     '  0.00000
+'MALTabcpp                     '  0.00000
+'MALTATr_f                     '  0.00000
+'MALTATr_b                     '  0.00000
+'MALtex_f                      '  0.00000
+'MALtex_b                      '  0.00000
+'MALTHXabcpp                   '  0.00000
+'MALTHXtexi                    '  0.00000
+'MALTPTabcpp                   '  0.00000
+'MALTptspp                     '  0.00000
+'MALTPTtexi                    '  0.00000
+'MALTtexi                      '  0.00000
+'MALTTRabcpp                   '  0.00000
+'MALTTRtexi                    '  0.00000
+'MALTTTRabcpp                  '  0.00000
+'MALTTTRtexi                   '  0.00000
+'MAN1PT2                       '902.90872
+'MAN6PI_f                      '  0.00000
+'MAN6PI_b                      '  0.00000
+'MAN6Pt6_2pp                   '  0.00000
+'MAN6Ptex_f                    '  0.00000
+'MAN6Ptex_b                    '  0.00000
+'MANAO_f                       '  0.00000
+'MANAO_b                       '  0.00000
+'MANGLYCptspp                  '  0.00000
+'MANGLYCtex_f                  '  0.00000
+'MANGLYCtex_b                  '  0.00000
+'MANPGH                        '  0.00000
+'MANptspp                      '  0.00000
+'MANtex_f                      '  0.00000
+'MANtex_b                      '  0.00000
+'MCITD                         '395.91406
+'MCITL2_f                      '395.91406
+'MCITL2_b                      '  0.00000
+'MCITS                         '395.91406
+'MCOATA_f                      '913.82845
+'MCOATA_b                      '  0.00000
+'MCPST                         '  0.00000
+'MCTP1App                      ' 50.22549
+'MCTP1Bpp                      ' 50.16832
+'MCTP2App                      ' 33.48501
+'MDDCP1pp                      ' 50.22247
+'MDDCP2pp                      ' 33.48501
+'MDDCP3pp                      ' 50.19523
+'MDDCP4pp                      ' 50.19523
+'MDDCP5pp                      ' 50.16832
+'MDDEP1pp                      ' 50.19523
+'MDDEP2pp                      ' 50.16832
+'MDDEP3pp                      ' 50.19523
+'MDDEP4pp                      ' 33.48164
+'MDH_f                         '1.0000E+3
+'MDH_b                         '  0.00000
+'MDH2                          '769.67477
+'MDH3                          '769.67477
+'MDRPD                         '  0.06513
+'ME1                           '593.87109
+'ME2                           '593.87109
+'MECDPDH2                      '  0.06399
+'MECDPS                        '  0.06399
+'MELIBt2pp                     '  0.00000
+'MELIBt3ipp                    '  0.00000
+'MELIBtex_f                    '  0.00000
+'MELIBtex_b                    '  0.00000
+'MEPCT                         '  0.06399
+'METabcpp                      '  0.00000
+'METAT                         ' 50.03578
+'METDabcpp                     '  0.00000
+'METDtex_f                     '  0.00000
+'METDtex_b                     '  0.00000
+'METOX1s                       '385.20161
+'METOX2s                       '385.20161
+'METS                          '  1.47095
+'METSOX1abcpp                  '  0.00000
+'METSOX1tex_f                  '  0.00000
+'METSOX1tex_b                  '  0.00000
+'METSOX2abcpp                  '  0.00000
+'METSOX2tex_f                  '  0.00000
+'METSOX2tex_b                  '  0.00000
+'METSOXR1                      '385.20161
+'METSOXR2                      '385.20161
+'METtex_f                      '  0.00000
+'METtex_b                      '  0.00000
+'METTRS                        '  0.00000
+'MG2t3_2pp_f                   '  0.07425
+'MG2t3_2pp_b                   '  0.00000
+'MG2tex_f                      '  0.07425
+'MG2tex_b                      '  0.00000
+'MG2tpp                        '1.0000E+3
+'MG2uabcpp                     '762.53089
+'MGSA                          '358.95051
+'MI1PP                         '  0.00000
+'MICITD                        '395.91406
+'MINOHPtexi                    '  0.00000
+'MLDCP1App                     ' 50.17135
+'MLDCP1Bpp                     ' 50.16832
+'MLDCP2App                     ' 50.16832
+'MLDCP2Bpp                     ' 50.16832
+'MLDCP3App                     ' 50.16832
+'MLDEP1pp                      ' 50.16832
+'MLDEP2pp                      ' 50.16832
+'MLTG1                         '  0.00000
+'MLTG2                         '  0.00000
+'MLTG3                         '902.90872
+'MLTG4                         '902.90872
+'MLTG5                         '902.90872
+'MLTGY1pp                      ' 50.16160
+'MLTGY2pp                      ' 50.16160
+'MLTGY3pp                      ' 50.16160
+'MLTGY4pp                      ' 33.48164
+'MLTP1_f                       '  0.00000
+'MLTP1_b                       '  0.00000
+'MLTP2_f                       '  0.00000
+'MLTP2_b                       '  0.00000
+'MLTP3_f                       '  0.00000
+'MLTP3_b                       '  0.00000
+'MMCD                          '395.91406
+'MME_f                         '395.91406
+'MME_b                         '  0.00000
+'MMETt2pp                      '  0.00000
+'MMETtex_f                     '  0.00000
+'MMETtex_b                     '  0.00000
+'MMM2                          '395.91406
+'MN2t3pp                       '1.0000E+3
+'MN2tpp                        '1.0000E+3
+'MN6PP                         '902.90872
+'MNLptspp                      '  0.00000
+'MNLtex_f                      '  0.00000
+'MNLtex_b                      '  0.00000
+'MNNH                          '  0.00000
+'MNt2pp                        '1.0000E+3
+'MNtex_f                       '  0.02970
+'MNtex_b                       '  0.00000
+'MOAT                          '  2.67116
+'MOAT2                         '  2.67116
+'MOAT3C                        '  1.36829
+'MOBDabcpp                     '  0.02970
+'MOBDtex_f                     '  0.02970
+'MOBDtex_b                     '  0.00000
+'MOHMT                         '  0.00556
+'MPTG                          ' 50.22886
+'MPTG2                         ' 33.48501
+'MSO3abcpp                     '  0.00000
+'MSO3tex_f                     '  0.00000
+'MSO3tex_b                     '  0.00000
+'MTAN                          '  0.06513
+'MTHFC_f                       '275.62738
+'MTHFC_b                       '  0.00000
+'MTHFD_f                       '275.62738
+'MTHFD_b                       '  0.00000
+'MTHFR2                        '  1.47207
+'MTRI_f                        '  0.06513
+'MTRI_b                        '  0.00000
+'MTRK                          '  0.06513
+'MTRPOX                        '  0.00000
+'N2Otex_f                      '  0.00000
+'N2Otex_b                      '  0.00000
+'N2Otpp_f                      '  0.00000
+'N2Otpp_b                      '  0.00000
+'NACODA                        ' 49.57776
+'NACtex_f                      '  0.00000
+'NACtex_b                      '  0.00000
+'NACtpp                        '  0.00000
+'NADDP                         '902.90872
+'NADH10                        '769.67477
+'NADH16pp                      '769.67477
+'NADH17pp                      '769.67477
+'NADH18pp                      '769.67477
+'NADH5                         '769.67477
+'NADH9                         '769.67477
+'NADK                          '902.91095
+'NADN                          '225.72718
+'NADPHQR2                      '769.67477
+'NADPHQR3                      '769.67477
+'NADPHQR4                      '769.67477
+'NADPPPS                       '902.90872
+'NADS1                         '451.46575
+'NADTRHD                       '1.0000E+3
+'NAMNPP                        '225.72718
+'NAt3_1p5pp                    '1.0000E+3
+'NAt3_2pp                      '1.0000E+3
+'NAt3pp                        '1.0000E+3
+'NAtex_f                       '  0.00000
+'NAtex_b                       '  0.00000
+'NDPK1_f                       '1.0000E+3
+'NDPK1_b                       '  0.00000
+'NDPK2_f                       '905.03062
+'NDPK2_b                       '  0.00000
+'NDPK3_f                       '903.72772
+'NDPK3_b                       '  0.00000
+'NDPK4_f                       '903.07352
+'NDPK4_b                       '  0.00000
+'NDPK5_f                       '903.03677
+'NDPK5_b                       '  0.00000
+'NDPK6_f                       '902.90872
+'NDPK6_b                       '  0.00000
+'NDPK7_f                       '903.03677
+'NDPK7_b                       '  0.00000
+'NDPK8_f                       '903.03277
+'NDPK8_b                       '  0.00000
+'NH4tex_f                      '388.14416
+'NH4tex_b                      '  0.00000
+'NH4tpp_f                      '748.93051
+'NH4tpp_b                      '  0.00000
+'NHFRBO                        '  0.00000
+'NI2abcpp                      '902.90872
+'NI2t3pp                       '1.0000E+3
+'NI2tex_f                      '  0.00000
+'NI2tex_b                      '  0.00000
+'NI2tpp                        '1.0000E+3
+'NI2uabcpp                     '902.90872
+'NMNAT                         '902.90872
+'NMNDA                         '451.45436
+'NMNN                          '225.72718
+'NMNPtpp                       '  0.00000
+'NMNt7pp                       '  0.00000
+'NMNtex_f                      '  0.00000
+'NMNtex_b                      '  0.00000
+'NNAM                          '225.72718
+'NNATr_f                       '451.46575
+'NNATr_b                       '  0.00000
+'NNDMBRT                       '  0.00000
+'NNDPR                         '  0.02201
+'NO2t2rpp_f                    '  0.00000
+'NO2t2rpp_b                    '  0.00000
+'NO2tex_f                      '  0.00000
+'NO2tex_b                      '  0.00000
+'NO3R1bpp                      '  0.00000
+'NO3R1pp                       '  0.00000
+'NO3R2bpp                      '  0.00000
+'NO3R2pp                       '  0.00000
+'NO3t7pp                       '  0.00000
+'NO3tex_f                      '  0.00000
+'NO3tex_b                      '  0.00000
+'NODOx                         '  0.00000
+'NODOy                         '  0.00000
+'NOtex_f                       '  0.00000
+'NOtex_b                       '  0.00000
+'NOtpp_f                       '  0.00000
+'NOtpp_b                       '  0.00000
+'NPHS                          '  0.00431
+'NTD1                          '902.90872
+'NTD10                         '902.90872
+'NTD10pp                       '  0.00000
+'NTD11                         '902.90872
+'NTD11pp                       '  0.00000
+'NTD12                         '242.91001
+'NTD12pp                       '  0.00000
+'NTD1pp                        '  0.00000
+'NTD2                          '902.90872
+'NTD2pp                        '  0.00000
+'NTD3                          '  0.00000
+'NTD3pp                        '  0.00000
+'NTD4                          '902.90872
+'NTD4pp                        '  0.00000
+'NTD5                          '902.90872
+'NTD5pp                        '  0.00000
+'NTD6                          '413.20811
+'NTD6pp                        '  0.00000
+'NTD7                          '902.90872
+'NTD7pp                        '  0.00000
+'NTD8                          '413.20811
+'NTD8pp                        '  0.00000
+'NTD9                          '902.90872
+'NTD9pp                        '  0.00000
+'NTP1                          '902.90872
+'NTP10                         '902.90872
+'NTP11                         '  0.00000
+'NTP12                         '  0.00000
+'NTP3                          '902.90872
+'NTP3pp                        '  0.00000
+'NTP5                          '902.90872
+'NTPP1                         '902.90872
+'NTPP10                        '242.91001
+'NTPP11                        '300.96957
+'NTPP2                         '902.90872
+'NTPP3                         '902.90872
+'NTPP4                         '902.90872
+'NTPP5                         '902.90872
+'NTPP6                         '902.90872
+'NTPP7                         '902.90872
+'NTPP8                         '902.90872
+'NTPP9                         '451.45436
+'NTPTP1                        '413.20811
+'NTPTP2                        '902.90872
+'NTRIR2x                       '  0.00000
+'NTRIR3pp                      '  0.00000
+'NTRIR4pp                      '  0.00000
+'O16A4COLIPAtex                '  0.00000
+'O16A4Lpp                      '  0.00000
+'O16AP1pp                      '  0.00000
+'O16AP2pp                      '  0.00000
+'O16AP3pp                      '  0.00000
+'O16AT                         '  0.00000
+'O16AUNDtpp                    '  0.00000
+'O16GALFT                      '  0.00000
+'O16GLCT1                      '  0.00000
+'O16GLCT2                      '  0.00000
+'O2Stex_f                      '  0.00000
+'O2Stex_b                      '  0.00000
+'O2tex_f                       '623.34709
+'O2tex_b                       '  0.00000
+'O2tpp_f                       '385.65144
+'O2tpp_b                       '  0.00000
+'OAADC                         '593.87109
+'OBTFL                         '209.00091
+'OCBT_f                        '182.13879
+'OCBT_b                        '  0.00000
+'OCDCAtexi                     '  0.00000
+'OCDCEAtexi                    '  0.00000
+'OCTAtex_f                     '  0.00000
+'OCTAtex_b                     '  0.00000
+'OCTDPS                        '  0.00646
+'ODECOAI                       '  0.00000
+'OHPBAT_f                      '  0.00215
+'OHPBAT_b                      '  0.00000
+'OHPHM                         '  0.00215
+'OMBZLM                        '  0.00215
+'OMCDC                         ' 42.11746
+'OMMBLHX                       '  0.00215
+'OMMBLHX3                      '  0.00215
+'OMPDC                         ' 86.42939
+'OMPHHX                        '  0.00215
+'OMPHHX3                       '  0.00215
+'OP4ENH                        '  0.00000
+'OPHBDC                        '  0.00215
+'OPHHX                         '  0.00215
+'OPHHX3                        '  0.00215
+'ORNabcpp                      '902.90872
+'ORNDC                         '214.78597
+'ORNtex_f                      '  0.00000
+'ORNtex_b                      '  0.00000
+'OROTt2_2pp                    '  0.00000
+'OROTtex_f                     '  0.00000
+'OROTtex_b                     '  0.00000
+'ORPT_f                        ' -1.60160
+'ORPT_b                        '  0.00000
+'OXAMTC                        ' 83.55968
+'OXGDC2                        '  0.00431
+'P5CD                          '  0.00000
+'P5CR                          ' 51.50049
+'PA120abcpp                    '451.45436
+'PA140abcpp                    '451.45436
+'PA141abcpp                    '451.45436
+'PA160abcpp                    '451.45436
+'PA161abcpp                    '451.45436
+'PA180abcpp                    '451.45436
+'PA181abcpp                    '451.45436
+'PACALDt2rpp_f                 '  0.00000
+'PACALDt2rpp_b                 '  0.00000
+'PACALDtex_f                   '  0.00000
+'PACALDtex_b                   '  0.00000
+'PACCOAL                       '  0.00000
+'PANTS                         '  0.00556
+'PAPA120                       '902.90872
+'PAPA120pp                     '451.45436
+'PAPA140                       '902.90872
+'PAPA140pp                     '451.45436
+'PAPA141                       '902.90872
+'PAPA141pp                     '451.45436
+'PAPA160                       '902.90872
+'PAPA160pp                     '451.45436
+'PAPA161                       '902.90872
+'PAPA161pp                     '451.45436
+'PAPA180                       '902.90872
+'PAPA180pp                     '451.45436
+'PAPA181                       '902.90872
+'PAPA181pp                     '451.45436
+'PAPPT3                        '100.46108
+'PAPSR                         '106.09633
+'PAPSR2                        '106.09633
+'PDE1                          '902.90872
+'PDH                           '372.54886
+'PDX5PO2                       '  0.00215
+'PDX5POi                       '  0.00215
+'PDX5PS                        '  0.00215
+'PDXPP                         '902.90872
+'PE120abcpp                    '300.96957
+'PE140abcpp                    '300.96957
+'PE141abcpp                    '300.96957
+'PE160abcpp                    '301.12857
+'PE161abcpp                    '301.09322
+'PE180abcpp                    '300.96957
+'PE181abcpp                    '301.03332
+'PEAMNOpp                      '  0.00000
+'PEAMNtex_f                    '  0.00000
+'PEAMNtex_b                    '  0.00000
+'PERD_f                        '  0.00215
+'PERD_b                        '  0.00000
+'PETNT161pp                    '  1.91857
+'PETNT181pp                    '  1.91857
+'PFK                           '997.64462
+'PFK_2                         '  0.00000
+'PFL                           '444.76929
+'PG120abcpp                    '300.96957
+'PG140abcpp                    '300.96957
+'PG141abcpp                    '300.96957
+'PG160abcpp                    '301.02350
+'PG161abcpp                    '301.01152
+'PG180abcpp                    '300.96957
+'PG181abcpp                    '300.99119
+'PGAMT_f                       ' -0.35728
+'PGAMT_b                       '  0.00000
+'PGCD                          '534.19682
+'PGI_f                         ' 99.02523
+'PGI_b                         '  0.00000
+'PGK_f                         '204.44969
+'PGK_b                         '  0.00000
+'PGL                           '603.55872
+'PGLYCP                        '  0.00000
+'PGM_f                         '360.63859
+'PGM_b                         '  0.00000
+'PGMT_f                        ' -0.97478
+'PGMT_b                        '  0.00000
+'PGP120abcpp                   '203.47987
+'PGP140abcpp                   '203.47987
+'PGP141abcpp                   '203.47987
+'PGP160abcpp                   '203.53132
+'PGP161abcpp                   '203.51989
+'PGP180abcpp                   '203.47987
+'PGP181abcpp                   '203.50049
+'PGPP120                       '225.72718
+'PGPP120pp                     '203.47987
+'PGPP140                       '225.72718
+'PGPP140pp                     '203.47987
+'PGPP141                       '225.72718
+'PGPP141pp                     '203.47987
+'PGPP160                       '225.80961
+'PGPP160pp                     '203.53132
+'PGPP161                       '225.79130
+'PGPP161pp                     '203.51989
+'PGPP180                       '225.72718
+'PGPP180pp                     '203.47987
+'PGPP181                       '225.76022
+'PGPP181pp                     '203.50049
+'PGSA120                       '225.72718
+'PGSA140                       '225.72718
+'PGSA141                       '225.72718
+'PGSA160                       '225.80961
+'PGSA161                       '225.79130
+'PGSA180                       '225.72718
+'PGSA181                       '225.76022
+'PHEMEabcpp                    '  6.90047
+'PHEMEtiex                     '  6.90047
+'PHEt2rpp_f                    '  0.00000
+'PHEt2rpp_b                    '  0.00000
+'PHETA1_f                      ' -0.90000
+'PHETA1_b                      '  0.00000
+'PHEtex_f                      '  0.00000
+'PHEtex_b                      '  0.00000
+'PHETRS                        '  0.00000
+'PHYTSpp                       '  0.00000
+'PIt2rpp_f                     '461.20398
+'PIt2rpp_b                     '  0.00000
+'PItex_f                       ' 66.66441
+'PItex_b                       '  0.00000
+'PIuabcpp                      '902.90872
+'PLIPA1A120pp                  '225.72718
+'PLIPA1A140pp                  '225.72718
+'PLIPA1A141pp                  '225.72718
+'PLIPA1A160pp                  '225.72718
+'PLIPA1A161pp                  '225.72718
+'PLIPA1A180pp                  '225.72718
+'PLIPA1A181pp                  '225.72718
+'PLIPA1E120pp                  '300.96957
+'PLIPA1E140pp                  '300.96957
+'PLIPA1E141pp                  '300.96957
+'PLIPA1E160pp                  '300.96957
+'PLIPA1E161pp                  '300.96957
+'PLIPA1E180pp                  '300.96957
+'PLIPA1E181pp                  '300.96957
+'PLIPA1G120pp                  '300.96957
+'PLIPA1G140pp                  '300.96957
+'PLIPA1G141pp                  '300.96957
+'PLIPA1G160pp                  '300.96957
+'PLIPA1G161pp                  '300.96957
+'PLIPA1G180pp                  '300.96957
+'PLIPA1G181pp                  '300.96957
+'PLIPA2A120pp                  ' 57.03228
+'PLIPA2A140pp                  ' 57.03228
+'PLIPA2A141pp                  ' 57.03228
+'PLIPA2A160pp                  ' 57.03228
+'PLIPA2A161pp                  ' 57.03228
+'PLIPA2A180pp                  ' 57.03228
+'PLIPA2A181pp                  ' 57.03228
+'PLIPA2E120pp                  ' 50.75010
+'PLIPA2E140pp                  ' 50.75010
+'PLIPA2E141pp                  ' 50.75010
+'PLIPA2E160pp                  ' 50.75010
+'PLIPA2E161pp                  ' 50.75010
+'PLIPA2E180pp                  ' 50.75010
+'PLIPA2E181pp                  ' 50.75010
+'PLIPA2G120pp                  ' 51.87042
+'PLIPA2G140pp                  ' 51.87042
+'PLIPA2G141pp                  ' 51.87042
+'PLIPA2G160pp                  ' 51.87042
+'PLIPA2G161pp                  ' 51.87042
+'PLIPA2G180pp                  ' 51.87042
+'PLIPA2G181pp                  ' 51.87042
+'PMANM_f                       '  0.00000
+'PMANM_b                       '  0.00000
+'PMDPHT                        '  0.00431
+'PMPK                          '902.90983
+'PNTK                          '  0.00556
+'PNTOt4pp                      '  0.00000
+'PNTOtex_f                     '  0.00000
+'PNTOtex_b                     '  0.00000
+'POX                           '319.32760
+'PPA                           '902.90872
+'PPA2                          '902.90872
+'PPAKr_f                       '1.0000E+3
+'PPAKr_b                       '  0.00000
+'PPALtex_f                     '  0.00000
+'PPALtex_b                     '  0.00000
+'PPALtpp_f                     '  0.00000
+'PPALtpp_b                     '  0.00000
+'PPAt4pp                       '  0.00000
+'PPAtex_f                      '  0.00000
+'PPAtex_b                      '  0.00000
+'PPBNGS                        ' 27.61525
+'PPC                           '917.50187
+'PPCDC                         '  0.00556
+'PPCK                          '902.90872
+'PPCSCT                        '1.0000E+3
+'PPGPPDP                       '902.90872
+'PPK2r_f                       '902.90760
+'PPK2r_b                       '  0.00000
+'PPKr_f                        '886.72234
+'PPKr_b                        '  0.00000
+'PPM_f                         '902.90872
+'PPM_b                         '  0.00000
+'PPM2_f                        '413.15330
+'PPM2_b                        '  0.00000
+'PPNCL2                        '  0.00556
+'PPND                          ' 28.74435
+'PPNDH                         ' 27.84644
+'PPPGO                         '  6.79540
+'PPPGO3                        '  6.90270
+'PPPNDO                        '  0.00000
+'PPPNt2rpp_f                   '  0.00000
+'PPPNt2rpp_b                   '  0.00000
+'PPPNtex_f                     '  0.00000
+'PPPNtex_b                     '  0.00000
+'PPS                           '902.90872
+'PPTHpp                        '  0.00000
+'PPTtex_f                      '  0.00000
+'PPTtex_b                      '  0.00000
+'PRAGSr_f                      ' 91.15552
+'PRAGSr_b                      '  0.00000
+'PRAIi                         ' 27.95259
+'PRAIS                         ' 91.15552
+'PRAMPC                        ' 43.41717
+'PRASCS                        ' 91.15441
+'PRATPP                        ' 43.41717
+'PRFGS                         ' 91.15552
+'PRMICI_f                      ' 43.41717
+'PRMICI_b                      '  0.00000
+'PROabcpp                      '902.90872
+'PROD2                         '  0.00000
+'PROGLYabcpp                   '  0.00000
+'PROGLYtex_f                   '  0.00000
+'PROGLYtex_b                   '  0.00000
+'PROt2rpp_f                    '  0.00000
+'PROt2rpp_b                    '  0.00000
+'PROt4pp                       '  0.00000
+'PROtex_f                      '  0.00000
+'PROtex_b                      '  0.00000
+'PROTRS                        '  0.00000
+'PRPPS_f                       '907.47180
+'PRPPS_b                       '  0.00000
+'PSCLYSt2pp                    '  0.00000
+'PSCLYStex_f                   '  0.00000
+'PSCLYStex_b                   '  0.00000
+'PSCVT_f                       ' 29.93277
+'PSCVT_b                       '  0.00000
+'PSD120                        '150.48479
+'PSD140                        '150.48479
+'PSD141                        '150.48479
+'PSD160                        '150.70564
+'PSD161                        '150.65653
+'PSD180                        '150.48479
+'PSD181                        '150.57332
+'PSERT                         '534.19682
+'PSERtex_f                     '  0.00000
+'PSERtex_b                     '  0.00000
+'PSP_L                         '534.19682
+'PSP_Lpp                       '  0.00000
+'PSSA120                       '150.48479
+'PSSA140                       '150.48479
+'PSSA141                       '150.48479
+'PSSA160                       '150.70564
+'PSSA161                       '150.65653
+'PSSA180                       '150.48479
+'PSSA181                       '150.57332
+'PTA2                          '1.0000E+3
+'PTAr_f                        '1.0000E+3
+'PTAr_b                        '  0.00000
+'PTHRpp                        '  0.00000
+'PTPATi                        '  0.00556
+'PTRCabcpp                     '902.90872
+'PTRCORNt7pp_f                 '  0.00000
+'PTRCORNt7pp_b                 '  0.00000
+'PTRCt2pp                      '1.0000E+3
+'PTRCTA                        '214.58590
+'PTRCtex_f                     '  0.00000
+'PTRCtex_b                     '  0.00000
+'PUNP1_f                       '902.90872
+'PUNP1_b                       '  0.00000
+'PUNP2_f                       '413.20811
+'PUNP2_b                       '  0.00000
+'PUNP3_f                       '902.90872
+'PUNP3_b                       '  0.00000
+'PUNP4_f                       '413.20811
+'PUNP4_b                       '  0.00000
+'PUNP5_f                       '902.90872
+'PUNP5_b                       '  0.00000
+'PUNP6_f                       '451.47456
+'PUNP6_b                       '  0.00000
+'PUNP7_f                       '902.90872
+'PUNP7_b                       '  0.00000
+'PYAM5PO                       '569.09607
+'PYDAMK                        '902.90872
+'PYDXK                         '902.90872
+'PYDXNK                        '902.90872
+'PYDXPP                        '902.90872
+'PYK                           '1.0000E+3
+'PYNP2r_f                      '902.90872
+'PYNP2r_b                      '  0.00000
+'PYRt2rpp_f                    '  0.00000
+'PYRt2rpp_b                    '  0.00000
+'PYRtex_f                      '  0.00000
+'PYRtex_b                      '  0.00000
+'QMO2                          '771.29842
+'QMO3                          '771.29222
+'QULNS                         '  0.02201
+'R15BPK                        '1.0000E+3
+'R1PK                          '1.0000E+3
+'R5PP                          '  0.00000
+'R5PPpp                        '  0.00000
+'R5Ptex_f                      '  0.00000
+'R5Ptex_b                      '  0.00000
+'RBFK                          '  0.00215
+'RBFSa                         '  0.00861
+'RBFSb                         '  0.00431
+'RBK                           '  0.00000
+'RBK_L1                        '  0.00000
+'RBP4E_f                       '  0.00000
+'RBP4E_b                       '  0.00000
+'RHAT1                         '  1.36829
+'RHCCE                         ' 50.00094
+'RIBabcpp                      '  0.00000
+'RIBtex_f                      '  0.00000
+'RIBtex_b                      '  0.00000
+'RMI_f                         '  0.00000
+'RMI_b                         '  0.00000
+'RMK                           '  0.00000
+'RMNtex_f                      '  0.00000
+'RMNtex_b                      '  0.00000
+'RMNtpp                        '  0.00000
+'RMPA_f                        '  0.00000
+'RMPA_b                        '  0.00000
+'RNDR1                         '413.33216
+'RNDR1b                        '413.33216
+'RNDR2                         '413.33616
+'RNDR2b                        '413.33616
+'RNDR3                         '248.31351
+'RNDR3b                        '248.31351
+'RNDR4                         '413.27735
+'RNDR4b                        '413.27735
+'RNTR1c                        '413.33216
+'RNTR2c                        '413.33616
+'RNTR3c                        '248.31351
+'RNTR4c                        '413.27735
+'RPE_f                         '332.65631
+'RPE_b                         '  0.00000
+'RPI_f                         ' -1.95993
+'RPI_b                         '  0.00000
+'RZ5PP                         '  0.00000
+'S7PI                          '  5.47314
+'SADH                          '180.58174
+'SADT2                         '106.09633
+'SARCOX                        '  0.00000
+'SBTPD_f                       '  0.00000
+'SBTPD_b                       '  0.00000
+'SBTptspp                      '  0.00000
+'SBTtex_f                      '  0.00000
+'SBTtex_b                      '  0.00000
+'SDPDS                         ' 40.26200
+'SDPTA_f                       ' -1.80488
+'SDPTA_b                       '  0.00000
+'SELCYSS                       '  0.00000
+'SELNPS                        '  0.00000
+'SERASr_f                      '451.45770
+'SERASr_b                      '  0.00000
+'SERAT_f                       ' 62.89597
+'SERAT_b                       '  0.00000
+'SERD_D                        '  0.00000
+'SERD_L                        '525.80782
+'SERt2rpp_f                    '  0.00000
+'SERt2rpp_b                    '  0.00000
+'SERt4pp                       '1.0000E+3
+'SERtex_f                      '  0.00000
+'SERtex_b                      '  0.00000
+'SERTRS                        '  0.00000
+'SERTRS2                       '  0.00000
+'SFGTHi                        '  0.00000
+'SGDS                          '180.58174
+'SGSAD                         '180.58174
+'SHCHCS2                       '  0.00431
+'SHCHD2                        '  0.00215
+'SHCHF                         '  0.00215
+'SHK3Dr_f                      ' 29.93277
+'SHK3Dr_b                      '  0.00000
+'SHKK                          ' 29.93277
+'SHSL1                         '  1.46219
+'SKMt2pp                       '  0.00000
+'SKMtex_f                      '  0.00000
+'SKMtex_b                      '  0.00000
+'SO2tex_f                      '  0.00000
+'SO2tex_b                      '  0.00000
+'SO2tpp_f                      '  0.00000
+'SO2tpp_b                      '  0.00000
+'SO3tex_f                      '  0.00000
+'SO3tex_b                      '  0.00000
+'SO4tex_f                      '101.63228
+'SO4tex_b                      '  0.00000
+'SOTA                          '180.58174
+'SPMDabcpp                     '  0.00000
+'SPMDAT1                       '  0.00000
+'SPMDAT2                       '  0.00000
+'SPMDtex_f                     '  0.00000
+'SPMDtex_b                     '  0.00000
+'SPMS                          '  0.06513
+'SPODM                         '771.29842
+'SPODMpp                       '  0.00000
+'SSALx                         '281.65116
+'SSALy                         '292.51601
+'SUCBZL                        '  0.00431
+'SUCBZS                        '  0.00431
+'SUCCt2_2pp                    '1.0000E+3
+'SUCCt2_3pp                    '1.0000E+3
+'SUCCt3pp                      '1.0000E+3
+'SUCCtex_f                     '  0.00000
+'SUCCtex_b                     '  0.00000
+'SUCDi                         '771.29842
+'SUCFUMtpp_f                   '  0.00000
+'SUCFUMtpp_b                   '  0.00000
+'SUCOAS_f                      '398.46705
+'SUCOAS_b                      '  0.00000
+'SUCptspp                      '  0.00000
+'SUCRtex_f                     '  0.00000
+'SUCRtex_b                     '  0.00000
+'SULabcpp                      '101.63228
+'SULFACabcpp                   '  0.00000
+'SULFACtex_f                   '  0.00000
+'SULFACtex_b                   '  0.00000
+'SULRi                         '106.09633
+'T2DECAI_f                     '  5.11155
+'T2DECAI_b                     '  0.00000
+'TAGURr_f                      '  0.00000
+'TAGURr_b                      '  0.00000
+'TALA_f                        '167.17697
+'TALA_b                        '  0.00000
+'TARTD                         '  0.00000
+'TARTRt7pp_f                   '  0.00000
+'TARTRt7pp_b                   '  0.00000
+'TARTRtex_f                    '  0.00000
+'TARTRtex_b                    '  0.00000
+'TAUDO                         '  0.00000
+'TAURabcpp                     '  0.00000
+'TAURtex_f                     '  0.00000
+'TAURtex_b                     '  0.00000
+'TCYNTtex_f                    '  0.00000
+'TCYNTtex_b                    '  0.00000
+'TDECOAI                       '  2.59387
+'TDP                           '902.90872
+'TDPADGAT                      '  3.63735
+'TDPAGTA                       '  3.63735
+'TDPDRE                        '  1.36829
+'TDPDRR                        '  1.36829
+'TDPGDH                        '  4.58745
+'TDSK                          '  2.67116
+'TDSR1                         '  0.00000
+'TDSR2                         '  0.00000
+'TGBPA_f                       '  0.00000
+'TGBPA_b                       '  0.00000
+'THD2pp                        '1.0000E+3
+'THDPS                         ' 40.26200
+'THIORDXi                      '385.20161
+'THMabcpp                      '  0.00000
+'THMDt2pp                      '1.0000E+3
+'THMDt2rpp_f                   '  0.00000
+'THMDt2rpp_b                   '  0.00000
+'THMDtex_f                     '  0.00000
+'THMDtex_b                     '  0.00000
+'THMtex_f                      '  0.00000
+'THMtex_b                      '  0.00000
+'THRA2i                        '1.0000E+3
+'THRabcpp                      '902.90872
+'THRAi                         '280.96114
+'THRD                          '280.96114
+'THRD_L                        '210.41241
+'THRPtex_f                     '  0.00000
+'THRPtex_b                     '  0.00000
+'THRS                          '283.60514
+'THRt2pp                       '1.0000E+3
+'THRt2rpp_f                    '1.0000E+3
+'THRt2rpp_b                    '  0.00000
+'THRt4pp                       '1.0000E+3
+'THRtex_f                      '  0.00000
+'THRtex_b                      '  0.00000
+'THRTRS                        '  0.00000
+'THYMt3pp                      '  0.00000
+'THYMtex_f                     '  0.00000
+'THYMtex_b                     '  0.00000
+'THZPSN                        '  0.00215
+'TKT1_f                        '167.33999
+'TKT1_b                        '  0.00000
+'TKT2_f                        '165.31632
+'TKT2_b                        '  0.00000
+'TMAOR1                        '  0.00000
+'TMAOR1pp                      '  0.00000
+'TMAOR2                        '  0.00000
+'TMAOR2pp                      '  0.00000
+'TMAOtex_f                     '  0.00000
+'TMAOtex_b                     '  0.00000
+'TMAtex_f                      '  0.00000
+'TMAtex_b                      '  0.00000
+'TMDK1                         '902.90872
+'TMDPP_f                       '  0.00000
+'TMDPP_b                       '  0.00000
+'TMDS                          ' 26.82553
+'TMK                           '  0.00000
+'TMPK                          '902.90983
+'TMPPP                         '  0.00215
+'TPI_f                         ' 93.88418
+'TPI_b                         '  0.00000
+'TPRDCOAS                      '  0.00000
+'TRDR                          '431.54371
+'TRE6PH                        '  0.00000
+'TRE6PP                        '451.45436
+'TRE6PS                        '451.45436
+'TREH                          '451.45436
+'TREHpp                        '  0.00000
+'TREptspp                      '  0.00000
+'TREtex_f                      '  0.00000
+'TREtex_b                      '  0.00000
+'TRPAS2_f                      '  0.00000
+'TRPAS2_b                      '  0.00000
+'TRPS1                         '  0.54003
+'TRPS2                         '  0.54003
+'TRPS3                         ' 27.95259
+'TRPt2rpp_f                    '  0.00000
+'TRPt2rpp_b                    '  0.00000
+'TRPtex_f                      '  0.00000
+'TRPtex_b                      '  0.00000
+'TRPTRS                        '  0.00000
+'TRSARr_f                      '245.57458
+'TRSARr_b                      '  0.00000
+'TSULabcpp                     '  0.00000
+'TSULtex_f                     '  0.00000
+'TSULtex_b                     '  0.00000
+'TTDCAtexi                     '  0.00000
+'TTDCEAtexi                    '  0.00000
+'TUNGSabcpp                    '  0.00000
+'TUNGStex_f                    '  0.00000
+'TUNGStex_b                    '  0.00000
+'TYMtex_f                      '  0.00000
+'TYMtex_b                      '  0.00000
+'TYROXDApp                     '  0.00000
+'TYRPpp                        '  0.00000
+'TYRPtex_f                     '  0.00000
+'TYRPtex_b                     '  0.00000
+'TYRt2rpp_f                    '  0.00000
+'TYRt2rpp_b                    '  0.00000
+'TYRTA_f                       ' -0.67112
+'TYRTA_b                       '  0.00000
+'TYRtex_f                      '  0.00000
+'TYRtex_b                      '  0.00000
+'TYRTRS                        '  0.00000
+'U23GAAT                       '  5.34232
+'UAAGDS                        ' 82.22050
+'UACGALPpp                     '  0.00000
+'UACGAMPpp                     '  0.00000
+'UACGAMtex_f                   '  0.00000
+'UACGAMtex_b                   '  0.00000
+'UACMAMO                       '  3.63735
+'UAG2E_f                       '  3.63735
+'UAG2E_b                       '  0.00000
+'UAGAAT_f                      '  5.34232
+'UAGAAT_b                      '  0.00000
+'UAGCVT                        '100.46108
+'UAGDP                         '201.00366
+'UAGPT3                        '100.46108
+'UAMAGS                        ' 82.22050
+'UAMAS                         ' 82.22050
+'UAPGR                         '100.46108
+'UDCPDP                        '100.46108
+'UDCPDPpp                      '  3.63735
+'UDCPDPS                       '  0.00053
+'UDCPPtppi                     '  3.63735
+'UDPACGALtex_f                 '  0.00000
+'UDPACGALtex_b                 '  0.00000
+'UDPG4E_f                      '  0.00000
+'UDPG4E_b                      '  0.00000
+'UDPGALM                       '  0.00000
+'UDPGALPpp                     '  0.00000
+'UDPGALtex_f                   '  0.00000
+'UDPGALtex_b                   '  0.00000
+'UDPGD                         '  1.29369
+'UDPGDC                        '  1.29369
+'UDPGLCURtex_f                 '  0.00000
+'UDPGLCURtex_b                 '  0.00000
+'UDPGPpp                       '  0.00000
+'UDPGtex_f                     '  0.00000
+'UDPGtex_b                     '  0.00000
+'UDPKAAT_f                     '  1.29369
+'UDPKAAT_b                     '  0.00000
+'UGLCURPpp                     '  0.00000
+'UGLT_f                        '  0.00000
+'UGLT_b                        '  0.00000
+'UGLYCH                        ' 86.68611
+'UGMDDS                        '100.46108
+'UHGADA                        '  5.34232
+'ULA4NFT                       '  1.29369
+'ULA4Ntppi                     '  1.29369
+'UM3PL                         '100.32319
+'UM4PCP                        '100.32319
+'UM4PL                         '100.32319
+'UMPK_f                        '904.68896
+'UMPK_b                        '  0.00000
+'UMPtex_f                      '  0.00000
+'UMPtex_b                      '  0.00000
+'UNK3                          '  0.06513
+'UPLA4FNF                      '  1.29369
+'UPLA4FNT                      '  1.29369
+'UPP3MT                        '  0.00215
+'UPP3S                         '  6.90381
+'UPPDC1                        '  6.90270
+'UPPRT                         '902.90872
+'URAt2pp                       '1.0000E+3
+'URAt2rpp_f                    '  0.00000
+'URAt2rpp_b                    '  0.00000
+'URAtex_f                      '  0.00000
+'URAtex_b                      '  0.00000
+'URDGLYCD                      ' 83.55968
+'UREAtex_f                     '  0.00000
+'UREAtex_b                     '  0.00000
+'UREAtpp_f                     '  0.00000
+'UREAtpp_b                     '  0.00000
+'URIC                          ' 88.98250
+'URIDK2r_f                     '902.78467
+'URIDK2r_b                     '  0.00000
+'URIH                          '  0.00000
+'URIK2                         '902.90872
+'URIt2pp                       '1.0000E+3
+'URIt2rpp_f                    '  0.00000
+'URIt2rpp_b                    '  0.00000
+'URItex_f                      '  0.00000
+'URItex_b                      '  0.00000
+'USHD                          '  2.67116
+'VALabcpp                      '902.90872
+'VALt2rpp_f                    '  0.00000
+'VALt2rpp_b                    '  0.00000
+'VALTA_f                       '995.18682
+'VALTA_b                       '  0.00000
+'VALtex_f                      '  0.00000
+'VALtex_b                      '  0.00000
+'VALTRS                        '  0.00000
+'VPAMT                         '997.24632
+'X5PL3E                        '  0.00000
+'XAND                          ' 88.98250
+'XANt2pp                       '1.0000E+3
+'XANtex_f                      '  0.00000
+'XANtex_b                      '  0.00000
+'XANtpp_f                      '  0.00000
+'XANtpp_b                      '  0.00000
+'XMPtex_f                      '  0.00000
+'XMPtex_b                      '  0.00000
+'XPPT                          '902.90872
+'XTSNH                         '  0.00000
+'XTSNt2rpp_f                   '  0.00000
+'XTSNt2rpp_b                   '  0.00000
+'XTSNtex_f                     '  0.00000
+'XTSNtex_b                     '  0.00000
+'XYLabcpp                      '  0.00000
+'XYLI1_f                       '  0.00000
+'XYLI1_b                       '  0.00000
+'XYLI2_f                       '  0.00000
+'XYLI2_b                       '  0.00000
+'XYLK                          '  0.00000
+'XYLK2                         '  0.00000
+'XYLt2pp                       '  0.00000
+'XYLtex_f                      '  0.00000
+'XYLtex_b                      '  0.00000
+'XYLUt2pp                      '  0.00000
+'XYLUtex_f                     '  0.00000
+'XYLUtex_b                     '  0.00000
+'ZN2abcpp                      '902.90872
+'ZN2t3pp                       '1.0000E+3
+'Zn2tex_f                      '  0.02970
+'Zn2tex_b                      '  0.00000
+'ZN2tpp                        '1.0000E+3
+'ZNabcpp                       '902.90872
+'Ec_biomass_iAF1260_core_59p81M'  4.64245
+'Ec_biomass_iAF1260_WT_59p81M  '  9.65700
+/

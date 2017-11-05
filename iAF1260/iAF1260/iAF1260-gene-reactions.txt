@@ -1,0 +1,2381 @@
+12DGR120tipp	
+12DGR140tipp	
+12DGR141tipp	
+12DGR160tipp	
+12DGR161tipp	
+12DGR180tipp	
+12DGR181tipp	
+12PPDRtex	( b0241  or  b0929  or  b1377  or  b2215 )
+12PPDRtpp	
+12PPDStex	( b0241  or  b0929  or  b1377  or  b2215 )
+12PPDStpp	
+14GLUCANabcpp	( b4034  and  b4033  and  b4032  and  b4035 )
+14GLUCANtexi	b4036
+23CAMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+23CCMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+23CGMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+23CUMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+23DAPPAt2pp	
+23DAPPAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+23PDE2pp	b4213
+23PDE4pp	b4213
+23PDE7pp	b4213
+23PDE9pp	b4213
+26DAHtex	( b0241  or  b0929  or  b1377  or  b2215 )
+2AGPA120tipp	b2835
+2AGPA140tipp	b2835
+2AGPA141tipp	b2835
+2AGPA160tipp	b2835
+2AGPA161tipp	b2835
+2AGPA180tipp	b2835
+2AGPA181tipp	b2835
+2AGPE120tipp	b2835
+2AGPE140tipp	b2835
+2AGPE141tipp	b2835
+2AGPE160tipp	b2835
+2AGPE161tipp	b2835
+2AGPE180tipp	b2835
+2AGPE181tipp	b2835
+2AGPEAT120	b2836
+2AGPEAT140	b2836
+2AGPEAT141	b2836
+2AGPEAT160	b2836
+2AGPEAT161	b2836
+2AGPEAT180	b2836
+2AGPEAT181	b2836
+2AGPG120tipp	b2835
+2AGPG140tipp	b2835
+2AGPG141tipp	b2835
+2AGPG160tipp	b2835
+2AGPG161tipp	b2835
+2AGPG180tipp	b2835
+2AGPG181tipp	b2835
+2AGPGAT120	b2836
+2AGPGAT140	b2836
+2AGPGAT141	b2836
+2AGPGAT160	b2836
+2AGPGAT161	b2836
+2AGPGAT180	b2836
+2AGPGAT181	b2836
+2DGLCNRx	b3553
+2DGLCNRy	b3553
+2DGULRx	b3553
+2DGULRy	b3553
+2MAHMP	( b0446  or  b1134 )
+34dhpactex	( b0241  or  b0929  or  b1377  or  b2215 )
+3AMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+3CMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+3GMPtex	( b0241  or  b1377  or  b2215  or  b0929 )
+3HAD100	( b0954  or  b0180 )
+3HAD120	( b0954  or  b0180 )
+3HAD121	( b0954  or  b0180 )
+3HAD140	( b0954  or  b0180 )
+3HAD141	( b0954  or  b0180 )
+3HAD160	( b0954  or  b0180 )
+3HAD161	( b0954  or  b0180 )
+3HAD180	( b0954  or  b0180 )
+3HAD181	( b0180  or  b0954 )
+3HAD40	( b0954  or  b0180 )
+3HAD60	( b0954  or  b0180 )
+3HAD80	( b0954  or  b0180 )
+3HCINNMH	b0347
+3HPPPNH	b0347
+3KGK	b3580
+3NTD2pp	b4213
+3NTD4pp	b4213
+3NTD7pp	b4213
+3NTD9pp	b4213
+3OAR100	b1093
+3OAR120	b1093
+3OAR121	b1093
+3OAR140	b1093
+3OAR141	b1093
+3OAR160	b1093
+3OAR161	b1093
+3OAR180	b1093
+3OAR181	b1093
+3OAR40	b1093
+3OAR60	b1093
+3OAR80	b1093
+3OAS100	( b2323  or  b1095 )
+3OAS120	( b2323  or  b1095 )
+3OAS121	b2323
+3OAS140	( b2323  or  b1095 )
+3OAS141	b2323
+3OAS160	( b2323  or  b1095 )
+3OAS161	b2323
+3OAS180	( b1095  or  b2323 )
+3OAS181	b1095
+3OAS60	( b2323  or  b1095 )
+3OAS80	( b2323  or  b1095 )
+3PEPTabcpp	( b1329  and  b1244  and  b1245  and  b1246  and  b1247 )
+3PEPTtex	( b0241  or  b0929  or  b1377  or  b2215 )
+3UMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+42A12BOOXpp	b1386
+4HOXPACDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+4HTHRS	b0004
+4PCP	b1192
+4PCPpp	
+4PEPTabcpp	( b1243  and  b1244  and  b1245  and  b1246  and  b1247 )
+4PEPTtex	( b0241  or  b0929  or  b1377  or  b2215 )
+5DGLCNR	b4266
+5DGLCNt2rpp	b4265
+5DGLCNtex	( b0241  or  b1377  or  b0929  or  b2215 )
+5DOAN	b0159
+A5PISO	( b2708  or  b3197 )
+AACPS1	( b2836  and  b1094 )
+AACPS2	( b2836  and  b1094 )
+AACPS3	( b2836  and  b1094 )
+AACPS4	( b2836  and  b1094 )
+AACPS5	( b2836  and  b1094 )
+AACPS6	( b2836  and  b1094 )
+AACPS7	( b2836  and  b1094 )
+AACPS8	( b2836  and  b1094 )
+AACPS9	( b2836  and  b1094 )
+AACTOOR	
+AADDGT	b4481
+AAMYL	b1927
+AAMYLpp	b3571
+AB6PGH	b2901
+ABTA	( b2662  or  b1302 )
+ABUTD	b1444
+ABUTt2pp	b2663
+ABUTtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ACACCT	( b2221  and  b2222 )
+ACACT1r	b2224
+ACACt2pp	b2223
+ACACtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ACALD	( b1241  or  b0351 )
+ACALDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ACALDtpp	
+ACANTHAT	b1463
+ACBIPGT	b1993
+ACCOAC	( b0185  and  b2316  and  b3255  and  b3256 )
+ACCOAL	b0335
+ACGAL1PPpp	
+ACGAL1Ptex	( b0241  or  b0929  or  b1377  or  b2215 )
+ACGALtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ACGAM1PPpp	
+ACGAM1Ptex	( b0241  or  b0929  or  b1377  or  b2215 )
+ACGAMK	b1119
+ACGAMT	b3784
+ACGAptspp	( ( b2417  and  b1101  and  b2415  and  b2416 )  or  ( b0679  and  b2415  and  b2416 ) )
+ACGAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ACGK	b3959
+ACGS	b2818
+ACHBS	( ( b3670  and  b3671 )  or  ( b0077  and  b0078 ) )
+ACKr	( b3115  or  b2296  or  b1849 )
+ACLS	( ( b0077  and  b0078 )  or  ( b3670  and  b3671 ) )
+ACM6PH	
+ACMAMUT	b3794
+ACMANAptspp	( b1817  and  b1818  and  b1819  and  b2415  and  b2416 )
+ACMANAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ACMUMptspp	( b2417  and  b2429  and  b2415  and  b2416 )
+ACMUMtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ACNAMt2pp	b3224
+ACNAMtex	( b4311  or  b0929  or  b2215 )
+ACNML	b3225
+ACOAD1f	b0221
+ACOAD2f	b0221
+ACOAD3f	b0221
+ACOAD4f	b0221
+ACOAD5f	b0221
+ACOAD6f	b0221
+ACOAD7f	b0221
+ACOAD8f	b0221
+ACOATA	( b1094  and  b1091 )
+ACODA	b3957
+ACOLIPAtex	
+ACONIs	
+ACONMT	b1519
+ACONTa	( b1276  or  b0118 )
+ACONTb	( b0118  or  b1276 )
+ACOTA	( b3359  or  b1748 )
+ACPS1	( b2563  or  b3475 )
+ACS	b4069
+ACSERtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ACSERtpp	( b2578  or  b1533 )
+ACt2rpp	
+ACt4pp	b4067
+ACtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ADA	b1623
+ADCL	b1096
+ADCS	( b3360  and  b1812 )
+ADD	b3665
+ADEt2rpp	b3654
+ADEtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ADK1	b0474
+ADK3	b0474
+ADK4	b0474
+ADMDC	b0120
+ADNCYC	b3806
+ADNK1	b0474
+ADNt2pp	( b2964  or  b2393 )
+ADNt2rpp	b2406
+ADNtex	b0411
+ADNUC	b0030
+ADOCBIK	b1993
+ADOCBLabcpp	( b1711  and  b1709  and  b0158 )
+ADOCBLS	b1992
+ADOCBLtonex	( b3966  and  ( b1252  and  b3005  and  b3006 ) )
+ADPRDP	b3397
+ADPT	b0469
+ADSK	b2750
+ADSL1r	b1131
+ADSL2r	b1131
+ADSS	b4177
+AGDC	b0677
+AGM3PA	b0110
+AGM3PApp	( b4169  or  b2435  or  b2817 )
+AGM3PH	b1107
+AGM3Pt2pp	b0433
+AGM4PA	b0110
+AGM4PApp	( b2817  or  b4169  or  b2435 )
+AGM4PCP	b1192
+AGM4PCPpp	
+AGM4PH	b1107
+AGM4Pt2pp	b0433
+AGMH	b1107
+AGMHE	b3619
+AGMT	b2937
+AGMt2pp	b0433
+AGMtex	( b0241  or  b0929  or  b1377  or  b2215 )
+AGPAT120	b3018
+AGPAT140	b3018
+AGPAT141	b3018
+AGPAT160	b3018
+AGPAT161	b3018
+AGPAT180	b3018
+AGPAT181	b3018
+AGPR	b3958
+AGt3	( b0572  and  b0573  and  b0574  and  b0575 )
+AHCYSNS	b0159
+AICART	b4006
+AIRC2	b0522
+AIRC3	b0523
+AKGDH	( b0116  and  b0726  and  b0727 )
+AKGt2rpp	b2587
+AKGtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ALAabcpp	( b3454  and  b3455  and  b3457  and  b3460  and  b3456 )
+ALAALAabcpp	( ( b3544  and  b3543  and  b3542  and  b3541  and  b3540 )  or  ( b1487  and  b1486  and  b1485  and  b1484  and  b1483 ) )
+ALAALAD	b1488
+ALAALAr	( b0381  or  b0092 )
+ALAALAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ALAGLUE	b1325
+ALAR	( b4053  or  b1190 )
+ALAt2pp	b4208
+ALAt4pp	b0007
+ALATA_D2	( b0870  or  b2551 )
+ALATA_L	
+ALATA_L2	( b2551  or  b0870 )
+ALAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ALATRS	b2697
+ALCD19	b0356
+ALCD2x	( b0356  or  b1478  or  b1241 )
+ALDD19x	b1385
+ALDD2x	b1300
+ALDD2y	b3588
+ALDD3y	b3588
+ALDD4	
+ALLabcpp	( b4087  and  b4088  and  b4086 )
+ALLK	b4084
+ALLPI	b4090
+ALLTAMH	b0516
+ALLtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ALLTN	b0512
+ALLTNt2rpp	b0511
+ALLTNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ALLULPE	b4085
+ALPATE160pp	( b0657  and  b1677 )
+ALPATG160pp	( b0657  and  b1677 )
+ALR2	( b3012  or  b0207  or  b1781  or  b3001 )
+ALR4x	b3945
+ALTRH	b3091
+AM3PA	b0110
+AM4PA	b0110
+AM4PCP	b1192
+AMALT1	b3416
+AMALT2	b3416
+AMALT3	b3416
+AMALT4	b3416
+AMANAPEr	b3223
+AMANK	b3222
+AMAOTr	b0774
+AMMQLT8	b3833
+AMPMS2	b3994
+AMPN	b1982
+AMPTASECG	( b0237  or  b4260  or  b2523  or  b0932 )
+AMPTASEPG	( b4260  or  b0237  or  b0932  or  b2523 )
+AMPtex	( b0929  or  b1377  or  b2215  or  b0241 )
+ANHGMtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ANHMK	b1640
+ANPRT	b1263
+ANS	( b1263  and  b1264 )
+AOBUTDs	
+AOXSr	b0776
+AP4AH	b0049
+AP5AH	b0049
+APRAUR	b0414
+ARAI	b0062
+ARBabcpp	( b1901  and  b1900  and  b4460 )
+ARBt2rpp	b2841
+ARBt3ipp	b1528
+ARBtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ARBTNabcpp	( b0153  and  b0151  and  b0152 )
+ARBTNexs	
+ARBTNR1	
+ARBTNR2	
+ARBTNR3	
+ARBTNtex	
+ARBTNtonex	
+ARBTNtpp	
+ARGabcpp	( ( b2310  and  b2307  and  b2306  and  b2308 )  or  ( b0863  and  b0860  and  b0861  and  b0864  and  b0862 ) )
+ARGAGMt7pp	b4115
+ARGDC	b4117
+ARGDCpp	b2938
+ARGORNt7pp	b1605
+ARGSL	b3960
+ARGSS	b3172
+ARGt3pp	b2923
+ARGtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ARGTRS	b1876
+ASAD	b3433
+ASCBPL	b4192
+ASCBptspp	( b2415  and  b2416  and  b4195  and  b4194  and  b4193 )
+ASCBtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ASNabcpp	
+ASNN	( b1767  or  b0828 )
+ASNNpp	b2957
+ASNS1	b0674
+ASNS2	b3744
+ASNt2rpp	b1453
+ASNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ASNTRS	b0930
+ASO3t8pp	b3502
+ASO3tex	( b0241  or  b0929  or  b1377  or  b2215 )
+ASP1DC	b0131
+ASPabcpp	( b0655  and  b0654  and  b0653  and  b0652 )
+ASPCT	( b4244  and  b4245 )
+ASPK	( b0002  or  b3940  or  b4024 )
+ASPO3	b2574
+ASPO4	b2574
+ASPO5	b2574
+ASPO6	b2574
+ASPT	b4139
+ASPt2_2pp	b3528
+ASPt2_3pp	( b4138  or  b4123 )
+ASPt2pp	b4077
+ASPTA	b0928
+ASPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ASPTRS	b1866
+ASR	( b3503  and  b1064 )
+AST	b1747
+ATHRDHr	b1539
+ATPHs	
+ATPM	
+ATPPRT	b2019
+ATPS4rpp	( ( ( b3736  and  b3737  and  b3738 )  and  ( b3731  and  b3732  and  b3733  and  b3734  and  b3735 ) )  or  ( ( b3736  and  b3737  and  b3738 )  and  ( b3731  and  b3732  and  b3733  and  b3734  and  b3735 )  and  b3739 ) )
+BALAt2pp	b4208
+BALAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+BETALDHx	b0312
+BETALDHy	b0312
+BPNT	
+BSORx	b3551
+BSORy	b3551
+BTS4	b0775
+BUTCT	( b2221  and  b2222 )
+BUTSO3abcpp	( ( b0936  and  b0933  and  b0934 )  or  ( b0365  and  b0366  and  b0367 ) )
+BUTSO3tex	( b0241  or  b0929  or  b1377  or  b2215 )
+BUTt2rpp	b2223
+BUTtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CA2t3pp	b1216
+CA2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+CADVtpp	b4132
+CAT	( b1732  or  b3942 )
+CAt6pp	b3196
+CBIAT	b1270
+CBItonex	( b3966  and  ( b1252  and  b3005  and  b3006 ) )
+CBIuabcpp	( b1711  and  b1709  and  b0158 )
+CBL1abcpp	( b1711  and  b1709  and  b0158 )
+CBL1tonex	( b3966  and  ( b1252  and  b3005  and  b3006 ) )
+CBLAT	b1270
+CBMKr	( b0521  or  b0323  or  b2874 )
+CBPS	( b0032  and  b0033 )
+CD2abcpp	b3469
+CD2t3pp	( b0752  or  b3915 )
+CD2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+CD2tpp	b3040
+CDAPPA120	b3918
+CDAPPA140	b3918
+CDAPPA141	b3918
+CDAPPA160	b3918
+CDAPPA161	b3918
+CDAPPA180	b3918
+CDAPPA181	b3918
+CDPMEK	b1208
+CFAS160E	b1661
+CFAS160G	b1661
+CFAS180E	b1661
+CFAS180G	b1661
+CGLYabcpp	( b3544  and  b3543  and  b3542  and  b3541  and  b3540 )
+CGLYtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CHLabcpp	( b2128  and  b2129  and  b2130  and  b2131 )
+CHLt2pp	( b0314  or  b1801 )
+CHLtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CHORM	( b2599  or  b2600 )
+CHORS	b2329
+CHRPL	b4039
+CINNDO	( b2538  and  b2539  and  b2540  and  b2542 )
+CITL	( ( b0615  and  b0616  and  b0617 )  and  b0614 )
+CITt7pp	b0612
+CITtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CLIPAtex	
+CLPNH120pp	
+CLPNH140pp	
+CLPNH141pp	
+CLPNH160pp	
+CLPNH161pp	
+CLPNH180pp	
+CLPNH181pp	
+CLPNS120pp	( b1249  or  b0789 )
+CLPNS140pp	( b1249  or  b0789 )
+CLPNS141pp	( b1249  or  b0789 )
+CLPNS160pp	( b1249  or  b0789 )
+CLPNS161pp	( b1249  or  b0789 )
+CLPNS180pp	( b1249  or  b0789 )
+CLPNS181pp	( b1249  or  b0789 )
+CLt3_2pp	( b1592  or  b0155 )
+CLtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CMPN	
+CMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CO2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+CO2tpp	
+COBALT2abcpp	b3469
+COBALT2t3pp	( b3915  or  b0752 )
+COBALT2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+COBALT2tpp	( b3040  or  b3816 )
+COLIPAabcpp	b0914
+COLIPAtex	
+CPGNabcpp	( b0153  and  b0151  and  b0152 )
+CPGNexs	
+CPGNR1	
+CPGNR2	
+CPGNR3	
+CPGNtonex	( b1102  and  ( b1252  and  b3005  and  b3006 ) )
+CPGNUtex	
+CPGNUtpp	
+CPPPGO	b2436
+CPPPGO2	b3867
+CRNabcpp	( b2677  and  b2678  and  b2679 )
+CRNBTCT	b0038
+CRNCAL2	b0037
+CRNCAR	b0036
+CRNCBCT	b0038
+CRNCDH	b0036
+CRNDabcpp	( b2677  and  b2678  and  b2679 )
+CRNDCAL2	b0037
+CRNDt2rpp	b4111
+CRNt2rpp	b4111
+CRNt7pp	b0040
+CRNt8pp	b0040
+CRNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CS	b0720
+CSND	b0337
+CSNt2pp	b0336
+CSNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CTBTabcpp	( b2677  and  b2678  and  b2679 )
+CTBTCAL2	b0037
+CTBTt2rpp	b4111
+CTPS2	b2780
+CU1abcpp	b0484
+CU1Opp	b0123
+CU2abcpp	b3469
+CU2tex	( b2215  or  b0241  or  b0929  or  b1377 )
+CU2tpp	b3040
+CUt3	( b0572  and  b0573  and  b0574  and  b0575 )
+CUtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CYANST	b3425
+CYANSTpp	b1308
+CYANtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CYNTAH	b0340
+CYNTt2pp	b0341
+CYNTtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CYSabc2pp	( b0886  and  b0887 )
+CYSabcpp	
+CYSDabcpp	
+CYSDDS	b1919
+CYSDS	( b3708  or  b3008 )
+CYSDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CYSS	( b2421  or  b2414 )
+CYSSADS	b2810
+CYStex	( b0241  or  b0929  or  b1377  or  b2215 )
+CYSTL	( b1622  or  b3008 )
+CYStpp	( b2578  or  b1533 )
+CYSTRS	b0526
+CYTBD2pp	( b0978  and  b0979 )
+CYTBDpp	( ( b0978  and  b0979 )  or  ( b0733  and  b0734 ) )
+CYTBO3_4pp	( b0429  and  b0430  and  b0431  and  b0432 )
+CYTD	b2143
+CYTDH	( b2162  or  b0651  or  b0030 )
+CYTDK2	b2066
+CYTDt2pp	( b2393  or  b2964 )
+CYTDt2rpp	b2406
+CYTDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+CYTK1	b0910
+CYTK2	b0910
+DAAD	b1189
+DADA	b1623
+DADK	b0474
+DADNt2pp	( b2393  or  b2964 )
+DADNtex	b0411
+DAGK120	b4042
+DAGK140	b4042
+DAGK141	b4042
+DAGK160	b4042
+DAGK161	b4042
+DAGK180	b4042
+DAGK181	b4042
+DALAt2pp	b4208
+DALAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DAMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DAPabcpp	
+DAPAL	b2871
+DAPDC	b2838
+DAPE	b3809
+DAPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DASYN120	b0175
+DASYN140	b0175
+DASYN141	b0175
+DASYN160	b0175
+DASYN161	b0175
+DASYN180	b0175
+DASYN181	b0175
+DATPHs	
+DB4PS	b3041
+DBTS	b0778
+DCAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DCMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DCTPD	b2065
+DCYTD	b2143
+DCYTt2pp	( b2393  or  b2964 )
+DCYTtex	b0411
+DDCAtexi	b2344
+DDGALK	b3693
+DDGLCNt2rpp	b3909
+DDGLCNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DDGLK	b3526
+DDPA	( b2601  or  b0754  or  b1704 )
+DDPGALA	b4477
+DGK1	b3648
+DGMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DGSNt2pp	b2964
+DGSNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DHAD1	b3771
+DHAD2	b3771
+DHAPT	( b1200  and  b1199  and  b1198  and  b2415  and  b2416 )
+DHAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DHAtpp	
+DHBD	b0596
+DHBS	b0594
+DHBSH	
+DHCIND	b2541
+DHCINDO	b0348
+DHDPRy	b0031
+DHDPS	b2478
+DHFR	( b0048  or  b1606 )
+DHFS	b2315
+DHNAOT4	b3930
+DHNPA2	b3058
+DHORD2	b0945
+DHORD5	b0945
+DHORTS	b1062
+DHPPD	b2541
+DHPPDA2	b0414
+DHPS2	b3177
+DHPTDCs	
+DHPTPE	b2303
+DHQS	b3389
+DHQTi	b1693
+DIMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DINSt2pp	b2964
+DINStex	( b0241  or  b0929  or  b1377  or  b2215 )
+DKGLCNR1	( b0207  or  b3012 )
+DKGLCNR2x	b3553
+DKGLCNR2y	b3553
+DKMPPD	
+DKMPPD3	
+D-LACt2pp	( b3603  or  b2975 )
+D-LACtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DM_4HBA	
+DM_5DRIB	
+DM_AACALD	
+DM_HMFURN	
+DM_OXAM	
+DMATT	b0421
+DMPPS	b0029
+DMQMT	b2232
+DMSOR1	( ( b1587  and  b1588  and  b1589  and  b1590 )  or  ( b0894  and  b0895  and  b0896 ) )
+DMSOR1pp	( b1872  and  b1873 )
+DMSOR2	( b0894  and  b0895  and  b0896 )
+DMSOR2pp	( b1872  and  b1873 )
+DMSOtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DMStex	( b0241  or  b0929  or  b1377  or  b2215 )
+DNMPPA	
+DNTPPA	( b1865  or  b0099 )
+DOGULNR	b3575
+DOPAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DPCOAK	b0103
+DPR	( b0425  or  b3774 )
+DRPA	b4381
+DSBAO1	( b3860  and  b1185 )
+DSBAO2	( b3860  and  b1185 )
+DSBCGT	b2893
+DSBDR	( ( b4136  and  b3781 )  or  ( b4136  and  b2582 ) )
+DSBGGT	b0604
+DSERDHr	b1539
+DSERt2pp	b4208
+DSERtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DTMPK	b1098
+DTMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DUMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+DURIK1	b1238
+DURIPP	( b4382  or  b4384 )
+DURIt2pp	( b2393  or  b2964 )
+DURItex	b0411
+DUTPDP	( b3640  or  b2251 )
+DXPRIi	b0173
+DXPS	b0420
+DXYLK	b3564
+E4PD	b2927
+EAR100x	b1288
+EAR100y	b1288
+EAR120x	b1288
+EAR120y	b1288
+EAR121x	b1288
+EAR121y	b1288
+EAR140x	b1288
+EAR140y	b1288
+EAR141x	b1288
+EAR141y	b1288
+EAR160x	b1288
+EAR160y	b1288
+EAR161x	b1288
+EAR161y	b1288
+EAR180x	b1288
+EAR180y	b1288
+EAR181x	b1288
+EAR181y	b1288
+EAR40x	b1288
+EAR40y	b1288
+EAR60x	b1288
+EAR60y	b1288
+EAR80x	b1288
+EAR80y	b1288
+ECA4COLIPAtex	
+ECA4OALpp	b3622
+ECAP1pp	( b3793  and  b3785 )
+ECAP2pp	( b3793  and  b3785 )
+ECAP3pp	( b3793  and  b3785 )
+ECAtpp	b3792
+ECOAH1	( b3846  or  b2341 )
+ECOAH2	( b3846  or  b2341 )
+ECOAH3	( b3846  or  b2341 )
+ECOAH4	( b3846  or  b2341 )
+ECOAH5	( b3846  or  b2341 )
+ECOAH6	( b3846  or  b2341 )
+ECOAH7	( b3846  or  b2341 )
+ECOAH8	( b3846  or  b2341 )
+EDA	b1850
+EDD	b1851
+EDTXS1	b1054
+EDTXS2	b1855
+EDTXS3	b2378
+EDTXS4	b1855
+ENLIPAtex	
+ENO	b2779
+ENTCS	b0583
+ENTERES	b0585
+ENTERES2	b0585
+ETHAAL	( b2440  and  b2441 )
+ETHAt2pp	
+ETHAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ETHSO3abcpp	( b0936  and  b0933  and  b0934 )
+ETHSO3tex	( b0241  or  b0929  or  b1377  or  b2215 )
+ETOHt2rpp	
+ETOHtex	( b0241  or  b0929  or  b1377  or  b2215 )
+EX_12ppd-R(e)	
+EX_12ppd-S(e)	
+EX_14glucan(e)	
+EX_15dap(e)	
+EX_23camp(e)	
+EX_23ccmp(e)	
+EX_23cgmp(e)	
+EX_23cump(e)	
+EX_23dappa(e)	
+EX_26dap-M(e)	
+EX_2ddglcn(e)	
+EX_34dhpac(e)	
+EX_3amp(e)	
+EX_3cmp(e)	
+EX_3gmp(e)
+EX_3hcinnm(e)
+EX_3hpppn(e)
+EX_3ump(e)
+EX_4abut(e)
+EX_4hoxpacd(e)
+EX_5dglcn(e)
+EX_ac(e)
+EX_acac(e)
+EX_acald(e)
+EX_acgal(e)
+EX_acgal1p(e)
+EX_acgam(e)
+EX_acgam1p(e)
+EX_acmana(e)
+EX_acmum(e)
+EX_acnam(e)
+EX_acolipa(e)
+EX_acser(e)
+EX_ade(e)
+EX_adn(e)
+EX_adocbl(e)
+EX_ag(e)
+EX_agm(e)
+EX_akg(e)
+EX_alaala(e)
+EX_ala-B(e)
+EX_ala-D(e)
+EX_ala-L(e)
+EX_all-D(e)
+EX_alltn(e)
+EX_amp(e)
+EX_anhgm(e)
+EX_arab-L(e)
+EX_arbtn(e)
+EX_arbtn-fe3(e)
+EX_arg-L(e)
+EX_ascb-L(e)
+EX_asn-L(e)
+EX_aso3(e)
+EX_asp-L(e)
+EX_but(e)
+EX_butso3(e)
+EX_ca2(e)
+EX_cbi(e)
+EX_cbl1(e)
+EX_cd2(e)
+EX_cgly(e)
+EX_chol(e)
+EX_cit(e)
+EX_cl(e)
+EX_cmp(e)
+EX_co2(e)
+EX_cobalt2(e)
+EX_colipa(e)
+EX_cpgn(e)
+EX_cpgn-un(e)
+EX_crn(e)
+EX_csn(e)
+EX_cu(e)
+EX_cu2(e)
+EX_cyan(e)
+EX_cynt(e)
+EX_cys-D(e)
+EX_cys-L(e)
+EX_cytd(e)
+EX_dad-2(e)
+EX_damp(e)
+EX_dca(e)
+EX_dcmp(e)
+EX_dcyt(e)
+EX_ddca(e)
+EX_dgmp(e)
+EX_dgsn(e)
+EX_dha(e)
+EX_dimp(e)
+EX_din(e)
+EX_dms(e)
+EX_dmso(e)
+EX_dopa(e)
+EX_dtmp(e)
+EX_dump(e)
+EX_duri(e)
+EX_eca4colipa(e)
+EX_enlipa(e)
+EX_enter(e)
+EX_etha(e)
+EX_ethso3(e)
+EX_etoh(e)
+EX_f6p(e)
+EX_fald(e)
+EX_fe2(e)
+EX_fe3(e)
+EX_fe3dcit(e)
+EX_fe3dhbzs(e)
+EX_fe3hox(e)
+EX_fe3hox-un(e)
+EX_fecrm(e)
+EX_fecrm-un(e)
+EX_feenter(e)
+EX_feoxam(e)
+EX_feoxam-un(e)
+EX_for(e)
+EX_fru(e)
+EX_frulys(e)
+EX_fruur(e)
+EX_fuc-L(e)
+EX_fum(e)
+EX_g1p(e)
+EX_g3pc(e)
+EX_g3pe(e)
+EX_g3pg(e)
+EX_g3pi(e)
+EX_g3ps(e)
+EX_g6p(e)
+EX_gal(e)
+EX_gal1p(e)
+EX_gal-bD(e)
+EX_galct-D(e)
+EX_galctn-D(e)
+EX_galctn-L(e)
+EX_galt(e)
+EX_galur(e)
+EX_gam(e)
+EX_gam6p(e)
+EX_gbbtn(e)
+EX_gdp(e)
+EX_glc(e)
+EX_glcn(e)
+EX_glcr(e)
+EX_glcur(e)
+EX_glcur1p(e)
+EX_gln-L(e)
+EX_glu-L(e)
+EX_gly(e)
+EX_glyald(e)
+EX_glyb(e)
+EX_glyc(e)
+EX_glyc2p(e)
+EX_glyc3p(e)
+EX_glyclt(e)
+EX_glyc-R(e)
+EX_gmp(e)
+EX_gsn(e)
+EX_gthox(e)
+EX_gthrd(e)
+EX_gtp(e)
+EX_gua(e)
+EX_h(e)
+EX_h2(e)
+EX_h2o(e)
+EX_h2o2(e)
+EX_h2s(e)
+EX_hacolipa(e)
+EX_halipa(e)
+EX_hdca(e)
+EX_hdcea(e)
+EX_hg2(e)
+EX_his-L(e)
+EX_hom-L(e)
+EX_hxa(e)
+EX_hxan(e)
+EX_idon-L(e)
+EX_ile-L(e)
+EX_imp(e)
+EX_indole(e)
+EX_inost(e)
+EX_ins(e)
+EX_isetac(e)
+EX_k(e)
+EX_kdo2lipid4(e)
+EX_lac-D(e)
+EX_lac-L(e)
+EX_LalaDgluMdap(e)
+EX_LalaDgluMdapDala(e)
+EX_lcts(e)
+EX_leu-L(e)
+EX_lipa(e)
+EX_lipa_cold(e)
+EX_lys-L(e)
+EX_lyx-L(e)
+EX_mal-D(e)
+EX_mal-L(e)
+EX_malt(e)
+EX_malthx(e)
+EX_maltpt(e)
+EX_malttr(e)
+EX_maltttr(e)
+EX_man(e)
+EX_man6p(e)
+EX_manglyc(e)
+EX_melib(e)
+EX_met-D(e)
+EX_met-L(e)
+EX_metsox-R-L(e)
+EX_metsox-S-L(e)
+EX_mg2(e)
+EX_minohp(e)
+EX_mmet(e)
+EX_mn2(e)
+EX_mnl(e)
+EX_mobd(e)
+EX_mso3(e)
+EX_n2o(e)
+EX_na1(e)
+EX_nac(e)
+EX_nh4(e)
+EX_ni2(e)
+EX_nmn(e)
+EX_no(e)
+EX_no2(e)
+EX_no3(e)
+EX_o16a4colipa(e)
+EX_o2(e)
+EX_o2s(e)
+EX_ocdca(e)
+EX_ocdcea(e)
+EX_octa(e)
+EX_orn(e)
+EX_orot(e)
+EX_pacald(e)
+EX_peamn(e)
+EX_phe-L(e)
+EX_pheme(e)
+EX_pi(e)
+EX_pnto-R(e)
+EX_ppa(e)
+EX_ppal(e)
+EX_pppn(e)
+EX_ppt(e)
+EX_progly(e)
+EX_pro-L(e)
+EX_psclys(e)
+EX_pser-L(e)
+EX_ptrc(e)
+EX_pyr(e)
+EX_r5p(e)
+EX_rib-D(e)
+EX_rmn(e)
+EX_sbt-D(e)
+EX_ser-D(e)
+EX_ser-L(e)
+EX_skm(e)
+EX_so2(e)
+EX_so3(e)
+EX_so4(e)
+EX_spmd(e)
+EX_succ(e)
+EX_sucr(e)
+EX_sulfac(e)
+EX_tartr-L(e)
+EX_taur(e)
+EX_tcynt(e)
+EX_thm(e)
+EX_thr-L(e)
+EX_thrp(e)
+EX_thym(e)
+EX_thymd(e)
+EX_tma(e)
+EX_tmao(e)
+EX_tre(e)
+EX_trp-L(e)
+EX_tsul(e)
+EX_ttdca(e)
+EX_ttdcea(e)
+EX_tungs(e)
+EX_tym(e)
+EX_tyr-L(e)
+EX_tyrp(e)
+EX_uacgam(e)
+EX_udpacgal(e)
+EX_udpg(e)
+EX_udpgal(e)	
+EX_udpglcur(e)	
+EX_ump(e)	
+EX_ura(e)	
+EX_urea(e)	
+EX_uri(e)	
+EX_val-L(e)	
+EX_xan(e)	
+EX_xmp(e)	
+EX_xtsn(e)	
+EX_xyl-D(e)	
+EX_xylu-L(e)	
+EX_zn2(e)	
+F6PA	( b0825  or  b3946 )
+F6PP	b0822
+F6Pt6_2pp	b3666
+F6Ptex	( b0241  or  b0929  or  b1377  or  b2215 )
+FA100ACPHi	b0404
+FA120ACPHi	b0404
+FA140ACPHi	b0404
+FA141ACPHi	b0404
+FA160ACPHi	b0404
+FA161ACPHi	b0404
+FA80ACPHi	b0404
+FACOAE100	b0452
+FACOAE120	b0452
+FACOAE140	b0452
+FACOAE141	b0452
+FACOAE160	b0452
+FACOAE161	b0452
+FACOAE180	b0452
+FACOAE181	b0452
+FACOAE60	b0452
+FACOAE80	b0452
+FACOAL100t2pp	( b1805  or  b1701 )
+FACOAL120t2pp	( b1701  or  b1805 )
+FACOAL140t2pp	( b1805  or  b1701 )
+FACOAL141t2pp	( b1701  or  b1805 )
+FACOAL160t2pp	( b1701  or  b1805 )
+FACOAL161t2pp	( b1805  or  b1701 )
+FACOAL180t2pp	( b1805  or  b1701 )
+FACOAL181t2pp	( b1805  or  b1701 )
+FACOAL60t2pp	( b1805  or  b1701 )
+FACOAL80t2pp	( b1805  or  b1701 )
+FADRx	b3844
+FADRx2	( b2763  and  b2764 )
+FALDH2	b0356
+FALDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+FALDtpp	
+FALGTHLs	
+FBA	( b2097  or  b2925  or  b1773 )
+FBP	( b4232  or  b3925 )
+FCI	b2802
+FCLK	b2803
+FCLPA	( b2800  or  b2738 )
+FCLT	b0475
+FDH4pp	( ( b3892  and  b3893  and  b3894 )  or  ( b1474  and  b1475  and  b1476 ) )
+FDH5pp	( ( b1474  and  b1475  and  b1476 )  or  ( b3892  and  b3893  and  b3894 ) )
+FDMO	b0935
+FDMO2	b0935
+FDMO3	b0935
+FDMO4	b0935
+FDMO6	b0935
+FE2abcpp	b3409
+FE2t2pp	b2392
+FE2t3pp	b3915
+FE2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+FE2tpp	b3040
+FE3abcpp	
+FE3DCITabcpp	( b4290  and  b4289  and  b4288  and  b4287 )
+FE3DCITtonex	( b4291  and  ( b1252  and  b3005  and  b3006 ) )
+FE3DHBZR	
+FE3DHBZSabcpp	( b0592  and  b0588  and  b0590  and  b0589 )
+FE3DHBZStonex	( ( b0805  and  ( b1252  and  b3005  and  b3006 ) )  or  ( b2155  and  ( b1252  and  b3005  and  b3006 ) ) )
+FE3HOXabcpp	( b0153  and  b0151  and  b0152 )
+FE3HOXexs	
+FE3HOXR1	
+FE3HOXR2	
+FE3HOXR3	
+FE3HOXtonex	( b0150  and  ( b1252  and  b3005  and  b3006 ) )
+FE3HOXUtex	
+FE3HOXUtpp	
+FE3Ri	b3844
+FE3tex	( b0241  or  b0929  or  b1377  or  b2215 )
+FECRMabcpp	( b0153  and  b0151  and  b0152 )
+FECRMexs	
+FECRMR1	
+FECRMR2	
+FECRMR3	
+FECRMtonex	( b0150  and  ( b1252  and  b3005  and  b3006 ) )
+FECRMUtex	
+FECRMUtpp	
+FEENTERabcpp	( b0592  and  b0588  and  b0590  and  b0589 )
+FEENTERexs	
+FEENTERR1	
+FEENTERR2	
+FEENTERR3	
+FEENTERtex	
+FEENTERtonex	( b0584  and  ( b1252  and  b3005  and  b3006 ) )
+FEENTERtpp	b0591
+FEOXAMabcpp	( b0153  and  b0151  and  b0152 )
+FEOXAMexs	
+FEOXAMR1	
+FEOXAMR2	
+FEOXAMR3	
+FEOXAMtonex	( b0150  and  ( b1252  and  b3005  and  b3006 ) )
+FEOXAMUtex	
+FEOXAMUtpp	
+FEROpp	b0123
+FFSD	
+FHL	( ( b4079  and  ( b2481  and  b2482  and  b2483  and  b2484  and  b2485  and  b2486  and  b2487  and  b2488  and  b2489  and  b2490 ) )  or  ( b4079  and  ( b2719  and  b2720  and  b2721  and  b2722  and  b2723  and  b2724 ) ) )
+FLDR	( ( b0684  and  b3924 )  or  ( b2895  and  b3924 ) )
+FLVR	( ( b2763  and  b2764 )  or  b3844 )
+FLVRx	b3844
+FMETTRS	b3288
+FMNAT	b0025
+FMNRx	( b0937  or  b3844 )
+FMNRx2	( b0937  or  ( b2763  and  b2764 )  or  b3844 )
+FORt2pp	( b0904  or  b2492 )
+FORtex	( b0241  or  b0929  or  b1377  or  b2215 )
+FORtppi	( b0904  or  b2492 )
+FRD2	( b4151  and  b4152  and  b4153  and  b4154 )
+FRD3	( b4151  and  b4152  and  b4153  and  b4154 )
+FRUK	b2168
+FRULYSDG	b3371
+FRULYSE	b4474
+FRULYSK	b3374
+FRULYSt2pp	b3370
+FRULYStex	( b0241  or  b0929  or  b1377  or  b2215 )
+FRUpts2pp	( b1817  and  b1818  and  b1819  and  b2415  and  b2416 )
+FRUptspp	( b2167  and  b2169  and  b2415  and  b2416 )
+FRUtex	( b0241  or  b0929  or  b1377  or  b2215 )
+FRUURt2rpp	b4321
+FRUURtex	( b0241  or  b0929  or  b1377  or  b2215 )
+FTHFD	b1232
+FUCtex	( b0241  or  b0929  or  b1377  or  b2215 )
+FUCtpp	b2801
+FUM	( b1612  or  b4122  or  b1611 )
+FUMt2_2pp	b3528
+FUMt2_3pp	( b4138  or  b4123  or  b0621 )
+FUMtex	( b0241  or  b0929  or  b1377  or  b2215 )
+G1PACT	b3730
+G1PPpp	b1002
+G1Ptex	( b0241  or  b0929  or  b1377  or  b2215 )
+G1PTT	( b2039  or  b3789 )
+G1SAT	b0154
+G2PPpp	b4055
+G3PAT120	b4041
+G3PAT140	b4041
+G3PAT141	b4041
+G3PAT160	b4041
+G3PAT161	b4041
+G3PAT180	b4041
+G3PAT181	b4041
+G3PCabcpp	( b3452  and  b3453  and  b3450  and  b3451 )
+G3PCtex	( b0241  or  b0929  or  b1377  or  b2215 )
+G3PD2	b3608
+G3PD5	( ( b2241  and  b2242  and  b2243 )  or  b3426 )
+G3PD6	( b2241  and  b2242  and  b2243 )
+G3PD7	( b2241  and  b2242  and  b2243 )
+G3PEabcpp	( b3452  and  b3453  and  b3450  and  b3451 )
+G3PEtex	( b0241  or  b0929  or  b1377  or  b2215 )
+G3PGabcpp	( b3452  and  b3453  and  b3450  and  b3451 )
+G3PGtex	( b0241  or  b0929  or  b1377  or  b2215 )
+G3PIabcpp	( b3452  and  b3453  and  b3450  and  b3451 )
+G3PItex	( b0241  or  b0929  or  b1377  or  b2215 )
+G3PSabcpp	( b3452  and  b3453  and  b3450  and  b3451 )
+G3PStex	( b0241  or  b0929  or  b1377  or  b2215 )
+G3PT	b0822
+G5SADs	
+G5SD	b0243
+G6PDA	b0678
+G6PDH2r	b1852
+G6PP	b0822
+G6Pt6_2pp	b3666
+G6Ptex	( b0241  or  b0929  or  b1377  or  b2215 )
+GAL1PPpp	b1002
+GAL1Ptex	( b0241  or  b0929  or  b1377  or  b2215 )
+GALabcpp	( b2149  and  b2150  and  b2148 )
+GALBDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GALCTD	b3128
+GALCTLO	b4358
+GALCTND	b4478
+GALCTNLt2pp	b4356
+GALCTNLtex	( b2215  or  b1377  or  b0929  or  b0241 )
+GALCTNt2pp	b3691
+GALCTNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GALCTt2rpp	( b2789  or  b3127 )
+GALCTtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GALKr	( b2045  or  b0757 )
+GALM2pp	b0756
+GALS3	b4119
+GALT1	b3628
+GALt2pp	b2943
+GALtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GALTptspp	( b2094  and  b2093  and  b2092  and  b2415  and  b2416 )
+GALTtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GALUi	b1236
+GALURt2rpp	b3093
+GALURtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GAM6Pt6_2pp	b3666
+GAMAN6Ptex	( b0241  or  b0929  or  b1377  or  b2215 )
+GAMptspp	( b1817  and  b1818  and  b1819  and  b2415  and  b2416 )
+GAMtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GAPD	b1779
+GARFT	b2500
+GART	b1849
+GBBTNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GCALDD	b1415
+GDMANE	b2052
+GDPDPK	( b2784  or  b3650 )
+GDPMNH	b2051
+GDPMNP	b2467
+GDPtex	( b0241  or  b1377  or  b2215  or  b0929 )
+GF6PTA	b3729
+GGGABADr	b1300
+GGGABAH	b1298
+GGPTRCO	b1301
+GGPTRCS	b1297
+GHMT2r	b2551
+GK1	b3648
+GLBRAN2	b3432
+GLCabcpp	( b2149  and  b2150  and  b2148 )
+GLCATr	b0459
+GLCDpp	( b0124  or  b0837 )
+GLCNt2rpp	( b3415  or  b4265  or  b4321  or  b4476 )
+GLCNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLCP	( b3428  or  b3417 )
+GLCP2	( b3428  or  b3417 )
+GLCptspp	( ( b2417  and  b1101  and  b2415  and  b2416 )  or  ( b1817  and  b1818  and  b1819  and  b2415  and  b2416 )  or  ( b2417  and  b1621  and  b2415  and  b2416 ) )
+GLCRAL	b3126
+GLCRD	( b2787  or  b2788 )
+GLCRt2rpp	( b3127  or  b2789 )
+GLCRtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLCS1	b3429
+GLCt2pp	b2943
+GLCtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLCtexi	b4036
+GLCTR1	b3631
+GLCTR2	b3627
+GLCTR3	b3626
+GLCUR1Ptex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLCURt2rpp	( b3909  or  b3093 )
+GLCURtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLDBRAN2	b3431
+GLGC	b3430
+GLNabcpp	( b0811  and  b0810  and  b0809 )
+GLNS	( b3870  or  b1297 )
+GLNtex	( b0929  or  b1377  or  b2215  or  b0241 )
+GLNTRS	b0680
+GLTPD	b2091
+GLU5K	b0242
+GLUabcpp	( b0655  and  b0654  and  b0653  and  b0652 )
+GLUABUTt7pp	b1492
+GLUCYS	b2688
+GLUDC	( b3517  or  b1493 )
+GLUDy	b1761
+GLUN	( b1812  or  b0485  or  b1524 )
+GLUNpp	b2957
+GLUPRT	b2312
+GLUR	b3967
+GLUSy	( b3212  and  b3213 )
+GLUt2rpp	b4077
+GLUt4pp	b3653
+GLUtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLUTRR	b1210
+GLUTRS	b2400
+GLXCL	b0507
+GLYALDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLYALDtpp	b3927
+GLYAT	b3617
+GLYBabcpp	( b2128  and  b2129  and  b2130  and  b2131 )
+GLYBt2pp	b1801
+GLYBtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLYC2Ptex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLYC3Pabcpp	( b3452  and  b3453  and  b3450  and  b3451 )
+GLYC3Pt6pp	b2240
+GLYC3Ptex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLYCAt2rpp	( b3127  or  b2789 )
+GLYCAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLYCDx	b3945
+GLYCK	b0514
+GLYCK2	b3124
+GLYCL	( b2904  and  b2903  and  b2905  and  b0116 )
+GLYCLTDx	( b3553  or  b1033 )
+GLYCLTDy	( b1033  or  b3553 )
+GLYCLTt2rpp	( b3603  or  b2975 )
+GLYCLTt4pp	b4067
+GLYCLTtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLYCtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLYCTO2	( b2979  and  b4467  and  b4468 )
+GLYCTO3	( b2979  and  b4467  and  b4468 )
+GLYCTO4	( b2979  and  b4467  and  b4468 )
+GLYCtpp	( b3927 )
+GLYK	b3926
+GLYOX	b0212
+GLYOX3	
+GLYt2pp	( b1801  or  b4208 )
+GLYt4pp	b0007
+GLYtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GLYTRS	( b3559  and  b3560 )
+GMAND	b2053
+GMHEPAT	b3052
+GMHEPK	b3052
+GMHEPPA	b0200
+GMPR	b0104
+GMPS2	b2507
+GMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GND	b2029
+GNK	( b4268  or  b3437 )
+GOFUCR	b2052
+GP4GH	b0049
+GPDDA1	b3449
+GPDDA1pp	b2239
+GPDDA2	b3449
+GPDDA2pp	b2239
+GPDDA3	b3449
+GPDDA3pp	b2239
+GPDDA4	b3449
+GPDDA4pp	b2239
+GPDDA5	b3449
+GPDDA5pp	b2239
+GRTT	b0421
+GRXR	( b3610  or  b0849  or  b1654  or  b1064 )
+GSNK	b0477
+GSNt2pp	b2964
+GSNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GSPMDA	b2988
+GSPMDS	b2988
+GTHOr	b3500
+GTHOXtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GTHRDabc2pp	( b0886  and  b0887 )
+GTHRDabcpp	( b0829  and  b0830  and  b0831  and  b0832 )
+GTHRDHpp	b3447
+GTHRDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GTHS	b2947
+GTPCI	b2153
+GTPCII2	b1277
+GTPDPDP	b3779
+GTPDPK	b2784
+GTPHs	
+GTPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+GUAD	b2883
+GUAPRT	( b0238  or  b0125 )
+GUAt2pp	b3654
+GUAtex	b0411
+GUAtpp	
+GUI1	b3092
+GUI2	b3092
+GUR1PPpp	
+H2O2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+H2Otex	( b1377  or  b0929  or  b2215  or  b0241  or  b3875  or  b1319  or  b0957 )
+H2Otpp	( b0875 )
+H2SO	
+H2St1pp	
+H2Stex	( b0241  or  b0929  or  b1377  or  b2215 )
+H2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+H2tpp	
+HACD1i	( b3846  or  b2341 )
+HACD2i	( b3846  or  b2341 )
+HACD3i	( b3846  or  b2341 )
+HACD4i	( b3846  or  b2341 )
+HACD5i	( b3846  or  b2341 )
+HACD6i	( b3846  or  b2341 )
+HACD7i	( b3846  or  b2341 )
+HACD8i	( b3846  or  b2341 )
+HBZOPT	b4040
+HCINNMt2rpp	b0353
+HCINNMtex	( b0241  or  b0929  or  b1377  or  b2215 )
+HCO3E	( b0339  or  b0126 )
+HCYSMT	b0261
+HCYSMT2	b0261
+HDCAtexi	b2344
+HDCEAtexi	b2344
+HDCOAI	b3846
+HEMEOS	b0428
+HEPK1	b3630
+HEPK2	b3625
+HEPT1	b3621
+HEPT2	b3620
+HEPT3	b3632
+HEPT4	b3623
+HETZK	b2104
+HEX1	b2388
+HEX4	
+HEX7	b0394
+HEXt2rpp	b2223
+HG2abcpp	b3469
+HG2t3pp	b3915
+HG2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+HISabcpp	( b2309  and  b2307  and  b2306  and  b2308 )
+HISt2rpp	b0112
+HISTD	b2020
+HIStex	( b0241  or  b0929  or  b1377  or  b2215 )
+HISTP	b2022
+HISTRS	b2514
+HKNDDH	b0349
+HKNTDH	b0349
+HMBS	b3805
+HMPK1	( b2103  or  b2418 )
+HOMt2pp	( b0813  or  b3824 )
+HOMtex	( b0241  or  b0929  or  b1377  or  b2215 )
+HOPNTAL	b0352
+HPPK2	b0142
+HPPPNDO	b0348
+HPPPNt2rpp	b0353
+HPPPNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+HPYRI	b0508
+HPYRRx	( b1033  or  b3553 )
+HPYRRy	( b1033  or  b3553 )
+HSDy	( b3940  or  b0002 )
+HSK	b0003
+HSST	b4013
+HSTPT	b2021
+Htex	( b0929  or  b1377  or  b2215  or  b0241 )
+HXAND	( b2866  and  b2867  and  b2868 )
+HXAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+HXCT	( b2221  and  b2222 )
+HXPRT	( b0238  or  b0125 )
+HYD1pp	( ( b0972  and  b0973  and  b0974 )  or  ( b2994  and  b2997 )  or  ( b2719  and  b2720  and  b2721  and  b2722  and  b2723  and  b2724 ) )
+HYD2pp	( ( b0972  and  b0973  and  b0974 )  or  ( b2994  and  b2997 ) )
+HYD3pp	( ( b0972  and  b0973  and  b0974 )  or  ( b2994  and  b2997 ) )
+HYPOE	
+HYXNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+HYXNtpp	
+ICDHyr	b1136
+ICHORS	b2265
+ICHORSi	b0593
+ICHORT	b0595
+ICL	b4015
+IDOND	b4267
+IDOND2	b4267
+IDONt2rpp	b4265
+IDONtex	( b0241  or  b0929  or  b1377  or  b2215 )
+IG3PS	( b2023  and  b2025 )
+IGPDH	b2022
+IGPS	b1262
+ILEabcpp	( b3454  and  b3455  and  b3457  and  b3460  and  b3456 )
+ILEt2rpp	b0401
+ILETA	b3770
+ILEtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ILETRS	b0026
+IMPC	b4006
+IMPD	b2508
+IMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+INDOLEt2pp	( b3265  and  b3266 )
+INDOLEt2rpp	b3161
+INDOLEtex	( b0241  or  b0929  or  b1377  or  b2215 )
+INOSTt4pp	b3679
+INSH	b0030
+INSK	b0477
+INSt2pp	b2964
+INSt2rpp	b2406
+INStex	b0411
+INSTtex	( b0241  or  b0929  or  b1377  or  b2215 )
+IPDDI	b2889
+IPDPS	b0029
+IPMD	b0073
+IPPMIa	( b0071  and  b0072 )
+IPPMIb	( b0071  and  b0072 )
+IPPS	b0074
+ISETACabcpp	( ( b0365  and  b0366  and  b0367 )  or  ( b0936  and  b0933  and  b0934 ) )
+ISETACtex	( b0241  or  b0929  or  b1377  or  b2215 )
+K2L4Aabcpp	b0914
+K2L4Atex	
+Kabcpp	( b0698  and  b0697  and  b0696 )
+KARA1	b3774
+KARA2	b3774
+KAS14	( b2323  or  b1095 )
+KAS15	b1091
+KAT1	( b3845  or  b2342 )
+KAT2	( b3845  or  b2342 )
+KAT3	( b3845  or  b2342 )
+KAT4	( b3845  or  b2342 )
+KAT5	( b3845  or  b2342 )
+KAT6	( b3845  or  b2342 )
+KAT7	( b3845  or  b2342 )
+KAT8	( b3845  or  b2342 )
+KDOCT2	b0918
+KDOPP	b3198
+KDOPS	b1215
+KG6PDC	( b4196  or  b3581 )
+Kt2pp	( b1250  or  ( b1291  and  b3290  and  b1363 )  or  b3747  or  ( b1291  and  b3290  and  b3849 ) )
+Kt3pp	( b1216  or  b0842  or  b3350  or  b0047 )
+Ktex	( b0241  or  b0929  or  b1377  or  b2215 )
+LA4NTpp	b2257
+LACZ	b0344
+LACZpp	b2132
+LADGMDH	b1326
+LALDO2x	b3945
+LALGP	b0237
+LCADi	b1415
+LCARR	
+LCARS	b2799
+LCTSt3ipp	( b2170  or  b0070  or  b1528 )
+LCTStex	( b0241  or  b0929  or  b1377  or  b2215 )
+LCTStpp	b0343
+LDH_D	( b2133  or  b1380 )
+LDH_D2	b2133
+LEUabcpp	( ( b3454  and  b3455  and  b3457  and  b3458  and  b3456 )  or  ( b3454  and  b3455  and  b3457  and  b3460  and  b3456 ) )
+LEUt2rpp	b0401
+LEUTAi	( b3770  or  b4054 )
+LEUtex	( b0241  or  b0929  or  b1377  or  b2215 )
+LEUTRS	b0642
+LGTHL	b1651
+LIPAabcpp	b0914
+LIPACabcpp	b0914
+LIPAHT2ex	b0622
+LIPAHTex	b0622
+LIPAtex	
+L-LACD2	b3605
+L-LACD3	b3605
+L-LACt2rpp	( b3603  or  b2975 )
+L-LACtex	( b0241  or  b0929  or  b1377  or  b2215 )
+LPADSS	b0182
+LPLIPAL1A120pp	b0494
+LPLIPAL1A140pp	b0494
+LPLIPAL1A141pp	b0494
+LPLIPAL1A160pp	b0494
+LPLIPAL1A161pp	b0494
+LPLIPAL1A180pp	b0494
+LPLIPAL1A181pp	b0494
+LPLIPAL1E120pp	b0494
+LPLIPAL1E140pp	b0494
+LPLIPAL1E141pp	b0494
+LPLIPAL1E160pp	b0494
+LPLIPAL1E161pp	b0494
+LPLIPAL1E180pp	b0494
+LPLIPAL1E181pp	b0494
+LPLIPAL1G120pp	b0494
+LPLIPAL1G140pp	b0494
+LPLIPAL1G141pp	b0494
+LPLIPAL1G160pp	b0494
+LPLIPAL1G161pp	b0494
+LPLIPAL1G180pp	b0494
+LPLIPAL1G181pp	b0494
+LPLIPAL2A120	b3825
+LPLIPAL2A140	b3825
+LPLIPAL2A141	b3825
+LPLIPAL2A160	b3825
+LPLIPAL2A161	b3825
+LPLIPAL2A180	b3825
+LPLIPAL2A181	b3825
+LPLIPAL2ATE120	b3825
+LPLIPAL2ATE140	b3825
+LPLIPAL2ATE141	b3825
+LPLIPAL2ATE160	b3825
+LPLIPAL2ATE161	b3825
+LPLIPAL2ATE180	b3825
+LPLIPAL2ATE181	b3825
+LPLIPAL2ATG120	b3825
+LPLIPAL2ATG140	b3825
+LPLIPAL2ATG141	b3825
+LPLIPAL2ATG160	b3825
+LPLIPAL2ATG161	b3825
+LPLIPAL2ATG180	b3825
+LPLIPAL2ATG181	b3825
+LPLIPAL2E120	b3825
+LPLIPAL2E140	b3825
+LPLIPAL2E141	b3825
+LPLIPAL2E160	b3825
+LPLIPAL2E161	b3825
+LPLIPAL2E180	b3825
+LPLIPAL2E181	b3825
+LPLIPAL2G120	b3825
+LPLIPAL2G140	b3825
+LPLIPAL2G141	b3825
+LPLIPAL2G160	b3825
+LPLIPAL2G161	b3825
+LPLIPAL2G180	b3825
+LPLIPAL2G181	b3825
+LSERDHr	b1539
+LYSabcpp	( b2310  and  b2307  and  b2306  and  b2308 )
+LYSDC	( b0186  or  b4131 )
+LYSt2pp	b2156
+LYSt3pp	b2923
+LYStex	( b0241  or  b0929  or  b1377  or  b2215 )
+LYSTRS	( b2890  or  b4129 )
+LYXI	b3903
+LYXt2pp	b3907
+LYXtex	( b0241  or  b0929  or  b1377  or  b2215 )
+M1PD	b3600
+MACPD	b2323
+MALDDH	b1800
+MALDt2_2pp	b3528
+MALDtex	( b1377  or  b0929  or  b2215  or  b0241 )
+MALS	( b4014  or  b2976 )
+MALt2_2pp	b3528
+MALt2_3pp	( b4138  or  b4123 )
+MALTabcpp	( b4034  and  b4033  and  b4032  and  b4035 )
+MALTATr	b0459
+MALtex	( b0241  or  b0929  or  b1377  or  b2215 )
+MALTHXabcpp	( b4034  and  b4033  and  b4032  and  b4035 )
+MALTHXtexi	b4036
+MALTPTabcpp	( b4034  and  b4033  and  b4032  and  b4035 )
+MALTptspp	( b2417  and  b1621  and  b2415  and  b2416 )
+MALTPTtexi	b4036
+MALTtexi	b4036
+MALTTRabcpp	( b4034  and  b4033  and  b4032  and  b4035 )
+MALTTRtexi	b4036
+MALTTTRabcpp	( b4034  and  b4033  and  b4032  and  b4035 )
+MALTTTRtexi	b4036
+MAN1PT2	b2049
+MAN6PI	b1613
+MAN6Pt6_2pp	b3666
+MAN6Ptex	( b0241  or  b0929  or  b1377  or  b2215 )
+MANAO	b4323
+MANGLYCptspp	( b0731  and  b2415  and  b2416 )
+MANGLYCtex	( b0241  or  b0929  or  b1377  or  b2215 )
+MANPGH	b0732
+MANptspp	( b1817  and  b1818  and  b1819  and  b2415  and  b2416 )
+MANtex	( b0241  or  b0929  or  b1377  or  b2215 )
+MCITD	b0334
+MCITL2	b0331
+MCITS	b0333
+MCOATA	( b1094  and  b1092 )
+MCPST	b2521
+MCTP1App	( b0084  or  b0635  or  b0149  or  b3396 )
+MCTP1Bpp	( b0149  or  b3396 )
+MCTP2App	( b0084  or  b0635  or  b3396  or  b0149 )
+MDDCP1pp	( b0632  or  b3182  or  b0839  or  b2010 )
+MDDCP2pp	( b0632  or  b3182  or  b0839  or  b2010 )
+MDDCP3pp	( b0632  or  b3182  or  b0839  or  b2010 )
+MDDCP4pp	( b0632  or  b3182  or  b0839  or  b2010 )
+MDDCP5pp	( b0632  or  b3182  or  b0839  or  b2010 )
+MDDEP1pp	( b3182  or  b2328  or  b2134 )
+MDDEP2pp	( b3182  or  b2328  or  b2134 )
+MDDEP3pp	( b3182  or  b2328  or  b2134 )
+MDDEP4pp	( b3182  or  b2328  or  b2134 )
+MDH	b3236
+MDH2	b2210
+MDH3	b2210
+MDRPD	
+ME1	b1479
+ME2	b2463
+MECDPDH2	b2515
+MECDPS	b2746
+MELIBt2pp	b4120
+MELIBt3ipp	b1528
+MELIBtex	( b0241  or  b0929  or  b1377  or  b2215 )
+MEPCT	b2747
+METabcpp	( b0198  and  b0199  and  b0197 )
+METAT	b2942
+METDabcpp	( b0198  and  b0199  and  b0197 )
+METDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+METOX1s	
+METOX2s	
+METS	( b4019  or  b3829 )
+METSOX1abcpp	
+METSOX1tex	( b0241  or  b0929  or  b1377  or  b2215 )
+METSOX2abcpp	
+METSOX2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+METSOXR1	( ( b4219  and  b2582 )  or  ( b4219  and  b3781 ) )
+METSOXR2	( ( b1778  and  b2582 )  or  ( b1778  and  b3781 ) )
+METtex	( b0241  or  b0929  or  b1377  or  b2215 )
+METTRS	b2114
+MG2t3_2pp	
+MG2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+MG2tpp	b3816
+MG2uabcpp	b4242
+MGSA	b0963
+MI1PP	b2533
+MICITD	b0118
+MINOHPtexi	
+MLDCP1App	
+MLDCP1Bpp	
+MLDCP2App	
+MLDCP2Bpp	
+MLDCP3App	
+MLDEP1pp	
+MLDEP2pp	
+MLTG1	b0403
+MLTG2	b0403
+MLTG3	b0403
+MLTG4	b0403
+MLTG5	b0403
+MLTGY1pp	( b4392  or  b2813  or  b2701  or  b1193  or  b2963 )
+MLTGY2pp	( b4392  or  b2813  or  b2701  or  b1193  or  b2963 )
+MLTGY3pp	( b4392  or  b2813  or  b2701  or  b1193  or  b2963 )
+MLTGY4pp	( b4392  or  b2813  or  b2701  or  b1193  or  b2963 )
+MLTP1	b3417
+MLTP2	b3417
+MLTP3	b3417
+MMCD	b2919
+MME	
+MMETt2pp	b0260
+MMETtex	( b0241  or  b0929  or  b1377  or  b2215 )
+MMM2	b2917
+MN2t3pp	( b3915  or  b0752 )
+MN2tpp	b3040
+MN6PP	b0822
+MNLptspp	( b3599  and  b2415  and  b2416 )
+MNLtex	( b0241  or  b0929  or  b1377  or  b2215 )
+MNNH	b4322
+MNt2pp	b2392
+MNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+MOAT	b3633
+MOAT2	b3633
+MOAT3C	b3624
+MOBDabcpp	( ( b0763  and  b0764  and  b0765 )  or  ( b2422  and  b2424  and  b2423  and  b3917 )  or  ( b2422  and  b2425  and  b2424  and  b2423 ) )
+MOBDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+MOHMT	b0134
+MPTG	( b2519  or  b0149  or  b3396 )
+MPTG2	( b0149  or  b2519  or  b3396 )
+MSO3abcpp	( b0936  and  b0933  and  b0934 )
+MSO3tex	( b0241  or  b0929  or  b1377  or  b2215 )
+MTAN	b0159
+MTHFC	b0529
+MTHFD	b0529
+MTHFR2	b3941
+MTRI	
+MTRK	
+MTRPOX	b1059
+N2Otex	( b0241  or  b0929  or  b1377  or  b2215 )
+N2Otpp	
+NACODA	b3957
+NACtex	( b0241  or  b0929  or  b1377  or  b2215 )
+NACtpp	
+NADDP	( b2411  or  b3996 )
+NADH10	b1109
+NADH16pp	( b2276  and  b2277  and  b2278  and  b2279  and  b2280  and  b2281  and  b2282  and  b2283  and  b2284  and  b2285  and  b2286  and  b2287  and  b2288 )
+NADH17pp	( b2276  and  b2277  and  b2278  and  b2279  and  b2280  and  b2281  and  b2282  and  b2283  and  b2284  and  b2285  and  b2286  and  b2287  and  b2288 )
+NADH18pp	( b2276  and  b2277  and  b2278  and  b2279  and  b2280  and  b2281  and  b2282  and  b2283  and  b2284  and  b2285  and  b2286  and  b2287  and  b2288 )
+NADH5	b1109
+NADH9	b1109
+NADK	b2615
+NADN	
+NADPHQR2	b3028
+NADPHQR3	b3028
+NADPHQR4	b3028
+NADPPPS	
+NADS1	b1740
+NADTRHD	( b3962  or  ( b1602  and  b1603 ) )
+NAMNPP	b0931
+NAt3_1p5pp	b1186
+NAt3_2pp	b0019
+NAt3pp	( b0842  or  b1216 )
+NAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+NDPK1	( b0474  or  b2518 )
+NDPK2	( b0474  or  b2518 )
+NDPK3	( b2518  or  b0474 )
+NDPK4	( b0474  or  b2518 )
+NDPK5	( b0474  or  b2518 )
+NDPK6	( b0474  or  b2518 )
+NDPK7	( b0474  or  b2518 )
+NDPK8	( b0474  or  b2518 )
+NH4tex	( b0241  or  b0929  or  b1377  or  b2215 )
+NH4tpp	( b0451 )
+NHFRBO	( b2710  and  b2711 )
+NI2abcpp	b3469
+NI2t3pp	( b3915  or  b0752 )
+NI2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+NI2tpp	b3816
+NI2uabcpp	( ( b3476  and  b3477  and  b3478  and  b3479  and  b3480 )  or  b4242 )
+NMNAT	( b0639  or  b4390 )
+NMNDA	
+NMNN	
+NMNPtpp	b0751
+NMNt7pp	
+NMNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+NNAM	b1768
+NNATr	b0639
+NNDMBRT	b1991
+NNDPR	b0109
+NO2t2rpp	( b3367  or  b1223 )
+NO2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+NO3R1bpp	( ( b2203  and  b2206 )  and  b2202  and  b2205  and  b2204 )
+NO3R1pp	( ( b1465  and  b1466  and  b1467  and  b1468 )  or  ( b1224  and  b1225  and  b1226  and  b1227 ) )
+NO3R2bpp	( ( b2203  and  b2206 )  and  b2202 )
+NO3R2pp	( ( b1465  and  b1466  and  b1467  and  b1468 )  or  ( b1224  and  b1225  and  b1226  and  b1227 ) )
+NO3t7pp	( b1223  or  b1469 )
+NO3tex	( b0241  or  b0929  or  b2215  or  b1377 )
+NODOx	b2552
+NODOy	b2552
+NOtex	( b0241  or  b0929  or  b1377  or  b2215 )
+NOtpp	
+NPHS	b2262
+NTD1	( b2291  or  b2744  or  b4374 )
+NTD10	b2744
+NTD10pp	( b0480  or  b4055 )
+NTD11	b2744
+NTD11pp	( b0480  or  b4055 )
+NTD12	( b2291  or  b2744 )
+NTD12pp	( b0480  or  b4055 )
+NTD1pp	( b0480  or  b4055 )
+NTD2	( b2744  or  b4374 )
+NTD2pp	( b0480  or  b4055 )
+NTD3	( b2291  or  b2744 )
+NTD3pp	( b0480  or  b4055 )
+NTD4	b2744
+NTD4pp	( b0480  or  b4055 )
+NTD5	( b2291  or  b2744  or  b4374 )
+NTD5pp	( b0480  or  b4055 )
+NTD6	( b2291  or  b2744 )
+NTD6pp	( b0480  or  b4055 )
+NTD7	b2744
+NTD7pp	( b0480  or  b4055 )
+NTD8	( b2291  or  b2744 )
+NTD8pp	( b0480  or  b4055 )
+NTD9	b2744
+NTD9pp	( b0480  or  b4055 )
+NTP1	( b0650  or  b4161 )
+NTP10	( b4394  or  b4161 )
+NTP11	b4394
+NTP12	b4394
+NTP3	b4161
+NTP3pp	b0980
+NTP5	b4161
+NTPP1	( b2781  or  b0099 )
+NTPP10	b2954
+NTPP11	b2954
+NTPP2	( b2781  or  b0099 )
+NTPP3	( b2781  or  b1759  or  b2251 )
+NTPP4	( b2781  or  b1759 )
+NTPP5	( b2781  or  b1865 )
+NTPP6	b2781
+NTPP7	( b2781  or  b2251 )
+NTPP8	b2781
+NTPP9	b2954
+NTPTP1	b0160
+NTPTP2	b0160
+NTRIR2x	( b3365  and  b3366 )
+NTRIR3pp	( b4070  and  b4071  and  b4072  and  b4073 )
+NTRIR4pp	( b4070  and  b4071  and  b4072  and  b4073 )
+O16A4COLIPAtex	
+O16A4Lpp	b3622
+O16AP1pp	( b2035  and  b2027 )
+O16AP2pp	( b2035  and  b2027 )
+O16AP3pp	( b2035  and  b2027 )
+O16AT	b2033
+O16AUNDtpp	b2037
+O16GALFT	b2034
+O16GLCT1	b2032
+O16GLCT2	
+O2Stex	( b0241  or  b0929  or  b1377  or  b2215 )
+O2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+O2tpp	
+OAADC	b1850
+OBTFL	( ( ( b0902  and  b0903 )  and  b2579 )  or  ( b0902  and  b0903 )  or  ( b0902  and  b3114 ) )
+OCBT	( b4254  or  b0273 )
+OCDCAtexi	b2344
+OCDCEAtexi	b2344
+OCTAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+OCTDPS	b3187
+ODECOAI	b3846
+OHPBAT	b0907
+OHPHM	b2232
+OMBZLM	b3833
+OMCDC	b0073
+OMMBLHX	b0662
+OMMBLHX3	
+OMPDC	b1281
+OMPHHX	b2907
+OMPHHX3	
+OP4ENH	b0350
+OPHBDC	( b3843  or  b2311 )
+OPHHX	b3835
+OPHHX3	
+ORNabcpp	( b2310  and  b2307  and  b2306  and  b2308 )
+ORNDC	( b2965  or  b0693 )
+ORNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+OROTt2_2pp	b3528
+OROTtex	( b1377  or  b0929  or  b0241  or  b2215 )
+ORPT	b3642
+OXAMTC	
+OXGDC2	b2264
+P5CD	b1014
+P5CR	b0386
+PA120abcpp	b0914
+PA140abcpp	b0914
+PA141abcpp	b0914
+PA160abcpp	b0914
+PA161abcpp	b0914
+PA180abcpp	b0914
+PA181abcpp	b0914
+PACALDt2rpp	
+PACALDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+PACCOAL	b1398
+PANTS	b0133
+PAPA120	b1278
+PAPA120pp	b1278
+PAPA140	b1278
+PAPA140pp	b1278
+PAPA141	b1278
+PAPA141pp	b1278
+PAPA160	b1278
+PAPA160pp	b1278
+PAPA161	b1278
+PAPA161pp	b1278
+PAPA180	b1278
+PAPA180pp	b1278
+PAPA181	b1278
+PAPA181pp	b1278
+PAPPT3	b0087
+PAPSR	( ( b2762  and  b2582 )  or  ( b2762  and  b3781 ) )
+PAPSR2	( ( b2762  and  b0849 )  or  ( b2762  and  b1064 )  or  ( b2762  and  b1654 )  or  ( b2762  and  b3610 ) )
+PDE1	b1489
+PDH	( b0114  and  b0115  and  b0116 )
+PDX5PO2	
+PDX5POi	b1638
+PDX5PS	( b0052  and  b2564 )
+PDXPP	
+PE120abcpp	b0914
+PE140abcpp	b0914
+PE141abcpp	b0914
+PE160abcpp	b0914
+PE161abcpp	b0914
+PE180abcpp	b0914
+PE181abcpp	b0914
+PEAMNOpp	b1386
+PEAMNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+PERD	b2320
+PETNT161pp	b3546
+PETNT181pp	b3546
+PFK	( b3916  or  b1723 )
+PFK_2	b3916
+PFL	( ( ( b0902  and  b0903 )  and  b2579 )  or  ( b0902  and  b0903 )  or  ( b0902  and  b3114 )  or  ( b3951  and  b3952 ) )
+PG120abcpp	b0914
+PG140abcpp	b0914
+PG141abcpp	b0914
+PG160abcpp	b0914
+PG161abcpp	b0914
+PG180abcpp	b0914
+PG181abcpp	b0914
+PGAMT	b3176
+PGCD	b2913
+PGI	b4025
+PGK	b2926
+PGL	b0767
+PGLYCP	b3385
+PGM	( b3612  or  b4395  or  b0755 )
+PGMT	( b2690  or  b0688 )
+PGP120abcpp	b0914
+PGP140abcpp	b0914
+PGP141abcpp	b0914
+PGP160abcpp	b0914
+PGP161abcpp	b0914
+PGP180abcpp	b0914
+PGP181abcpp	b0914
+PGPP120	( b1278  or  b0418 )
+PGPP120pp	( b1278  or  b0418 )
+PGPP140	( b0418  or  b1278 )
+PGPP140pp	( b1278  or  b0418 )
+PGPP141	( b1278  or  b0418 )
+PGPP141pp	( b0418  or  b1278 )
+PGPP160	( b0418  or  b1278 )
+PGPP160pp	( b0418  or  b1278 )
+PGPP161	( b0418  or  b1278 )
+PGPP161pp	( b1278  or  b0418 )
+PGPP180	( b1278  or  b0418 )
+PGPP180pp	( b1278  or  b0418 )
+PGPP181	( b0418  or  b1278 )
+PGPP181pp	( b0418  or  b1278 )
+PGSA120	b1912
+PGSA140	b1912
+PGSA141	b1912
+PGSA160	b1912
+PGSA161	b1912
+PGSA180	b1912
+PGSA181	b1912
+PHEMEabcpp	( b2201  and  b2200  and  b2199 )
+PHEMEtiex	
+PHEt2rpp	( b0576  or  b0112 )
+PHETA1	( b0928  or  b4054  or  b3770 )
+PHEtex	( b0241  or  b0929  or  b1377  or  b2215 )
+PHETRS	( b1713  and  b1714 )
+PHYTSpp	b0980
+PIt2rpp	( b2987  or  b3493 )
+PItex	( b0241  or  b0929  or  b1377  or  b2215 )
+PIuabcpp	( b3726  and  b3725  and  b3727  and  b3728 )
+PLIPA1A120pp	b3821
+PLIPA1A140pp	b3821
+PLIPA1A141pp	b3821
+PLIPA1A160pp	b3821
+PLIPA1A161pp	b3821
+PLIPA1A180pp	b3821
+PLIPA1A181pp	b3821
+PLIPA1E120pp	b3821
+PLIPA1E140pp	b3821
+PLIPA1E141pp	b3821
+PLIPA1E160pp	b3821
+PLIPA1E161pp	b3821
+PLIPA1E180pp	b3821
+PLIPA1E181pp	b3821
+PLIPA1G120pp	b3821
+PLIPA1G140pp	b3821
+PLIPA1G141pp	b3821
+PLIPA1G160pp	b3821
+PLIPA1G161pp	b3821
+PLIPA1G180pp	b3821
+PLIPA1G181pp	b3821
+PLIPA2A120pp	b3821
+PLIPA2A140pp	b3821
+PLIPA2A141pp	b3821
+PLIPA2A160pp	b3821
+PLIPA2A161pp	b3821
+PLIPA2A180pp	b3821
+PLIPA2A181pp	b3821
+PLIPA2E120pp	b3821
+PLIPA2E140pp	b3821
+PLIPA2E141pp	b3821
+PLIPA2E160pp	b3821
+PLIPA2E161pp	b3821
+PLIPA2E180pp	b3821
+PLIPA2E181pp	b3821
+PLIPA2G120pp	b3821
+PLIPA2G140pp	b3821
+PLIPA2G141pp	b3821
+PLIPA2G160pp	b3821
+PLIPA2G161pp	b3821
+PLIPA2G180pp	b3821
+PLIPA2G181pp	b3821
+PMANM	b2048
+PMDPHT	
+PMPK	b2103
+PNTK	b3974
+PNTOt4pp	b3258
+PNTOtex	( b0241  or  b0929  or  b1377  or  b2215 )
+POX	b0871
+PPA	( b4226  or  b2502  or  b2744 )
+PPA2	( b2744  or  b2502 )
+PPAKr	b3115
+PPALtex	( b0241  or  b0929  or  b1377  or  b2215 )
+PPALtpp	
+PPAt4pp	b1015
+PPAtex	( b1377  or  b0929  or  b2215  or  b0241 )
+PPBNGS	b0369
+PPC	b3956
+PPCDC	b3639
+PPCK	b3403
+PPCSCT	b2920
+PPGPPDP	b3650
+PPK2r	b2501
+PPKr	b2501
+PPM	( b4383  or  b3380 )
+PPM2	b4383
+PPNCL2	b3639
+PPND	b2600
+PPNDH	b2599
+PPPGO	b3850
+PPPGO3	b3850
+PPPNDO	( b2538  and  b2539  and  b2540  and  b2542 )
+PPPNt2rpp	b2536
+PPPNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+PPS	b1702
+PPTHpp	b0383
+PPTtex	( b0241  or  b0929  or  b1377  or  b2215 )
+PRAGSr	b4005
+PRAIi	b1262
+PRAIS	b2499
+PRAMPC	b2026
+PRASCS	b2476
+PRATPP	b2026
+PRFGS	b2557
+PRMICI	b2024
+PROabcpp	( b2677  and  b2678  and  b2679 )
+PROD2	b1014
+PROGLYabcpp	( b3544  and  b3543  and  b3542  and  b3541  and  b3540 )
+PROGLYtex	( b0241  or  b0929  or  b1377  or  b2215 )
+PROt2rpp	b4111
+PROt4pp	b1015
+PROtex	( b0241  or  b0929  or  b1377  or  b2215 )
+PROTRS	b0194
+PRPPS	b1207
+PSCLYSt2pp	b3370
+PSCLYStex	( b0929  or  b2215  or  b1377  or  b0241 )
+PSCVT	b0908
+PSD120	b4160
+PSD140	b4160
+PSD141	b4160
+PSD160	b4160
+PSD161	b4160
+PSD180	b4160
+PSD181	b4160
+PSERT	b0907
+PSERtex	( b0241  or  b0929  or  b1377  or  b2215 )
+PSP_L	b4388
+PSP_Lpp	b4055
+PSSA120	b2585
+PSSA140	b2585
+PSSA141	b2585
+PSSA160	b2585
+PSSA161	b2585
+PSSA180	b2585
+PSSA181	b2585
+PTA2	b2297
+PTAr	( b2458  or  b2297 )
+PTHRpp	b4055
+PTPATi	b3634
+PTRCabcpp	( ( b0854  and  b0855  and  b0856  and  b0857 )  or  ( b1126  and  b1125  and  b1124  and  b1123 )  or  ( b1440  and  b1441  and  b1442  and  b1443 ) )
+PTRCORNt7pp	b0692
+PTRCt2pp	( b1296  or  b0692 )
+PTRCTA	b3073
+PTRCtex	( b0241  or  b0929  or  b1377  or  b2215 )
+PUNP1	b4384
+PUNP2	b4384
+PUNP3	( b2407  or  b4384 )
+PUNP4	( b2407  or  b4384 )
+PUNP5	( b2407  or  b4384 )
+PUNP6	( b2407  or  b4384 )
+PUNP7	b2407
+PYAM5PO	b1638
+PYDAMK	b2418
+PYDXK	( b2418  or  b1636 )
+PYDXNK	b2418
+PYDXPP	
+PYK	( b1854  or  b1676 )
+PYNP2r	b3831
+PYRt2rpp	
+PYRtex	( b0241  or  b0929  or  b1377  or  b2215 )
+QMO2	b3029
+QMO3	b3029
+QULNS	b0750
+R15BPK	b4094
+R1PK	
+R5PP	b0822
+R5PPpp	b4055
+R5Ptex	( b0241  or  b0929  or  b1377  or  b2215 )
+RBFK	b0025
+RBFSa	b1662
+RBFSb	b0415
+RBK	b3752
+RBK_L1	b0063
+RBP4E	( b0061  or  b4198  or  b3583 )
+RHAT1	b3629
+RHCCE	b2687
+RIBabcpp	( ( b4231  and  b4227  and  b4485  and  b4230 )  or  ( b3749  and  b3751  and  b3750  and  b3748 )  or  ( b4087  and  b4088  and  b4086 ) )
+RIBtex	( b0241  or  b0929  or  b1377  or  b2215 )
+RMI	b3903
+RMK	b3904
+RMNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+RMNtpp	b3907
+RMPA	b3902
+RNDR1	( ( ( b2234  and  b2235 )  and  b3781 )  or  ( ( b2234  and  b2235 )  and  b2582 ) )
+RNDR1b	( ( b1654  and  ( b2675  and  b2676 ) )  or  ( b0849  and  ( b2675  and  b2676 ) )  or  ( b1064  and  ( b2675  and  b2676 ) )  or  ( b3610  and  ( b2675  and  b2676 ) ) )
+RNDR2	( ( ( b2234  and  b2235 )  and  b2582 )  or  ( ( b2234  and  b2235 )  and  b3781 ) )
+RNDR2b	( ( b3610  and  ( b2675  and  b2676 ) )  or  ( b1064  and  ( b2675  and  b2676 ) )  or  ( b1654  and  ( b2675  and  b2676 ) )  or  ( b0849  and  ( b2675  and  b2676 ) ) )
+RNDR3	( ( ( b2234  and  b2235 )  and  b2582 )  or  ( ( b2234  and  b2235 )  and  b3781 ) )
+RNDR3b	( ( b1654  and  ( b2675  and  b2676 ) )  or  ( b1064  and  ( b2675  and  b2676 ) )  or  ( b0849  and  ( b2675  and  b2676 ) )  or  ( b3610  and  ( b2675  and  b2676 ) ) )
+RNDR4	( ( ( b2234  and  b2235 )  and  b2582 )  or  ( ( b2234  and  b2235 )  and  b3781 ) )
+RNDR4b	( ( b1064  and  ( b2675  and  b2676 ) )  or  ( b3610  and  ( b2675  and  b2676 ) )  or  ( b1654  and  ( b2675  and  b2676 ) )  or  ( b0849  and  ( b2675  and  b2676 ) ) )
+RNTR1c	( ( b2895  and  b3924  and  b4238  and  b4237 )  or  ( b2895  and  b4238 )  or  ( b0684  and  b4238 )  or  ( b0684  and  b3924  and  b4238  and  b4237 ) )
+RNTR2c	( ( b0684  and  b4238 )  or  ( b2895  and  b4238 )  or  ( b2895  and  b3924  and  b4238  and  b4237 )  or  ( b0684  and  b3924  and  b4238  and  b4237 ) )
+RNTR3c	( ( b2895  and  b4238 )  or  ( b0684  and  b3924  and  b4238  and  b4237 )  or  ( b0684  and  b4238 )  or  ( b2895  and  b3924  and  b4238  and  b4237 ) )
+RNTR4c	( ( b0684  and  b3924  and  b4238  and  b4237 )  or  ( b2895  and  b4238 )  or  ( b0684  and  b4238 )  or  ( b2895  and  b3924  and  b4238  and  b4237 ) )
+RPE	( b4301  or  b3386 )
+RPI	( b2914  or  b4090 )
+RZ5PP	b0638
+S7PI	b0222
+SADH	b1745
+SADT2	( b2751  and  b2752 )
+SARCOX	b1059
+SBTPD	b2705
+SBTptspp	( b2415  and  b2416  and  b2702  and  b2704  and  b2703 )
+SBTtex	( b0241  or  b0929  or  b1377  or  b2215 )
+SDPDS	b2472
+SDPTA	b3359
+SELCYSS	b3591
+SELNPS	b1764
+SERASr	b0586
+SERAT	b3607
+SERD_D	b2366
+SERD_L	( b4471  or  b1814  or  b2797  or  b3708 )
+SERt2rpp	( b2796  or  b3116 )
+SERt4pp	b3089
+SERtex	( b0241  or  b0929  or  b1377  or  b2215 )
+SERTRS	b0893
+SERTRS2	b0893
+SFGTHi	( b2154  or  b0355 )
+SGDS	b1744
+SGSAD	b1746
+SHCHCS2	b2264
+SHCHD2	b3368
+SHCHF	b3368
+SHK3Dr	( b3281  or  b1692 )
+SHKK	( b3390  or  b0388 )
+SHSL1	b3939
+SKMt2pp	b1981
+SKMtex	( b0241  or  b0929  or  b1377  or  b2215 )
+SO2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+SO2tpp	
+SO3tex	( b1377  or  b2215  or  b0241  or  b0929 )
+SO4tex	( b0241  or  b0929  or  b1377  or  b2215 )
+SOTA	b1748
+SPMDabcpp	( ( b1440  and  b1441  and  b1442  and  b1443 )  or  ( b1126  and  b1125  and  b1124  and  b1123 ) )
+SPMDAT1	b1584
+SPMDAT2	b1584
+SPMDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+SPMS	b0121
+SPODM	( b3908  or  b1656 )
+SPODMpp	b1646
+SSALx	
+SSALy	b2661
+SUCBZL	b2260
+SUCBZS	b2261
+SUCCt2_2pp	b3528
+SUCCt2_3pp	( b4123  or  b4138 )
+SUCCt3pp	
+SUCCtex	( b0241  or  b0929  or  b1377  or  b2215 )
+SUCDi	( b0721  and  b0722  and  b0723  and  b0724 )
+SUCFUMtpp	( b4138  or  b4123  or  b0621 )
+SUCOAS	( b0728  and  b0729 )
+SUCptspp	( b2417  and  b2429  and  b2415  and  b2416 )
+SUCRtex	( b0241  or  b0929  or  b1377  or  b2215 )
+SULabcpp	( ( b2422  and  b2425  and  b2424  and  b2423 )  or  ( b0763  and  b0764  and  b0765 )  or  ( b2422  and  b2424  and  b2423  and  b3917 ) )
+SULFACabcpp	( b0936  and  b0933  and  b0934 )
+SULFACtex	( b0241  or  b0929  or  b1377  or  b2215 )
+SULRi	( b2763  and  b2764 )
+T2DECAI	b0954
+TAGURr	b1521
+TALA	( b2464  or  b0008 )
+TARTD	( b3061  and  b3062 )
+TARTRt7pp	b3063
+TARTRtex	( b0241  or  b0929  or  b1377  or  b2215 )
+TAUDO	b0368
+TAURabcpp	( b0365  and  b0366  and  b0367 )
+TAURtex	( b0241  or  b0929  or  b1377  or  b2215 )
+TCYNTtex	( b0241  or  b0929  or  b1377  or  b2215 )
+TDECOAI	b3846
+TDP	b1134
+TDPADGAT	b3790
+TDPAGTA	b3791
+TDPDRE	b2038
+TDPDRR	b2040
+TDPGDH	( b3788  or  b2041 )
+TDSK	b0915
+TDSR1	( b2893  and  b4136 )
+TDSR2	( b4136  and  b0604 )
+TGBPA	( ( b3132  and  b3137 )  or  ( b2095  and  b2096 ) )
+THD2pp	( b1602  and  b1603 )
+THDPS	b0166
+THIORDXi	( ( b2480  and  b2582 )  or  ( b2480  and  b3781 ) )
+THMabcpp	( b0068  and  b0067  and  b0066 )
+THMDt2pp	( b2393  or  b2964 )
+THMDt2rpp	b2406
+THMDtex	( b0241  or  b0929  or  b1377  or  b2215 )
+THMtex	( b0241  or  b0929  or  b1377  or  b2215 )
+THRA2i	( b2551  or  b0870 )
+THRabcpp	( b3454  and  b3455  and  b3457  and  b3460  and  b3456 )
+THRAi	( b2551  or  b0870 )
+THRD	b3616
+THRD_L	( b3117  or  b1814  or  b2797  or  b3772 )
+THRPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+THRS	b0004
+THRt2pp	( b0813  or  b3823 )
+THRt2rpp	b3116
+THRt4pp	b3089
+THRtex	( b0241  or  b0929  or  b1377  or  b2215 )
+THRTRS	b1719
+THYMt3pp	
+THYMtex	( b1377  or  b2215  or  b0241  or  b0929 )
+THZPSN	( b2530  and  b3992  and  ( b3990  and  b3991 )  and  b0423  and  b4407 )
+TKT1	( b2935  or  b2465 )
+TKT2	( b2935  or  b2465 )
+TMAOR1	( ( b1587  and  b1588  and  b1589  and  b1590 )  or  ( b0894  and  b0895  and  b0896 ) )
+TMAOR1pp	( ( b1872  and  b1873 )  or  ( b0996  and  b0997 ) )
+TMAOR2	( b0894  and  b0895  and  b0896 )
+TMAOR2pp	( ( b1872  and  b1873 )  or  ( b0996  and  b0997 ) )
+TMAOtex	( b0241  or  b0929  or  b1377  or  b2215 )
+TMAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+TMDK1	b1238
+TMDPP	b4382
+TMDS	b2827
+TMK	b1106
+TMPK	b0417
+TMPPP	b3993
+TPI	b3919
+TPRDCOAS	b0613
+TRDR	( ( b3781  and  ( b0888  and  b0888 ) )  or  b2582 )
+TRE6PH	b4239
+TRE6PP	b1897
+TRE6PS	b1896
+TREH	b3519
+TREHpp	b1197
+TREptspp	( b2417  and  b2415  and  b2416  and  b4240 )
+TREtex	( b0241  or  b0929  or  b1377  or  b2215 )
+TRPAS2	b3708
+TRPS1	( b1260  and  b1261 )
+TRPS2	( b1260  and  b1261 )
+TRPS3	( b1260  and  b1261 )
+TRPt2rpp	( b0112  or  b3161  or  b3709 )
+TRPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+TRPTRS	b3384
+TRSARr	( b0509  or  b3125 )
+TSULabcpp	( ( b2422  and  b2425  and  b2424  and  b2423 )  or  ( b2422  and  b2424  and  b2423  and  b3917 ) )
+TSULtex	( b0241  or  b0929  or  b1377  or  b2215 )
+TTDCAtexi	b2344
+TTDCEAtexi	b2344
+TUNGSabcpp	( b0763  and  b0764  and  b0765 )
+TUNGStex	( b0929  or  b2215  or  b1377  or  b0241 )
+TYMtex	( b0241  or  b0929  or  b1377  or  b2215 )
+TYROXDApp	b1386
+TYRPpp	b4055
+TYRPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+TYRt2rpp	( b1907  or  b0112  or  b0576 )
+TYRTA	( b4054  or  b0928 )
+TYRtex	( b0241  or  b0929  or  b1377  or  b2215 )
+TYRTRS	b1637
+U23GAAT	b0179
+UAAGDS	b0085
+UACGALPpp	b0480
+UACGAMPpp	b0480
+UACGAMtex	( b0241  or  b0929  or  b1377  or  b2215 )
+UACMAMO	b3787
+UAG2E	b3786
+UAGAAT	( b1094  and  b0181 )
+UAGCVT	b3189
+UAGDP	b3730
+UAGPT3	b0090
+UAMAGS	b0088
+UAMAS	b0091
+UAPGR	b3972
+UDCPDP	( b3057  or  b1278  or  b0841 )
+UDCPDPpp	( b0841  or  b1278  or  b3057 )
+UDCPDPS	b0174
+UDCPPtppi	
+UDPACGALtex	( b0241  or  b0929  or  b1377  or  b2215 )
+UDPG4E	b0759
+UDPGALM	b2036
+UDPGALPpp	b0480
+UDPGALtex	( b0241  or  b0929  or  b1377  or  b2215 )
+UDPGD	b2028
+UDPGDC	b2255
+UDPGLCURtex	( b0241  or  b0929  or  b1377  or  b2215 )
+UDPGPpp	b0480
+UDPGtex	( b0241  or  b0929  or  b1377  or  b2215 )
+UDPKAAT	b2253
+UGLCURPpp	b0480
+UGLT	b0758
+UGLYCH	b0505
+UGMDDS	b0086
+UHGADA	b0096
+ULA4NFT	b2255
+ULA4Ntppi	
+UM3PL	b4233
+UM4PCP	b1192
+UM4PL	b4233
+UMPK	( b0910  or  b0171 )
+UMPtex	( b0929  or  b1377  or  b2215  or  b0241 )
+UNK3	
+UPLA4FNF	
+UPLA4FNT	b2254
+UPP3MT	( b3803  or  b3368 )
+UPP3S	b3804
+UPPDC1	b3997
+UPPRT	b2498
+URAt2pp	b2497
+URAt2rpp	b1006
+URAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+URDGLYCD	b0517
+UREAtex	( b0241  or  b0929  or  b1377  or  b2215 )
+UREAtpp	b3927
+URIC	
+URIDK2r	b0171
+URIH	( b2162  or  b0651  or  b0030 )
+URIK2	b2066
+URIt2pp	( b2393  or  b2964 )
+URIt2rpp	b2406
+URItex	b0411
+USHD	b0524
+VALabcpp	( b3454  and  b3455  and  b3457  and  b3460  and  b3456 )
+VALt2rpp	b0401
+VALTA	b3770
+VALtex	( b0241  or  b0929  or  b1377  or  b2215 )
+VALTRS	b4258
+VPAMT	b3572
+X5PL3E	b4197
+XAND	( b2866  and  b2867  and  b2868 )
+XANt2pp	b3654
+XANtex	( b0241  or  b0929  or  b1377  or  b2215 )
+XANtpp	
+XMPtex	( b0241  or  b0929  or  b1377  or  b2215 )
+XPPT	b0238
+XTSNH	b0030
+XTSNt2rpp	b2406
+XTSNtex	( b0241  or  b0929  or  b1377  or  b2215 )
+XYLabcpp	( b3566  and  b3567  and  b3568 )
+XYLI1	b3565
+XYLI2	b3565
+XYLK	( b3564  or  b0063 )
+XYLK2	( b0063  or  b3580 )
+XYLt2pp	b4031
+XYLtex	( b0241  or  b0929  or  b1377  or  b2215 )
+XYLUt2pp	( b3577  and  b3578  and  b3579 )
+XYLUtex	( b0241  or  b0929  or  b1377  or  b2215 )
+ZN2abcpp	b3469
+ZN2t3pp	( b0752  or  b3915 )
+Zn2tex	( b0241  or  b0929  or  b1377  or  b2215 )
+ZN2tpp	b3040
+ZNabcpp	( b1857  and  b1859  and  b1858 )
